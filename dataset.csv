@@ -1,0 +1,4663 @@
+Year,District Code,District Name,Neighborhood Code,Age,Immigrants,Emigrants
+2017,1,Ciutat Vella,1,0-4,154,108
+2017,1,Ciutat Vella,2,0-4,58,33
+2017,1,Ciutat Vella,3,0-4,38,37
+2017,1,Ciutat Vella,4,0-4,56,55
+2017,2,Eixample,5,0-4,79,60
+2017,2,Eixample,6,0-4,111,95
+2017,2,Eixample,7,0-4,121,78
+2017,2,Eixample,8,0-4,97,63
+2017,2,Eixample,9,0-4,123,130
+2017,2,Eixample,10,0-4,57,80
+2017,3,Sants-Montjuïc,11,0-4,80,99
+2017,3,Sants-Montjuïc,12,0-4,1,2
+2017,3,Sants-Montjuïc,13,0-4,71,59
+2017,3,Sants-Montjuïc,14,0-4,14,15
+2017,3,Sants-Montjuïc,15,0-4,31,37
+2017,3,Sants-Montjuïc,16,0-4,33,39
+2017,3,Sants-Montjuïc,17,0-4,49,57
+2017,3,Sants-Montjuïc,18,0-4,106,83
+2017,4,Les Corts,19,0-4,103,73
+2017,4,Les Corts,20,0-4,81,55
+2017,4,Les Corts,21,0-4,36,16
+2017,5,Sarrià-Sant Gervasi,22,0-4,20,16
+2017,5,Sarrià-Sant Gervasi,23,0-4,87,61
+2017,5,Sarrià-Sant Gervasi,24,0-4,72,28
+2017,5,Sarrià-Sant Gervasi,25,0-4,59,30
+2017,5,Sarrià-Sant Gervasi,26,0-4,141,82
+2017,5,Sarrià-Sant Gervasi,27,0-4,74,64
+2017,6,Gràcia,28,0-4,37,39
+2017,6,Gràcia,29,0-4,18,16
+2017,6,Gràcia,30,0-4,41,23
+2017,6,Gràcia,31,0-4,88,104
+2017,6,Gràcia,32,0-4,73,68
+2017,7,Horta-Guinardó,33,0-4,48,44
+2017,7,Horta-Guinardó,34,0-4,16,17
+2017,7,Horta-Guinardó,35,0-4,72,71
+2017,7,Horta-Guinardó,36,0-4,14,9
+2017,7,Horta-Guinardó,37,0-4,66,65
+2017,7,Horta-Guinardó,38,0-4,15,18
+2017,7,Horta-Guinardó,39,0-4,15,18
+2017,7,Horta-Guinardó,40,0-4,11,6
+2017,7,Horta-Guinardó,41,0-4,11,7
+2017,7,Horta-Guinardó,42,0-4,1,0
+2017,7,Horta-Guinardó,43,0-4,50,38
+2017,8,Nou Barris,44,0-4,51,36
+2017,8,Nou Barris,45,0-4,66,49
+2017,8,Nou Barris,46,0-4,64,35
+2017,8,Nou Barris,47,0-4,3,1
+2017,8,Nou Barris,48,0-4,23,33
+2017,8,Nou Barris,49,0-4,6,7
+2017,8,Nou Barris,50,0-4,57,26
+2017,8,Nou Barris,51,0-4,33,19
+2017,8,Nou Barris,52,0-4,56,44
+2017,8,Nou Barris,53,0-4,22,25
+2017,8,Nou Barris,54,0-4,5,4
+2017,8,Nou Barris,55,0-4,47,25
+2017,8,Nou Barris,56,0-4,5,9
+2017,9,Sant Andreu,57,0-4,40,29
+2017,9,Sant Andreu,58,0-4,5,5
+2017,9,Sant Andreu,59,0-4,31,29
+2017,9,Sant Andreu,60,0-4,90,70
+2017,9,Sant Andreu,61,0-4,45,43
+2017,9,Sant Andreu,62,0-4,17,19
+2017,9,Sant Andreu,63,0-4,26,32
+2017,10,Sant Martí,64,0-4,88,75
+2017,10,Sant Martí,65,0-4,43,25
+2017,10,Sant Martí,66,0-4,30,26
+2017,10,Sant Martí,67,0-4,29,18
+2017,10,Sant Martí,68,0-4,94,75
+2017,10,Sant Martí,69,0-4,68,61
+2017,10,Sant Martí,70,0-4,125,67
+2017,10,Sant Martí,71,0-4,53,38
+2017,10,Sant Martí,72,0-4,48,38
+2017,10,Sant Martí,73,0-4,70,50
+2017,99,No consta,99,0-4,0,0
+2017,1,Ciutat Vella,1,9-May,133,85
+2017,1,Ciutat Vella,2,9-May,46,20
+2017,1,Ciutat Vella,3,9-May,26,23
+2017,1,Ciutat Vella,4,9-May,39,26
+2017,2,Eixample,5,9-May,59,42
+2017,2,Eixample,6,9-May,81,44
+2017,2,Eixample,7,9-May,75,60
+2017,2,Eixample,8,9-May,63,34
+2017,2,Eixample,9,9-May,91,53
+2017,2,Eixample,10,9-May,43,37
+2017,3,Sants-Montjuïc,11,9-May,60,57
+2017,3,Sants-Montjuïc,12,9-May,2,1
+2017,3,Sants-Montjuïc,13,9-May,54,41
+2017,3,Sants-Montjuïc,14,9-May,13,9
+2017,3,Sants-Montjuïc,15,9-May,22,14
+2017,3,Sants-Montjuïc,16,9-May,27,21
+2017,3,Sants-Montjuïc,17,9-May,42,40
+2017,3,Sants-Montjuïc,18,9-May,79,45
+2017,4,Les Corts,19,9-May,71,31
+2017,4,Les Corts,20,9-May,44,43
+2017,4,Les Corts,21,9-May,40,25
+2017,5,Sarrià-Sant Gervasi,22,9-May,12,8
+2017,5,Sarrià-Sant Gervasi,23,9-May,61,23
+2017,5,Sarrià-Sant Gervasi,24,9-May,49,27
+2017,5,Sarrià-Sant Gervasi,25,9-May,41,19
+2017,5,Sarrià-Sant Gervasi,26,9-May,80,59
+2017,5,Sarrià-Sant Gervasi,27,9-May,54,38
+2017,6,Gràcia,28,9-May,28,13
+2017,6,Gràcia,29,9-May,9,4
+2017,6,Gràcia,30,9-May,24,10
+2017,6,Gràcia,31,9-May,58,53
+2017,6,Gràcia,32,9-May,34,36
+2017,7,Horta-Guinardó,33,9-May,30,25
+2017,7,Horta-Guinardó,34,9-May,13,8
+2017,7,Horta-Guinardó,35,9-May,39,40
+2017,7,Horta-Guinardó,36,9-May,4,5
+2017,7,Horta-Guinardó,37,9-May,50,36
+2017,7,Horta-Guinardó,38,9-May,16,11
+2017,7,Horta-Guinardó,39,9-May,15,4
+2017,7,Horta-Guinardó,40,9-May,6,5
+2017,7,Horta-Guinardó,41,9-May,7,4
+2017,7,Horta-Guinardó,42,9-May,3,1
+2017,7,Horta-Guinardó,43,9-May,33,22
+2017,8,Nou Barris,44,9-May,35,26
+2017,8,Nou Barris,45,9-May,57,22
+2017,8,Nou Barris,46,9-May,36,14
+2017,8,Nou Barris,47,9-May,2,1
+2017,8,Nou Barris,48,9-May,20,11
+2017,8,Nou Barris,49,9-May,3,2
+2017,8,Nou Barris,50,9-May,32,17
+2017,8,Nou Barris,51,9-May,36,25
+2017,8,Nou Barris,52,9-May,35,35
+2017,8,Nou Barris,53,9-May,21,18
+2017,8,Nou Barris,54,9-May,10,12
+2017,8,Nou Barris,55,9-May,42,24
+2017,8,Nou Barris,56,9-May,7,3
+2017,9,Sant Andreu,57,9-May,38,20
+2017,9,Sant Andreu,58,9-May,5,5
+2017,9,Sant Andreu,59,9-May,28,22
+2017,9,Sant Andreu,60,9-May,56,55
+2017,9,Sant Andreu,61,9-May,48,25
+2017,9,Sant Andreu,62,9-May,15,13
+2017,9,Sant Andreu,63,9-May,24,19
+2017,10,Sant Martí,64,9-May,38,39
+2017,10,Sant Martí,65,9-May,19,18
+2017,10,Sant Martí,66,9-May,12,7
+2017,10,Sant Martí,67,9-May,21,9
+2017,10,Sant Martí,68,9-May,44,49
+2017,10,Sant Martí,69,9-May,36,30
+2017,10,Sant Martí,70,9-May,87,54
+2017,10,Sant Martí,71,9-May,23,22
+2017,10,Sant Martí,72,9-May,31,18
+2017,10,Sant Martí,73,9-May,47,28
+2017,99,No consta,99,9-May,0,0
+2017,1,Ciutat Vella,1,14-Oct,117,56
+2017,1,Ciutat Vella,2,14-Oct,26,10
+2017,1,Ciutat Vella,3,14-Oct,11,14
+2017,1,Ciutat Vella,4,14-Oct,36,24
+2017,2,Eixample,5,14-Oct,42,23
+2017,2,Eixample,6,14-Oct,77,34
+2017,2,Eixample,7,14-Oct,61,43
+2017,2,Eixample,8,14-Oct,54,36
+2017,2,Eixample,9,14-Oct,51,40
+2017,2,Eixample,10,14-Oct,57,37
+2017,3,Sants-Montjuïc,11,14-Oct,64,54
+2017,3,Sants-Montjuïc,12,14-Oct,0,6
+2017,3,Sants-Montjuïc,13,14-Oct,66,38
+2017,3,Sants-Montjuïc,14,14-Oct,8,11
+2017,3,Sants-Montjuïc,15,14-Oct,23,15
+2017,3,Sants-Montjuïc,16,14-Oct,28,27
+2017,3,Sants-Montjuïc,17,14-Oct,42,19
+2017,3,Sants-Montjuïc,18,14-Oct,69,40
+2017,4,Les Corts,19,14-Oct,58,26
+2017,4,Les Corts,20,14-Oct,42,33
+2017,4,Les Corts,21,14-Oct,66,16
+2017,5,Sarrià-Sant Gervasi,22,14-Oct,7,5
+2017,5,Sarrià-Sant Gervasi,23,14-Oct,57,33
+2017,5,Sarrià-Sant Gervasi,24,14-Oct,34,17
+2017,5,Sarrià-Sant Gervasi,25,14-Oct,81,15
+2017,5,Sarrià-Sant Gervasi,26,14-Oct,105,54
+2017,5,Sarrià-Sant Gervasi,27,14-Oct,64,22
+2017,6,Gràcia,28,14-Oct,20,11
+2017,6,Gràcia,29,14-Oct,21,5
+2017,6,Gràcia,30,14-Oct,19,8
+2017,6,Gràcia,31,14-Oct,49,29
+2017,6,Gràcia,32,14-Oct,35,29
+2017,7,Horta-Guinardó,33,14-Oct,36,24
+2017,7,Horta-Guinardó,34,14-Oct,5,6
+2017,7,Horta-Guinardó,35,14-Oct,54,33
+2017,7,Horta-Guinardó,36,14-Oct,9,7
+2017,7,Horta-Guinardó,37,14-Oct,42,17
+2017,7,Horta-Guinardó,38,14-Oct,15,21
+2017,7,Horta-Guinardó,39,14-Oct,25,10
+2017,7,Horta-Guinardó,40,14-Oct,6,7
+2017,7,Horta-Guinardó,41,14-Oct,7,4
+2017,7,Horta-Guinardó,42,14-Oct,0,0
+2017,7,Horta-Guinardó,43,14-Oct,49,18
+2017,8,Nou Barris,44,14-Oct,36,15
+2017,8,Nou Barris,45,14-Oct,54,29
+2017,8,Nou Barris,46,14-Oct,41,17
+2017,8,Nou Barris,47,14-Oct,1,1
+2017,8,Nou Barris,48,14-Oct,20,17
+2017,8,Nou Barris,49,14-Oct,5,2
+2017,8,Nou Barris,50,14-Oct,42,20
+2017,8,Nou Barris,51,14-Oct,21,26
+2017,8,Nou Barris,52,14-Oct,39,14
+2017,8,Nou Barris,53,14-Oct,21,18
+2017,8,Nou Barris,54,14-Oct,6,8
+2017,8,Nou Barris,55,14-Oct,31,13
+2017,8,Nou Barris,56,14-Oct,3,1
+2017,9,Sant Andreu,57,14-Oct,28,14
+2017,9,Sant Andreu,58,14-Oct,4,3
+2017,9,Sant Andreu,59,14-Oct,26,16
+2017,9,Sant Andreu,60,14-Oct,55,22
+2017,9,Sant Andreu,61,14-Oct,47,28
+2017,9,Sant Andreu,62,14-Oct,16,12
+2017,9,Sant Andreu,63,14-Oct,36,19
+2017,10,Sant Martí,64,14-Oct,46,29
+2017,10,Sant Martí,65,14-Oct,32,15
+2017,10,Sant Martí,66,14-Oct,19,17
+2017,10,Sant Martí,67,14-Oct,8,13
+2017,10,Sant Martí,68,14-Oct,44,32
+2017,10,Sant Martí,69,14-Oct,27,9
+2017,10,Sant Martí,70,14-Oct,86,34
+2017,10,Sant Martí,71,14-Oct,26,16
+2017,10,Sant Martí,72,14-Oct,28,16
+2017,10,Sant Martí,73,14-Oct,44,27
+2017,99,No consta,99,14-Oct,0,0
+2017,1,Ciutat Vella,1,15-19,257,64
+2017,1,Ciutat Vella,2,15-19,90,25
+2017,1,Ciutat Vella,3,15-19,44,10
+2017,1,Ciutat Vella,4,15-19,210,47
+2017,2,Eixample,5,15-19,87,20
+2017,2,Eixample,6,15-19,148,45
+2017,2,Eixample,7,15-19,107,33
+2017,2,Eixample,8,15-19,109,27
+2017,2,Eixample,9,15-19,153,55
+2017,2,Eixample,10,15-19,91,40
+2017,3,Sants-Montjuïc,11,15-19,173,62
+2017,3,Sants-Montjuïc,12,15-19,1,3
+2017,3,Sants-Montjuïc,13,15-19,123,66
+2017,3,Sants-Montjuïc,14,15-19,29,8
+2017,3,Sants-Montjuïc,15,15-19,54,16
+2017,3,Sants-Montjuïc,16,15-19,41,25
+2017,3,Sants-Montjuïc,17,15-19,67,34
+2017,3,Sants-Montjuïc,18,15-19,120,51
+2017,4,Les Corts,19,15-19,116,49
+2017,4,Les Corts,20,15-19,44,31
+2017,4,Les Corts,21,15-19,66,20
+2017,5,Sarrià-Sant Gervasi,22,15-19,5,3
+2017,5,Sarrià-Sant Gervasi,23,15-19,76,32
+2017,5,Sarrià-Sant Gervasi,24,15-19,36,16
+2017,5,Sarrià-Sant Gervasi,25,15-19,95,28
+2017,5,Sarrià-Sant Gervasi,26,15-19,119,48
+2017,5,Sarrià-Sant Gervasi,27,15-19,61,24
+2017,6,Gràcia,28,15-19,30,12
+2017,6,Gràcia,29,15-19,19,7
+2017,6,Gràcia,30,15-19,77,14
+2017,6,Gràcia,31,15-19,109,28
+2017,6,Gràcia,32,15-19,47,23
+2017,7,Horta-Guinardó,33,15-19,41,6
+2017,7,Horta-Guinardó,34,15-19,19,9
+2017,7,Horta-Guinardó,35,15-19,75,31
+2017,7,Horta-Guinardó,36,15-19,13,2
+2017,7,Horta-Guinardó,37,15-19,76,44
+2017,7,Horta-Guinardó,38,15-19,24,10
+2017,7,Horta-Guinardó,39,15-19,47,13
+2017,7,Horta-Guinardó,40,15-19,7,3
+2017,7,Horta-Guinardó,41,15-19,9,6
+2017,7,Horta-Guinardó,42,15-19,4,1
+2017,7,Horta-Guinardó,43,15-19,70,18
+2017,8,Nou Barris,44,15-19,55,31
+2017,8,Nou Barris,45,15-19,74,33
+2017,8,Nou Barris,46,15-19,60,17
+2017,8,Nou Barris,47,15-19,6,9
+2017,8,Nou Barris,48,15-19,20,13
+2017,8,Nou Barris,49,15-19,9,2
+2017,8,Nou Barris,50,15-19,55,27
+2017,8,Nou Barris,51,15-19,47,15
+2017,8,Nou Barris,52,15-19,79,35
+2017,8,Nou Barris,53,15-19,28,14
+2017,8,Nou Barris,54,15-19,4,3
+2017,8,Nou Barris,55,15-19,55,14
+2017,8,Nou Barris,56,15-19,3,4
+2017,9,Sant Andreu,57,15-19,48,16
+2017,9,Sant Andreu,58,15-19,5,2
+2017,9,Sant Andreu,59,15-19,45,12
+2017,9,Sant Andreu,60,15-19,74,53
+2017,9,Sant Andreu,61,15-19,55,22
+2017,9,Sant Andreu,62,15-19,35,6
+2017,9,Sant Andreu,63,15-19,47,16
+2017,10,Sant Martí,64,15-19,64,29
+2017,10,Sant Martí,65,15-19,51,29
+2017,10,Sant Martí,66,15-19,83,11
+2017,10,Sant Martí,67,15-19,15,14
+2017,10,Sant Martí,68,15-19,54,30
+2017,10,Sant Martí,69,15-19,31,16
+2017,10,Sant Martí,70,15-19,111,35
+2017,10,Sant Martí,71,15-19,31,25
+2017,10,Sant Martí,72,15-19,48,34
+2017,10,Sant Martí,73,15-19,64,34
+2017,99,No consta,99,15-19,0,0
+2017,1,Ciutat Vella,1,20-24,864,157
+2017,1,Ciutat Vella,2,20-24,493,45
+2017,1,Ciutat Vella,3,20-24,342,38
+2017,1,Ciutat Vella,4,20-24,458,91
+2017,2,Eixample,5,20-24,324,62
+2017,2,Eixample,6,20-24,537,97
+2017,2,Eixample,7,20-24,458,61
+2017,2,Eixample,8,20-24,521,75
+2017,2,Eixample,9,20-24,552,94
+2017,2,Eixample,10,20-24,359,85
+2017,3,Sants-Montjuïc,11,20-24,429,127
+2017,3,Sants-Montjuïc,12,20-24,6,6
+2017,3,Sants-Montjuïc,13,20-24,177,88
+2017,3,Sants-Montjuïc,14,20-24,82,30
+2017,3,Sants-Montjuïc,15,20-24,169,50
+2017,3,Sants-Montjuïc,16,20-24,112,50
+2017,3,Sants-Montjuïc,17,20-24,201,75
+2017,3,Sants-Montjuïc,18,20-24,420,145
+2017,4,Les Corts,19,20-24,273,86
+2017,4,Les Corts,20,20-24,182,46
+2017,4,Les Corts,21,20-24,57,15
+2017,5,Sarrià-Sant Gervasi,22,20-24,12,8
+2017,5,Sarrià-Sant Gervasi,23,20-24,96,46
+2017,5,Sarrià-Sant Gervasi,24,20-24,65,21
+2017,5,Sarrià-Sant Gervasi,25,20-24,126,41
+2017,5,Sarrià-Sant Gervasi,26,20-24,229,63
+2017,5,Sarrià-Sant Gervasi,27,20-24,173,38
+2017,6,Gràcia,28,20-24,110,23
+2017,6,Gràcia,29,20-24,53,14
+2017,6,Gràcia,30,20-24,87,25
+2017,6,Gràcia,31,20-24,473,82
+2017,6,Gràcia,32,20-24,239,43
+2017,7,Horta-Guinardó,33,20-24,151,36
+2017,7,Horta-Guinardó,34,20-24,53,15
+2017,7,Horta-Guinardó,35,20-24,234,81
+2017,7,Horta-Guinardó,36,20-24,33,11
+2017,7,Horta-Guinardó,37,20-24,200,69
+2017,7,Horta-Guinardó,38,20-24,73,24
+2017,7,Horta-Guinardó,39,20-24,42,24
+2017,7,Horta-Guinardó,40,20-24,27,10
+2017,7,Horta-Guinardó,41,20-24,14,8
+2017,7,Horta-Guinardó,42,20-24,6,1
+2017,7,Horta-Guinardó,43,20-24,123,56
+2017,8,Nou Barris,44,20-24,122,55
+2017,8,Nou Barris,45,20-24,161,61
+2017,8,Nou Barris,46,20-24,109,42
+2017,8,Nou Barris,47,20-24,4,6
+2017,8,Nou Barris,48,20-24,53,24
+2017,8,Nou Barris,49,20-24,14,3
+2017,8,Nou Barris,50,20-24,152,45
+2017,8,Nou Barris,51,20-24,88,32
+2017,8,Nou Barris,52,20-24,164,72
+2017,8,Nou Barris,53,20-24,64,24
+2017,8,Nou Barris,54,20-24,10,7
+2017,8,Nou Barris,55,20-24,113,45
+2017,8,Nou Barris,56,20-24,4,6
+2017,9,Sant Andreu,57,20-24,80,47
+2017,9,Sant Andreu,58,20-24,18,10
+2017,9,Sant Andreu,59,20-24,83,27
+2017,9,Sant Andreu,60,20-24,198,87
+2017,9,Sant Andreu,61,20-24,161,52
+2017,9,Sant Andreu,62,20-24,81,24
+2017,9,Sant Andreu,63,20-24,109,31
+2017,10,Sant Martí,64,20-24,298,78
+2017,10,Sant Martí,65,20-24,175,57
+2017,10,Sant Martí,66,20-24,171,17
+2017,10,Sant Martí,67,20-24,28,13
+2017,10,Sant Martí,68,20-24,165,42
+2017,10,Sant Martí,69,20-24,47,9
+2017,10,Sant Martí,70,20-24,271,102
+2017,10,Sant Martí,71,20-24,93,26
+2017,10,Sant Martí,72,20-24,110,65
+2017,10,Sant Martí,73,20-24,130,51
+2017,99,No consta,99,20-24,0,0
+2017,1,Ciutat Vella,1,25-29,1393,327
+2017,1,Ciutat Vella,2,25-29,763,131
+2017,1,Ciutat Vella,3,25-29,482,104
+2017,1,Ciutat Vella,4,25-29,795,162
+2017,2,Eixample,5,25-29,556,144
+2017,2,Eixample,6,25-29,912,244
+2017,2,Eixample,7,25-29,788,182
+2017,2,Eixample,8,25-29,927,206
+2017,2,Eixample,9,25-29,1092,268
+2017,2,Eixample,10,25-29,655,169
+2017,3,Sants-Montjuïc,11,25-29,780,205
+2017,3,Sants-Montjuïc,12,25-29,0,2
+2017,3,Sants-Montjuïc,13,25-29,228,121
+2017,3,Sants-Montjuïc,14,25-29,177,53
+2017,3,Sants-Montjuïc,15,25-29,321,89
+2017,3,Sants-Montjuïc,16,25-29,200,87
+2017,3,Sants-Montjuïc,17,25-29,303,145
+2017,3,Sants-Montjuïc,18,25-29,611,196
+2017,4,Les Corts,19,25-29,483,177
+2017,4,Les Corts,20,25-29,282,116
+2017,4,Les Corts,21,25-29,95,36
+2017,5,Sarrià-Sant Gervasi,22,25-29,19,8
+2017,5,Sarrià-Sant Gervasi,23,25-29,153,65
+2017,5,Sarrià-Sant Gervasi,24,25-29,69,37
+2017,5,Sarrià-Sant Gervasi,25,25-29,153,77
+2017,5,Sarrià-Sant Gervasi,26,25-29,414,156
+2017,5,Sarrià-Sant Gervasi,27,25-29,328,95
+2017,6,Gràcia,28,25-29,136,52
+2017,6,Gràcia,29,25-29,82,28
+2017,6,Gràcia,30,25-29,142,47
+2017,6,Gràcia,31,25-29,994,209
+2017,6,Gràcia,32,25-29,472,129
+2017,7,Horta-Guinardó,33,25-29,287,122
+2017,7,Horta-Guinardó,34,25-29,99,29
+2017,7,Horta-Guinardó,35,25-29,359,123
+2017,7,Horta-Guinardó,36,25-29,52,28
+2017,7,Horta-Guinardó,37,25-29,272,128
+2017,7,Horta-Guinardó,38,25-29,106,53
+2017,7,Horta-Guinardó,39,25-29,67,20
+2017,7,Horta-Guinardó,40,25-29,65,28
+2017,7,Horta-Guinardó,41,25-29,28,6
+2017,7,Horta-Guinardó,42,25-29,4,1
+2017,7,Horta-Guinardó,43,25-29,189,80
+2017,8,Nou Barris,44,25-29,186,81
+2017,8,Nou Barris,45,25-29,235,73
+2017,8,Nou Barris,46,25-29,131,62
+2017,8,Nou Barris,47,25-29,10,4
+2017,8,Nou Barris,48,25-29,73,43
+2017,8,Nou Barris,49,25-29,11,11
+2017,8,Nou Barris,50,25-29,126,61
+2017,8,Nou Barris,51,25-29,133,53
+2017,8,Nou Barris,52,25-29,208,81
+2017,8,Nou Barris,53,25-29,76,40
+2017,8,Nou Barris,54,25-29,11,9
+2017,8,Nou Barris,55,25-29,136,44
+2017,8,Nou Barris,56,25-29,8,12
+2017,9,Sant Andreu,57,25-29,106,54
+2017,9,Sant Andreu,58,25-29,9,8
+2017,9,Sant Andreu,59,25-29,113,56
+2017,9,Sant Andreu,60,25-29,332,175
+2017,9,Sant Andreu,61,25-29,268,104
+2017,9,Sant Andreu,62,25-29,101,42
+2017,9,Sant Andreu,63,25-29,202,82
+2017,10,Sant Martí,64,25-29,549,179
+2017,10,Sant Martí,65,25-29,298,87
+2017,10,Sant Martí,66,25-29,213,59
+2017,10,Sant Martí,67,25-29,65,18
+2017,10,Sant Martí,68,25-29,375,99
+2017,10,Sant Martí,69,25-29,93,32
+2017,10,Sant Martí,70,25-29,318,128
+2017,10,Sant Martí,71,25-29,189,61
+2017,10,Sant Martí,72,25-29,219,81
+2017,10,Sant Martí,73,25-29,191,95
+2017,99,No consta,99,25-29,1,0
+2017,1,Ciutat Vella,1,30-34,940,338
+2017,1,Ciutat Vella,2,30-34,470,130
+2017,1,Ciutat Vella,3,30-34,314,121
+2017,1,Ciutat Vella,4,30-34,469,167
+2017,2,Eixample,5,30-34,364,178
+2017,2,Eixample,6,30-34,589,287
+2017,2,Eixample,7,30-34,530,223
+2017,2,Eixample,8,30-34,615,233
+2017,2,Eixample,9,30-34,734,349
+2017,2,Eixample,10,30-34,442,204
+2017,3,Sants-Montjuïc,11,30-34,555,262
+2017,3,Sants-Montjuïc,12,30-34,10,2
+2017,3,Sants-Montjuïc,13,30-34,168,125
+2017,3,Sants-Montjuïc,14,30-34,102,54
+2017,3,Sants-Montjuïc,15,30-34,205,130
+2017,3,Sants-Montjuïc,16,30-34,188,91
+2017,3,Sants-Montjuïc,17,30-34,239,159
+2017,3,Sants-Montjuïc,18,30-34,454,277
+2017,4,Les Corts,19,30-34,331,196
+2017,4,Les Corts,20,30-34,196,137
+2017,4,Les Corts,21,30-34,85,41
+2017,5,Sarrià-Sant Gervasi,22,30-34,20,19
+2017,5,Sarrià-Sant Gervasi,23,30-34,140,92
+2017,5,Sarrià-Sant Gervasi,24,30-34,86,41
+2017,5,Sarrià-Sant Gervasi,25,30-34,128,81
+2017,5,Sarrià-Sant Gervasi,26,30-34,330,174
+2017,5,Sarrià-Sant Gervasi,27,30-34,229,135
+2017,6,Gràcia,28,30-34,132,65
+2017,6,Gràcia,29,30-34,60,23
+2017,6,Gràcia,30,30-34,121,52
+2017,6,Gràcia,31,30-34,760,304
+2017,6,Gràcia,32,30-34,328,168
+2017,7,Horta-Guinardó,33,30-34,201,113
+2017,7,Horta-Guinardó,34,30-34,93,39
+2017,7,Horta-Guinardó,35,30-34,306,142
+2017,7,Horta-Guinardó,36,30-34,41,28
+2017,7,Horta-Guinardó,37,30-34,209,128
+2017,7,Horta-Guinardó,38,30-34,82,54
+2017,7,Horta-Guinardó,39,30-34,28,27
+2017,7,Horta-Guinardó,40,30-34,42,21
+2017,7,Horta-Guinardó,41,30-34,39,18
+2017,7,Horta-Guinardó,42,30-34,7,1
+2017,7,Horta-Guinardó,43,30-34,161,84
+2017,8,Nou Barris,44,30-34,143,101
+2017,8,Nou Barris,45,30-34,168,86
+2017,8,Nou Barris,46,30-34,126,47
+2017,8,Nou Barris,47,30-34,3,3
+2017,8,Nou Barris,48,30-34,60,39
+2017,8,Nou Barris,49,30-34,18,17
+2017,8,Nou Barris,50,30-34,126,63
+2017,8,Nou Barris,51,30-34,85,55
+2017,8,Nou Barris,52,30-34,161,95
+2017,8,Nou Barris,53,30-34,58,29
+2017,8,Nou Barris,54,30-34,15,11
+2017,8,Nou Barris,55,30-34,116,56
+2017,8,Nou Barris,56,30-34,10,6
+2017,9,Sant Andreu,57,30-34,88,65
+2017,9,Sant Andreu,58,30-34,8,9
+2017,9,Sant Andreu,59,30-34,82,44
+2017,9,Sant Andreu,60,30-34,296,204
+2017,9,Sant Andreu,61,30-34,179,124
+2017,9,Sant Andreu,62,30-34,101,62
+2017,9,Sant Andreu,63,30-34,177,89
+2017,10,Sant Martí,64,30-34,389,198
+2017,10,Sant Martí,65,30-34,232,125
+2017,10,Sant Martí,66,30-34,146,68
+2017,10,Sant Martí,67,30-34,58,29
+2017,10,Sant Martí,68,30-34,331,153
+2017,10,Sant Martí,69,30-34,112,58
+2017,10,Sant Martí,70,30-34,237,116
+2017,10,Sant Martí,71,30-34,174,89
+2017,10,Sant Martí,72,30-34,188,87
+2017,10,Sant Martí,73,30-34,172,115
+2017,99,No consta,99,30-34,0,1
+2017,1,Ciutat Vella,1,35-39,594,296
+2017,1,Ciutat Vella,2,35-39,273,113
+2017,1,Ciutat Vella,3,35-39,181,122
+2017,1,Ciutat Vella,4,35-39,282,119
+2017,2,Eixample,5,35-39,249,148
+2017,2,Eixample,6,35-39,351,226
+2017,2,Eixample,7,35-39,309,198
+2017,2,Eixample,8,35-39,319,170
+2017,2,Eixample,9,35-39,406,247
+2017,2,Eixample,10,35-39,240,181
+2017,3,Sants-Montjuïc,11,35-39,341,232
+2017,3,Sants-Montjuïc,12,35-39,2,3
+2017,3,Sants-Montjuïc,13,35-39,164,106
+2017,3,Sants-Montjuïc,14,35-39,68,64
+2017,3,Sants-Montjuïc,15,35-39,107,81
+2017,3,Sants-Montjuïc,16,35-39,93,86
+2017,3,Sants-Montjuïc,17,35-39,165,143
+2017,3,Sants-Montjuïc,18,35-39,321,216
+2017,4,Les Corts,19,35-39,214,169
+2017,4,Les Corts,20,35-39,149,111
+2017,4,Les Corts,21,35-39,66,27
+2017,5,Sarrià-Sant Gervasi,22,35-39,25,18
+2017,5,Sarrià-Sant Gervasi,23,35-39,130,71
+2017,5,Sarrià-Sant Gervasi,24,35-39,70,42
+2017,5,Sarrià-Sant Gervasi,25,35-39,115,61
+2017,5,Sarrià-Sant Gervasi,26,35-39,217,136
+2017,5,Sarrià-Sant Gervasi,27,35-39,140,121
+2017,6,Gràcia,28,35-39,80,76
+2017,6,Gràcia,29,35-39,31,20
+2017,6,Gràcia,30,35-39,82,50
+2017,6,Gràcia,31,35-39,386,306
+2017,6,Gràcia,32,35-39,170,142
+2017,7,Horta-Guinardó,33,35-39,163,110
+2017,7,Horta-Guinardó,34,35-39,62,35
+2017,7,Horta-Guinardó,35,35-39,228,136
+2017,7,Horta-Guinardó,36,35-39,22,26
+2017,7,Horta-Guinardó,37,35-39,166,119
+2017,7,Horta-Guinardó,38,35-39,50,43
+2017,7,Horta-Guinardó,39,35-39,43,18
+2017,7,Horta-Guinardó,40,35-39,27,27
+2017,7,Horta-Guinardó,41,35-39,16,13
+2017,7,Horta-Guinardó,42,35-39,7,0
+2017,7,Horta-Guinardó,43,35-39,142,67
+2017,8,Nou Barris,44,35-39,117,83
+2017,8,Nou Barris,45,35-39,153,90
+2017,8,Nou Barris,46,35-39,86,56
+2017,8,Nou Barris,47,35-39,9,8
+2017,8,Nou Barris,48,35-39,47,39
+2017,8,Nou Barris,49,35-39,16,14
+2017,8,Nou Barris,50,35-39,93,76
+2017,8,Nou Barris,51,35-39,62,45
+2017,8,Nou Barris,52,35-39,126,82
+2017,8,Nou Barris,53,35-39,43,45
+2017,8,Nou Barris,54,35-39,7,12
+2017,8,Nou Barris,55,35-39,77,46
+2017,8,Nou Barris,56,35-39,8,8
+2017,9,Sant Andreu,57,35-39,67,56
+2017,9,Sant Andreu,58,35-39,9,5
+2017,9,Sant Andreu,59,35-39,62,55
+2017,9,Sant Andreu,60,35-39,225,187
+2017,9,Sant Andreu,61,35-39,173,120
+2017,9,Sant Andreu,62,35-39,57,51
+2017,9,Sant Andreu,63,35-39,103,76
+2017,10,Sant Martí,64,35-39,235,198
+2017,10,Sant Martí,65,35-39,141,103
+2017,10,Sant Martí,66,35-39,114,61
+2017,10,Sant Martí,67,35-39,46,34
+2017,10,Sant Martí,68,35-39,227,154
+2017,10,Sant Martí,69,35-39,121,89
+2017,10,Sant Martí,70,35-39,231,106
+2017,10,Sant Martí,71,35-39,115,80
+2017,10,Sant Martí,72,35-39,107,81
+2017,10,Sant Martí,73,35-39,122,84
+2017,99,No consta,99,35-39,0,0
+2017,1,Ciutat Vella,1,40-44,347,200
+2017,1,Ciutat Vella,2,40-44,155,91
+2017,1,Ciutat Vella,3,40-44,101,78
+2017,1,Ciutat Vella,4,40-44,143,112
+2017,2,Eixample,5,40-44,129,98
+2017,2,Eixample,6,40-44,206,147
+2017,2,Eixample,7,40-44,193,147
+2017,2,Eixample,8,40-44,197,146
+2017,2,Eixample,9,40-44,221,175
+2017,2,Eixample,10,40-44,173,114
+2017,3,Sants-Montjuïc,11,40-44,205,185
+2017,3,Sants-Montjuïc,12,40-44,4,5
+2017,3,Sants-Montjuïc,13,40-44,106,102
+2017,3,Sants-Montjuïc,14,40-44,45,38
+2017,3,Sants-Montjuïc,15,40-44,69,65
+2017,3,Sants-Montjuïc,16,40-44,62,68
+2017,3,Sants-Montjuïc,17,40-44,119,94
+2017,3,Sants-Montjuïc,18,40-44,197,162
+2017,4,Les Corts,19,40-44,199,107
+2017,4,Les Corts,20,40-44,91,88
+2017,4,Les Corts,21,40-44,73,41
+2017,5,Sarrià-Sant Gervasi,22,40-44,18,19
+2017,5,Sarrià-Sant Gervasi,23,40-44,128,67
+2017,5,Sarrià-Sant Gervasi,24,40-44,70,38
+2017,5,Sarrià-Sant Gervasi,25,40-44,93,55
+2017,5,Sarrià-Sant Gervasi,26,40-44,194,97
+2017,5,Sarrià-Sant Gervasi,27,40-44,109,85
+2017,6,Gràcia,28,40-44,48,46
+2017,6,Gràcia,29,40-44,24,19
+2017,6,Gràcia,30,40-44,41,40
+2017,6,Gràcia,31,40-44,219,162
+2017,6,Gràcia,32,40-44,114,82
+2017,7,Horta-Guinardó,33,40-44,75,72
+2017,7,Horta-Guinardó,34,40-44,35,35
+2017,7,Horta-Guinardó,35,40-44,125,117
+2017,7,Horta-Guinardó,36,40-44,32,15
+2017,7,Horta-Guinardó,37,40-44,101,86
+2017,7,Horta-Guinardó,38,40-44,37,35
+2017,7,Horta-Guinardó,39,40-44,20,18
+2017,7,Horta-Guinardó,40,40-44,13,15
+2017,7,Horta-Guinardó,41,40-44,13,13
+2017,7,Horta-Guinardó,42,40-44,3,4
+2017,7,Horta-Guinardó,43,40-44,96,65
+2017,8,Nou Barris,44,40-44,85,60
+2017,8,Nou Barris,45,40-44,108,68
+2017,8,Nou Barris,46,40-44,61,41
+2017,8,Nou Barris,47,40-44,3,2
+2017,8,Nou Barris,48,40-44,36,31
+2017,8,Nou Barris,49,40-44,16,8
+2017,8,Nou Barris,50,40-44,63,53
+2017,8,Nou Barris,51,40-44,48,31
+2017,8,Nou Barris,52,40-44,94,58
+2017,8,Nou Barris,53,40-44,46,32
+2017,8,Nou Barris,54,40-44,9,13
+2017,8,Nou Barris,55,40-44,65,43
+2017,8,Nou Barris,56,40-44,11,6
+2017,9,Sant Andreu,57,40-44,58,48
+2017,9,Sant Andreu,58,40-44,8,7
+2017,9,Sant Andreu,59,40-44,67,37
+2017,9,Sant Andreu,60,40-44,179,129
+2017,9,Sant Andreu,61,40-44,99,74
+2017,9,Sant Andreu,62,40-44,50,38
+2017,9,Sant Andreu,63,40-44,85,69
+2017,10,Sant Martí,64,40-44,147,123
+2017,10,Sant Martí,65,40-44,91,54
+2017,10,Sant Martí,66,40-44,49,51
+2017,10,Sant Martí,67,40-44,43,34
+2017,10,Sant Martí,68,40-44,152,105
+2017,10,Sant Martí,69,40-44,82,67
+2017,10,Sant Martí,70,40-44,195,90
+2017,10,Sant Martí,71,40-44,71,78
+2017,10,Sant Martí,72,40-44,72,68
+2017,10,Sant Martí,73,40-44,110,75
+2017,99,No consta,99,40-44,0,0
+2017,1,Ciutat Vella,1,45-49,229,136
+2017,1,Ciutat Vella,2,45-49,102,43
+2017,1,Ciutat Vella,3,45-49,72,36
+2017,1,Ciutat Vella,4,45-49,87,57
+2017,2,Eixample,5,45-49,90,74
+2017,2,Eixample,6,45-49,134,85
+2017,2,Eixample,7,45-49,154,85
+2017,2,Eixample,8,45-49,151,78
+2017,2,Eixample,9,45-49,164,126
+2017,2,Eixample,10,45-49,94,86
+2017,3,Sants-Montjuïc,11,45-49,113,117
+2017,3,Sants-Montjuïc,12,45-49,3,5
+2017,3,Sants-Montjuïc,13,45-49,101,79
+2017,3,Sants-Montjuïc,14,45-49,33,33
+2017,3,Sants-Montjuïc,15,45-49,58,32
+2017,3,Sants-Montjuïc,16,45-49,37,45
+2017,3,Sants-Montjuïc,17,45-49,68,64
+2017,3,Sants-Montjuïc,18,45-49,118,101
+2017,4,Les Corts,19,45-49,93,112
+2017,4,Les Corts,20,45-49,64,61
+2017,4,Les Corts,21,45-49,57,28
+2017,5,Sarrià-Sant Gervasi,22,45-49,18,11
+2017,5,Sarrià-Sant Gervasi,23,45-49,77,35
+2017,5,Sarrià-Sant Gervasi,24,45-49,45,26
+2017,5,Sarrià-Sant Gervasi,25,45-49,80,43
+2017,5,Sarrià-Sant Gervasi,26,45-49,168,89
+2017,5,Sarrià-Sant Gervasi,27,45-49,80,51
+2017,6,Gràcia,28,45-49,33,29
+2017,6,Gràcia,29,45-49,13,12
+2017,6,Gràcia,30,45-49,28,18
+2017,6,Gràcia,31,45-49,121,103
+2017,6,Gràcia,32,45-49,60,65
+2017,7,Horta-Guinardó,33,45-49,56,40
+2017,7,Horta-Guinardó,34,45-49,16,19
+2017,7,Horta-Guinardó,35,45-49,94,75
+2017,7,Horta-Guinardó,36,45-49,7,4
+2017,7,Horta-Guinardó,37,45-49,67,35
+2017,7,Horta-Guinardó,38,45-49,17,36
+2017,7,Horta-Guinardó,39,45-49,14,10
+2017,7,Horta-Guinardó,40,45-49,15,12
+2017,7,Horta-Guinardó,41,45-49,11,8
+2017,7,Horta-Guinardó,42,45-49,2,1
+2017,7,Horta-Guinardó,43,45-49,60,39
+2017,8,Nou Barris,44,45-49,60,45
+2017,8,Nou Barris,45,45-49,108,52
+2017,8,Nou Barris,46,45-49,44,30
+2017,8,Nou Barris,47,45-49,5,5
+2017,8,Nou Barris,48,45-49,38,27
+2017,8,Nou Barris,49,45-49,8,3
+2017,8,Nou Barris,50,45-49,55,32
+2017,8,Nou Barris,51,45-49,36,19
+2017,8,Nou Barris,52,45-49,74,48
+2017,8,Nou Barris,53,45-49,23,19
+2017,8,Nou Barris,54,45-49,5,2
+2017,8,Nou Barris,55,45-49,45,32
+2017,8,Nou Barris,56,45-49,3,2
+2017,9,Sant Andreu,57,45-49,36,26
+2017,9,Sant Andreu,58,45-49,5,6
+2017,9,Sant Andreu,59,45-49,35,27
+2017,9,Sant Andreu,60,45-49,108,96
+2017,9,Sant Andreu,61,45-49,66,42
+2017,9,Sant Andreu,62,45-49,43,28
+2017,9,Sant Andreu,63,45-49,47,34
+2017,10,Sant Martí,64,45-49,91,69
+2017,10,Sant Martí,65,45-49,71,50
+2017,10,Sant Martí,66,45-49,28,32
+2017,10,Sant Martí,67,45-49,23,20
+2017,10,Sant Martí,68,45-49,77,74
+2017,10,Sant Martí,69,45-49,38,28
+2017,10,Sant Martí,70,45-49,106,66
+2017,10,Sant Martí,71,45-49,49,46
+2017,10,Sant Martí,72,45-49,62,49
+2017,10,Sant Martí,73,45-49,72,61
+2017,99,No consta,99,45-49,0,0
+2017,1,Ciutat Vella,1,50-54,132,88
+2017,1,Ciutat Vella,2,50-54,81,38
+2017,1,Ciutat Vella,3,50-54,53,34
+2017,1,Ciutat Vella,4,50-54,73,45
+2017,2,Eixample,5,50-54,82,62
+2017,2,Eixample,6,50-54,115,88
+2017,2,Eixample,7,50-54,114,57
+2017,2,Eixample,8,50-54,115,66
+2017,2,Eixample,9,50-54,124,89
+2017,2,Eixample,10,50-54,79,74
+2017,3,Sants-Montjuïc,11,50-54,100,81
+2017,3,Sants-Montjuïc,12,50-54,1,2
+2017,3,Sants-Montjuïc,13,50-54,63,53
+2017,3,Sants-Montjuïc,14,50-54,20,12
+2017,3,Sants-Montjuïc,15,50-54,29,23
+2017,3,Sants-Montjuïc,16,50-54,33,36
+2017,3,Sants-Montjuïc,17,50-54,55,38
+2017,3,Sants-Montjuïc,18,50-54,106,83
+2017,4,Les Corts,19,50-54,79,74
+2017,4,Les Corts,20,50-54,40,38
+2017,4,Les Corts,21,50-54,32,31
+2017,5,Sarrià-Sant Gervasi,22,50-54,11,7
+2017,5,Sarrià-Sant Gervasi,23,50-54,58,41
+2017,5,Sarrià-Sant Gervasi,24,50-54,25,37
+2017,5,Sarrià-Sant Gervasi,25,50-54,59,45
+2017,5,Sarrià-Sant Gervasi,26,50-54,129,70
+2017,5,Sarrià-Sant Gervasi,27,50-54,61,41
+2017,6,Gràcia,28,50-54,34,20
+2017,6,Gràcia,29,50-54,10,14
+2017,6,Gràcia,30,50-54,16,22
+2017,6,Gràcia,31,50-54,83,82
+2017,6,Gràcia,32,50-54,50,34
+2017,7,Horta-Guinardó,33,50-54,33,38
+2017,7,Horta-Guinardó,34,50-54,16,19
+2017,7,Horta-Guinardó,35,50-54,86,50
+2017,7,Horta-Guinardó,36,50-54,17,10
+2017,7,Horta-Guinardó,37,50-54,52,48
+2017,7,Horta-Guinardó,38,50-54,21,14
+2017,7,Horta-Guinardó,39,50-54,24,11
+2017,7,Horta-Guinardó,40,50-54,7,4
+2017,7,Horta-Guinardó,41,50-54,10,6
+2017,7,Horta-Guinardó,42,50-54,2,0
+2017,7,Horta-Guinardó,43,50-54,41,44
+2017,8,Nou Barris,44,50-54,46,38
+2017,8,Nou Barris,45,50-54,72,45
+2017,8,Nou Barris,46,50-54,31,33
+2017,8,Nou Barris,47,50-54,6,5
+2017,8,Nou Barris,48,50-54,39,20
+2017,8,Nou Barris,49,50-54,7,7
+2017,8,Nou Barris,50,50-54,42,40
+2017,8,Nou Barris,51,50-54,20,21
+2017,8,Nou Barris,52,50-54,53,25
+2017,8,Nou Barris,53,50-54,10,9
+2017,8,Nou Barris,54,50-54,9,4
+2017,8,Nou Barris,55,50-54,49,22
+2017,8,Nou Barris,56,50-54,3,2
+2017,9,Sant Andreu,57,50-54,29,23
+2017,9,Sant Andreu,58,50-54,3,6
+2017,9,Sant Andreu,59,50-54,30,23
+2017,9,Sant Andreu,60,50-54,92,65
+2017,9,Sant Andreu,61,50-54,59,43
+2017,9,Sant Andreu,62,50-54,29,26
+2017,9,Sant Andreu,63,50-54,31,34
+2017,10,Sant Martí,64,50-54,68,53
+2017,10,Sant Martí,65,50-54,40,49
+2017,10,Sant Martí,66,50-54,14,23
+2017,10,Sant Martí,67,50-54,22,13
+2017,10,Sant Martí,68,50-54,57,55
+2017,10,Sant Martí,69,50-54,47,19
+2017,10,Sant Martí,70,50-54,81,47
+2017,10,Sant Martí,71,50-54,50,26
+2017,10,Sant Martí,72,50-54,43,39
+2017,10,Sant Martí,73,50-54,63,34
+2017,99,No consta,99,50-54,0,1
+2017,1,Ciutat Vella,1,55-59,95,61
+2017,1,Ciutat Vella,2,55-59,55,21
+2017,1,Ciutat Vella,3,55-59,38,18
+2017,1,Ciutat Vella,4,55-59,32,34
+2017,2,Eixample,5,55-59,46,42
+2017,2,Eixample,6,55-59,88,80
+2017,2,Eixample,7,55-59,89,60
+2017,2,Eixample,8,55-59,92,40
+2017,2,Eixample,9,55-59,79,63
+2017,2,Eixample,10,55-59,51,44
+2017,3,Sants-Montjuïc,11,55-59,68,49
+2017,3,Sants-Montjuïc,12,55-59,0,1
+2017,3,Sants-Montjuïc,13,55-59,51,30
+2017,3,Sants-Montjuïc,14,55-59,9,15
+2017,3,Sants-Montjuïc,15,55-59,23,25
+2017,3,Sants-Montjuïc,16,55-59,22,18
+2017,3,Sants-Montjuïc,17,55-59,48,25
+2017,3,Sants-Montjuïc,18,55-59,68,54
+2017,4,Les Corts,19,55-59,49,50
+2017,4,Les Corts,20,55-59,32,23
+2017,4,Les Corts,21,55-59,22,20
+2017,5,Sarrià-Sant Gervasi,22,55-59,4,7
+2017,5,Sarrià-Sant Gervasi,23,55-59,39,33
+2017,5,Sarrià-Sant Gervasi,24,55-59,19,14
+2017,5,Sarrià-Sant Gervasi,25,55-59,31,22
+2017,5,Sarrià-Sant Gervasi,26,55-59,100,65
+2017,5,Sarrià-Sant Gervasi,27,55-59,32,35
+2017,6,Gràcia,28,55-59,28,29
+2017,6,Gràcia,29,55-59,8,8
+2017,6,Gràcia,30,55-59,12,17
+2017,6,Gràcia,31,55-59,69,47
+2017,6,Gràcia,32,55-59,37,33
+2017,7,Horta-Guinardó,33,55-59,44,25
+2017,7,Horta-Guinardó,34,55-59,14,13
+2017,7,Horta-Guinardó,35,55-59,44,44
+2017,7,Horta-Guinardó,36,55-59,7,8
+2017,7,Horta-Guinardó,37,55-59,35,34
+2017,7,Horta-Guinardó,38,55-59,14,3
+2017,7,Horta-Guinardó,39,55-59,12,8
+2017,7,Horta-Guinardó,40,55-59,3,8
+2017,7,Horta-Guinardó,41,55-59,10,4
+2017,7,Horta-Guinardó,42,55-59,0,2
+2017,7,Horta-Guinardó,43,55-59,33,29
+2017,8,Nou Barris,44,55-59,37,35
+2017,8,Nou Barris,45,55-59,54,27
+2017,8,Nou Barris,46,55-59,34,19
+2017,8,Nou Barris,47,55-59,1,2
+2017,8,Nou Barris,48,55-59,19,12
+2017,8,Nou Barris,49,55-59,7,10
+2017,8,Nou Barris,50,55-59,29,26
+2017,8,Nou Barris,51,55-59,13,9
+2017,8,Nou Barris,52,55-59,31,31
+2017,8,Nou Barris,53,55-59,14,10
+2017,8,Nou Barris,54,55-59,0,2
+2017,8,Nou Barris,55,55-59,22,7
+2017,8,Nou Barris,56,55-59,1,3
+2017,9,Sant Andreu,57,55-59,24,12
+2017,9,Sant Andreu,58,55-59,3,8
+2017,9,Sant Andreu,59,55-59,20,18
+2017,9,Sant Andreu,60,55-59,70,54
+2017,9,Sant Andreu,61,55-59,39,30
+2017,9,Sant Andreu,62,55-59,19,18
+2017,9,Sant Andreu,63,55-59,27,29
+2017,10,Sant Martí,64,55-59,52,31
+2017,10,Sant Martí,65,55-59,29,33
+2017,10,Sant Martí,66,55-59,25,11
+2017,10,Sant Martí,67,55-59,13,17
+2017,10,Sant Martí,68,55-59,33,39
+2017,10,Sant Martí,69,55-59,27,22
+2017,10,Sant Martí,70,55-59,54,35
+2017,10,Sant Martí,71,55-59,31,24
+2017,10,Sant Martí,72,55-59,35,36
+2017,10,Sant Martí,73,55-59,39,26
+2017,99,No consta,99,55-59,0,1
+2017,1,Ciutat Vella,1,60-64,60,43
+2017,1,Ciutat Vella,2,60-64,33,23
+2017,1,Ciutat Vella,3,60-64,30,21
+2017,1,Ciutat Vella,4,60-64,37,28
+2017,2,Eixample,5,60-64,36,36
+2017,2,Eixample,6,60-64,77,54
+2017,2,Eixample,7,60-64,73,61
+2017,2,Eixample,8,60-64,65,57
+2017,2,Eixample,9,60-64,73,60
+2017,2,Eixample,10,60-64,39,38
+2017,3,Sants-Montjuïc,11,60-64,55,32
+2017,3,Sants-Montjuïc,12,60-64,0,1
+2017,3,Sants-Montjuïc,13,60-64,36,29
+2017,3,Sants-Montjuïc,14,60-64,12,16
+2017,3,Sants-Montjuïc,15,60-64,22,18
+2017,3,Sants-Montjuïc,16,60-64,20,24
+2017,3,Sants-Montjuïc,17,60-64,30,24
+2017,3,Sants-Montjuïc,18,60-64,48,57
+2017,4,Les Corts,19,60-64,62,47
+2017,4,Les Corts,20,60-64,29,24
+2017,4,Les Corts,21,60-64,21,18
+2017,5,Sarrià-Sant Gervasi,22,60-64,5,1
+2017,5,Sarrià-Sant Gervasi,23,60-64,26,21
+2017,5,Sarrià-Sant Gervasi,24,60-64,14,16
+2017,5,Sarrià-Sant Gervasi,25,60-64,24,27
+2017,5,Sarrià-Sant Gervasi,26,60-64,64,58
+2017,5,Sarrià-Sant Gervasi,27,60-64,31,38
+2017,6,Gràcia,28,60-64,18,16
+2017,6,Gràcia,29,60-64,7,9
+2017,6,Gràcia,30,60-64,13,10
+2017,6,Gràcia,31,60-64,47,50
+2017,6,Gràcia,32,60-64,28,37
+2017,7,Horta-Guinardó,33,60-64,33,24
+2017,7,Horta-Guinardó,34,60-64,10,7
+2017,7,Horta-Guinardó,35,60-64,39,30
+2017,7,Horta-Guinardó,36,60-64,13,8
+2017,7,Horta-Guinardó,37,60-64,26,32
+2017,7,Horta-Guinardó,38,60-64,16,8
+2017,7,Horta-Guinardó,39,60-64,10,7
+2017,7,Horta-Guinardó,40,60-64,4,2
+2017,7,Horta-Guinardó,41,60-64,0,7
+2017,7,Horta-Guinardó,42,60-64,0,2
+2017,7,Horta-Guinardó,43,60-64,21,18
+2017,8,Nou Barris,44,60-64,21,23
+2017,8,Nou Barris,45,60-64,34,20
+2017,8,Nou Barris,46,60-64,17,13
+2017,8,Nou Barris,47,60-64,1,2
+2017,8,Nou Barris,48,60-64,14,18
+2017,8,Nou Barris,49,60-64,8,4
+2017,8,Nou Barris,50,60-64,20,18
+2017,8,Nou Barris,51,60-64,11,12
+2017,8,Nou Barris,52,60-64,25,14
+2017,8,Nou Barris,53,60-64,14,8
+2017,8,Nou Barris,54,60-64,1,1
+2017,8,Nou Barris,55,60-64,19,19
+2017,8,Nou Barris,56,60-64,1,1
+2017,9,Sant Andreu,57,60-64,16,13
+2017,9,Sant Andreu,58,60-64,1,3
+2017,9,Sant Andreu,59,60-64,15,11
+2017,9,Sant Andreu,60,60-64,51,38
+2017,9,Sant Andreu,61,60-64,45,29
+2017,9,Sant Andreu,62,60-64,11,10
+2017,9,Sant Andreu,63,60-64,21,19
+2017,10,Sant Martí,64,60-64,39,45
+2017,10,Sant Martí,65,60-64,26,30
+2017,10,Sant Martí,66,60-64,17,14
+2017,10,Sant Martí,67,60-64,12,14
+2017,10,Sant Martí,68,60-64,38,18
+2017,10,Sant Martí,69,60-64,14,12
+2017,10,Sant Martí,70,60-64,54,28
+2017,10,Sant Martí,71,60-64,24,21
+2017,10,Sant Martí,72,60-64,29,24
+2017,10,Sant Martí,73,60-64,42,26
+2017,99,No consta,99,60-64,0,1
+2017,1,Ciutat Vella,1,65-69,35,44
+2017,1,Ciutat Vella,2,65-69,22,16
+2017,1,Ciutat Vella,3,65-69,9,12
+2017,1,Ciutat Vella,4,65-69,21,16
+2017,2,Eixample,5,65-69,27,26
+2017,2,Eixample,6,65-69,55,47
+2017,2,Eixample,7,65-69,35,57
+2017,2,Eixample,8,65-69,48,44
+2017,2,Eixample,9,65-69,77,70
+2017,2,Eixample,10,65-69,50,30
+2017,3,Sants-Montjuïc,11,65-69,21,34
+2017,3,Sants-Montjuïc,12,65-69,1,1
+2017,3,Sants-Montjuïc,13,65-69,31,25
+2017,3,Sants-Montjuïc,14,65-69,9,9
+2017,3,Sants-Montjuïc,15,65-69,6,19
+2017,3,Sants-Montjuïc,16,65-69,14,25
+2017,3,Sants-Montjuïc,17,65-69,15,20
+2017,3,Sants-Montjuïc,18,65-69,48,47
+2017,4,Les Corts,19,65-69,47,58
+2017,4,Les Corts,20,65-69,24,20
+2017,4,Les Corts,21,65-69,15,16
+2017,5,Sarrià-Sant Gervasi,22,65-69,6,3
+2017,5,Sarrià-Sant Gervasi,23,65-69,19,11
+2017,5,Sarrià-Sant Gervasi,24,65-69,15,11
+2017,5,Sarrià-Sant Gervasi,25,65-69,22,27
+2017,5,Sarrià-Sant Gervasi,26,65-69,42,47
+2017,5,Sarrià-Sant Gervasi,27,65-69,21,21
+2017,6,Gràcia,28,65-69,13,17
+2017,6,Gràcia,29,65-69,3,10
+2017,6,Gràcia,30,65-69,6,13
+2017,6,Gràcia,31,65-69,39,39
+2017,6,Gràcia,32,65-69,42,37
+2017,7,Horta-Guinardó,33,65-69,28,25
+2017,7,Horta-Guinardó,34,65-69,5,6
+2017,7,Horta-Guinardó,35,65-69,27,29
+2017,7,Horta-Guinardó,36,65-69,5,12
+2017,7,Horta-Guinardó,37,65-69,18,36
+2017,7,Horta-Guinardó,38,65-69,10,16
+2017,7,Horta-Guinardó,39,65-69,6,5
+2017,7,Horta-Guinardó,40,65-69,2,2
+2017,7,Horta-Guinardó,41,65-69,0,2
+2017,7,Horta-Guinardó,42,65-69,0,1
+2017,7,Horta-Guinardó,43,65-69,15,30
+2017,8,Nou Barris,44,65-69,17,20
+2017,8,Nou Barris,45,65-69,18,20
+2017,8,Nou Barris,46,65-69,17,12
+2017,8,Nou Barris,47,65-69,1,2
+2017,8,Nou Barris,48,65-69,4,8
+2017,8,Nou Barris,49,65-69,3,10
+2017,8,Nou Barris,50,65-69,17,15
+2017,8,Nou Barris,51,65-69,16,10
+2017,8,Nou Barris,52,65-69,22,12
+2017,8,Nou Barris,53,65-69,8,6
+2017,8,Nou Barris,54,65-69,2,3
+2017,8,Nou Barris,55,65-69,7,10
+2017,8,Nou Barris,56,65-69,0,0
+2017,9,Sant Andreu,57,65-69,7,9
+2017,9,Sant Andreu,58,65-69,4,4
+2017,9,Sant Andreu,59,65-69,4,6
+2017,9,Sant Andreu,60,65-69,48,68
+2017,9,Sant Andreu,61,65-69,28,25
+2017,9,Sant Andreu,62,65-69,14,13
+2017,9,Sant Andreu,63,65-69,11,21
+2017,10,Sant Martí,64,65-69,44,31
+2017,10,Sant Martí,65,65-69,16,17
+2017,10,Sant Martí,66,65-69,19,10
+2017,10,Sant Martí,67,65-69,10,13
+2017,10,Sant Martí,68,65-69,36,24
+2017,10,Sant Martí,69,65-69,16,8
+2017,10,Sant Martí,70,65-69,23,15
+2017,10,Sant Martí,71,65-69,12,21
+2017,10,Sant Martí,72,65-69,15,18
+2017,10,Sant Martí,73,65-69,31,27
+2017,99,No consta,99,65-69,0,0
+2017,1,Ciutat Vella,1,70-74,16,33
+2017,1,Ciutat Vella,2,70-74,9,13
+2017,1,Ciutat Vella,3,70-74,6,14
+2017,1,Ciutat Vella,4,70-74,11,16
+2017,2,Eixample,5,70-74,30,20
+2017,2,Eixample,6,70-74,40,28
+2017,2,Eixample,7,70-74,26,38
+2017,2,Eixample,8,70-74,42,25
+2017,2,Eixample,9,70-74,40,45
+2017,2,Eixample,10,70-74,31,26
+2017,3,Sants-Montjuïc,11,70-74,16,32
+2017,3,Sants-Montjuïc,12,70-74,0,1
+2017,3,Sants-Montjuïc,13,70-74,15,14
+2017,3,Sants-Montjuïc,14,70-74,5,12
+2017,3,Sants-Montjuïc,15,70-74,4,6
+2017,3,Sants-Montjuïc,16,70-74,9,17
+2017,3,Sants-Montjuïc,17,70-74,16,18
+2017,3,Sants-Montjuïc,18,70-74,19,24
+2017,4,Les Corts,19,70-74,30,40
+2017,4,Les Corts,20,70-74,7,29
+2017,4,Les Corts,21,70-74,6,13
+2017,5,Sarrià-Sant Gervasi,22,70-74,1,3
+2017,5,Sarrià-Sant Gervasi,23,70-74,16,15
+2017,5,Sarrià-Sant Gervasi,24,70-74,8,12
+2017,5,Sarrià-Sant Gervasi,25,70-74,27,21
+2017,5,Sarrià-Sant Gervasi,26,70-74,33,26
+2017,5,Sarrià-Sant Gervasi,27,70-74,20,25
+2017,6,Gràcia,28,70-74,9,15
+2017,6,Gràcia,29,70-74,3,6
+2017,6,Gràcia,30,70-74,13,14
+2017,6,Gràcia,31,70-74,21,25
+2017,6,Gràcia,32,70-74,20,14
+2017,7,Horta-Guinardó,33,70-74,9,13
+2017,7,Horta-Guinardó,34,70-74,5,10
+2017,7,Horta-Guinardó,35,70-74,24,15
+2017,7,Horta-Guinardó,36,70-74,5,9
+2017,7,Horta-Guinardó,37,70-74,10,25
+2017,7,Horta-Guinardó,38,70-74,8,5
+2017,7,Horta-Guinardó,39,70-74,10,6
+2017,7,Horta-Guinardó,40,70-74,7,4
+2017,7,Horta-Guinardó,41,70-74,1,4
+2017,7,Horta-Guinardó,42,70-74,0,0
+2017,7,Horta-Guinardó,43,70-74,18,21
+2017,8,Nou Barris,44,70-74,18,6
+2017,8,Nou Barris,45,70-74,11,13
+2017,8,Nou Barris,46,70-74,8,8
+2017,8,Nou Barris,47,70-74,1,3
+2017,8,Nou Barris,48,70-74,6,7
+2017,8,Nou Barris,49,70-74,2,6
+2017,8,Nou Barris,50,70-74,4,6
+2017,8,Nou Barris,51,70-74,9,5
+2017,8,Nou Barris,52,70-74,8,15
+2017,8,Nou Barris,53,70-74,4,4
+2017,8,Nou Barris,54,70-74,1,2
+2017,8,Nou Barris,55,70-74,5,14
+2017,8,Nou Barris,56,70-74,0,0
+2017,9,Sant Andreu,57,70-74,3,6
+2017,9,Sant Andreu,58,70-74,2,5
+2017,9,Sant Andreu,59,70-74,8,5
+2017,9,Sant Andreu,60,70-74,32,23
+2017,9,Sant Andreu,61,70-74,18,27
+2017,9,Sant Andreu,62,70-74,8,7
+2017,9,Sant Andreu,63,70-74,16,17
+2017,10,Sant Martí,64,70-74,16,23
+2017,10,Sant Martí,65,70-74,12,12
+2017,10,Sant Martí,66,70-74,8,8
+2017,10,Sant Martí,67,70-74,8,3
+2017,10,Sant Martí,68,70-74,13,18
+2017,10,Sant Martí,69,70-74,6,10
+2017,10,Sant Martí,70,70-74,18,14
+2017,10,Sant Martí,71,70-74,14,11
+2017,10,Sant Martí,72,70-74,12,16
+2017,10,Sant Martí,73,70-74,21,26
+2017,99,No consta,99,70-74,1,0
+2017,1,Ciutat Vella,1,75-79,12,21
+2017,1,Ciutat Vella,2,75-79,5,5
+2017,1,Ciutat Vella,3,75-79,5,6
+2017,1,Ciutat Vella,4,75-79,5,6
+2017,2,Eixample,5,75-79,14,11
+2017,2,Eixample,6,75-79,21,16
+2017,2,Eixample,7,75-79,27,23
+2017,2,Eixample,8,75-79,15,19
+2017,2,Eixample,9,75-79,33,31
+2017,2,Eixample,10,75-79,11,25
+2017,3,Sants-Montjuïc,11,75-79,12,10
+2017,3,Sants-Montjuïc,12,75-79,0,0
+2017,3,Sants-Montjuïc,13,75-79,15,14
+2017,3,Sants-Montjuïc,14,75-79,6,3
+2017,3,Sants-Montjuïc,15,75-79,3,8
+2017,3,Sants-Montjuïc,16,75-79,5,8
+2017,3,Sants-Montjuïc,17,75-79,9,13
+2017,3,Sants-Montjuïc,18,75-79,20,16
+2017,4,Les Corts,19,75-79,20,15
+2017,4,Les Corts,20,75-79,6,13
+2017,4,Les Corts,21,75-79,10,3
+2017,5,Sarrià-Sant Gervasi,22,75-79,2,1
+2017,5,Sarrià-Sant Gervasi,23,75-79,9,18
+2017,5,Sarrià-Sant Gervasi,24,75-79,10,4
+2017,5,Sarrià-Sant Gervasi,25,75-79,15,9
+2017,5,Sarrià-Sant Gervasi,26,75-79,24,18
+2017,5,Sarrià-Sant Gervasi,27,75-79,19,11
+2017,6,Gràcia,28,75-79,5,8
+2017,6,Gràcia,29,75-79,2,2
+2017,6,Gràcia,30,75-79,3,7
+2017,6,Gràcia,31,75-79,18,20
+2017,6,Gràcia,32,75-79,10,17
+2017,7,Horta-Guinardó,33,75-79,13,12
+2017,7,Horta-Guinardó,34,75-79,6,7
+2017,7,Horta-Guinardó,35,75-79,9,20
+2017,7,Horta-Guinardó,36,75-79,2,8
+2017,7,Horta-Guinardó,37,75-79,6,24
+2017,7,Horta-Guinardó,38,75-79,2,8
+2017,7,Horta-Guinardó,39,75-79,3,3
+2017,7,Horta-Guinardó,40,75-79,3,4
+2017,7,Horta-Guinardó,41,75-79,4,3
+2017,7,Horta-Guinardó,42,75-79,0,0
+2017,7,Horta-Guinardó,43,75-79,6,17
+2017,8,Nou Barris,44,75-79,6,13
+2017,8,Nou Barris,45,75-79,7,13
+2017,8,Nou Barris,46,75-79,0,2
+2017,8,Nou Barris,47,75-79,0,0
+2017,8,Nou Barris,48,75-79,9,1
+2017,8,Nou Barris,49,75-79,1,1
+2017,8,Nou Barris,50,75-79,6,11
+2017,8,Nou Barris,51,75-79,3,6
+2017,8,Nou Barris,52,75-79,11,10
+2017,8,Nou Barris,53,75-79,2,2
+2017,8,Nou Barris,54,75-79,0,1
+2017,8,Nou Barris,55,75-79,7,4
+2017,8,Nou Barris,56,75-79,1,0
+2017,9,Sant Andreu,57,75-79,3,9
+2017,9,Sant Andreu,58,75-79,0,1
+2017,9,Sant Andreu,59,75-79,5,5
+2017,9,Sant Andreu,60,75-79,17,17
+2017,9,Sant Andreu,61,75-79,11,9
+2017,9,Sant Andreu,62,75-79,3,6
+2017,9,Sant Andreu,63,75-79,10,9
+2017,10,Sant Martí,64,75-79,11,20
+2017,10,Sant Martí,65,75-79,7,12
+2017,10,Sant Martí,66,75-79,5,3
+2017,10,Sant Martí,67,75-79,5,3
+2017,10,Sant Martí,68,75-79,3,13
+2017,10,Sant Martí,69,75-79,2,4
+2017,10,Sant Martí,70,75-79,7,13
+2017,10,Sant Martí,71,75-79,6,6
+2017,10,Sant Martí,72,75-79,11,10
+2017,10,Sant Martí,73,75-79,12,11
+2017,99,No consta,99,75-79,0,0
+2017,1,Ciutat Vella,1,80-84,9,15
+2017,1,Ciutat Vella,2,80-84,2,10
+2017,1,Ciutat Vella,3,80-84,6,8
+2017,1,Ciutat Vella,4,80-84,3,6
+2017,2,Eixample,5,80-84,10,9
+2017,2,Eixample,6,80-84,21,25
+2017,2,Eixample,7,80-84,16,26
+2017,2,Eixample,8,80-84,12,22
+2017,2,Eixample,9,80-84,24,16
+2017,2,Eixample,10,80-84,8,18
+2017,3,Sants-Montjuïc,11,80-84,8,18
+2017,3,Sants-Montjuïc,12,80-84,0,0
+2017,3,Sants-Montjuïc,13,80-84,17,22
+2017,3,Sants-Montjuïc,14,80-84,4,5
+2017,3,Sants-Montjuïc,15,80-84,7,9
+2017,3,Sants-Montjuïc,16,80-84,6,7
+2017,3,Sants-Montjuïc,17,80-84,4,17
+2017,3,Sants-Montjuïc,18,80-84,21,15
+2017,4,Les Corts,19,80-84,23,20
+2017,4,Les Corts,20,80-84,7,6
+2017,4,Les Corts,21,80-84,10,5
+2017,5,Sarrià-Sant Gervasi,22,80-84,0,4
+2017,5,Sarrià-Sant Gervasi,23,80-84,17,14
+2017,5,Sarrià-Sant Gervasi,24,80-84,5,10
+2017,5,Sarrià-Sant Gervasi,25,80-84,16,12
+2017,5,Sarrià-Sant Gervasi,26,80-84,17,9
+2017,5,Sarrià-Sant Gervasi,27,80-84,10,19
+2017,6,Gràcia,28,80-84,6,6
+2017,6,Gràcia,29,80-84,2,3
+2017,6,Gràcia,30,80-84,2,7
+2017,6,Gràcia,31,80-84,19,27
+2017,6,Gràcia,32,80-84,11,15
+2017,7,Horta-Guinardó,33,80-84,11,6
+2017,7,Horta-Guinardó,34,80-84,5,9
+2017,7,Horta-Guinardó,35,80-84,12,18
+2017,7,Horta-Guinardó,36,80-84,4,3
+2017,7,Horta-Guinardó,37,80-84,11,15
+2017,7,Horta-Guinardó,38,80-84,3,7
+2017,7,Horta-Guinardó,39,80-84,2,4
+2017,7,Horta-Guinardó,40,80-84,6,4
+2017,7,Horta-Guinardó,41,80-84,4,4
+2017,7,Horta-Guinardó,42,80-84,0,0
+2017,7,Horta-Guinardó,43,80-84,6,10
+2017,8,Nou Barris,44,80-84,10,14
+2017,8,Nou Barris,45,80-84,8,17
+2017,8,Nou Barris,46,80-84,4,12
+2017,8,Nou Barris,47,80-84,1,1
+2017,8,Nou Barris,48,80-84,7,5
+2017,8,Nou Barris,49,80-84,4,6
+2017,8,Nou Barris,50,80-84,1,8
+2017,8,Nou Barris,51,80-84,2,9
+2017,8,Nou Barris,52,80-84,12,19
+2017,8,Nou Barris,53,80-84,1,7
+2017,8,Nou Barris,54,80-84,0,1
+2017,8,Nou Barris,55,80-84,1,9
+2017,8,Nou Barris,56,80-84,0,0
+2017,9,Sant Andreu,57,80-84,2,9
+2017,9,Sant Andreu,58,80-84,3,0
+2017,9,Sant Andreu,59,80-84,3,4
+2017,9,Sant Andreu,60,80-84,15,15
+2017,9,Sant Andreu,61,80-84,7,9
+2017,9,Sant Andreu,62,80-84,1,10
+2017,9,Sant Andreu,63,80-84,7,12
+2017,10,Sant Martí,64,80-84,13,17
+2017,10,Sant Martí,65,80-84,6,13
+2017,10,Sant Martí,66,80-84,2,8
+2017,10,Sant Martí,67,80-84,2,1
+2017,10,Sant Martí,68,80-84,10,10
+2017,10,Sant Martí,69,80-84,6,4
+2017,10,Sant Martí,70,80-84,6,17
+2017,10,Sant Martí,71,80-84,8,9
+2017,10,Sant Martí,72,80-84,12,13
+2017,10,Sant Martí,73,80-84,3,17
+2017,99,No consta,99,80-84,0,0
+2017,1,Ciutat Vella,1,85-89,8,19
+2017,1,Ciutat Vella,2,85-89,1,8
+2017,1,Ciutat Vella,3,85-89,0,12
+2017,1,Ciutat Vella,4,85-89,6,9
+2017,2,Eixample,5,85-89,5,15
+2017,2,Eixample,6,85-89,19,24
+2017,2,Eixample,7,85-89,14,24
+2017,2,Eixample,8,85-89,12,22
+2017,2,Eixample,9,85-89,15,32
+2017,2,Eixample,10,85-89,5,16
+2017,3,Sants-Montjuïc,11,85-89,6,11
+2017,3,Sants-Montjuïc,12,85-89,1,1
+2017,3,Sants-Montjuïc,13,85-89,8,10
+2017,3,Sants-Montjuïc,14,85-89,3,4
+2017,3,Sants-Montjuïc,15,85-89,4,5
+2017,3,Sants-Montjuïc,16,85-89,9,2
+2017,3,Sants-Montjuïc,17,85-89,1,17
+2017,3,Sants-Montjuïc,18,85-89,8,23
+2017,4,Les Corts,19,85-89,14,24
+2017,4,Les Corts,20,85-89,9,8
+2017,4,Les Corts,21,85-89,3,7
+2017,5,Sarrià-Sant Gervasi,22,85-89,1,0
+2017,5,Sarrià-Sant Gervasi,23,85-89,10,10
+2017,5,Sarrià-Sant Gervasi,24,85-89,7,6
+2017,5,Sarrià-Sant Gervasi,25,85-89,6,10
+2017,5,Sarrià-Sant Gervasi,26,85-89,21,10
+2017,5,Sarrià-Sant Gervasi,27,85-89,4,7
+2017,6,Gràcia,28,85-89,2,6
+2017,6,Gràcia,29,85-89,4,4
+2017,6,Gràcia,30,85-89,4,5
+2017,6,Gràcia,31,85-89,26,24
+2017,6,Gràcia,32,85-89,11,12
+2017,7,Horta-Guinardó,33,85-89,13,13
+2017,7,Horta-Guinardó,34,85-89,0,6
+2017,7,Horta-Guinardó,35,85-89,5,21
+2017,7,Horta-Guinardó,36,85-89,2,3
+2017,7,Horta-Guinardó,37,85-89,5,14
+2017,7,Horta-Guinardó,38,85-89,2,7
+2017,7,Horta-Guinardó,39,85-89,3,2
+2017,7,Horta-Guinardó,40,85-89,2,6
+2017,7,Horta-Guinardó,41,85-89,1,1
+2017,7,Horta-Guinardó,42,85-89,0,0
+2017,7,Horta-Guinardó,43,85-89,5,14
+2017,8,Nou Barris,44,85-89,8,14
+2017,8,Nou Barris,45,85-89,5,16
+2017,8,Nou Barris,46,85-89,6,17
+2017,8,Nou Barris,47,85-89,0,0
+2017,8,Nou Barris,48,85-89,4,9
+2017,8,Nou Barris,49,85-89,2,2
+2017,8,Nou Barris,50,85-89,0,8
+2017,8,Nou Barris,51,85-89,2,6
+2017,8,Nou Barris,52,85-89,3,21
+2017,8,Nou Barris,53,85-89,3,9
+2017,8,Nou Barris,54,85-89,0,0
+2017,8,Nou Barris,55,85-89,1,6
+2017,8,Nou Barris,56,85-89,1,1
+2017,9,Sant Andreu,57,85-89,0,2
+2017,9,Sant Andreu,58,85-89,0,1
+2017,9,Sant Andreu,59,85-89,0,5
+2017,9,Sant Andreu,60,85-89,18,29
+2017,9,Sant Andreu,61,85-89,3,11
+2017,9,Sant Andreu,62,85-89,1,7
+2017,9,Sant Andreu,63,85-89,4,8
+2017,10,Sant Martí,64,85-89,9,16
+2017,10,Sant Martí,65,85-89,11,9
+2017,10,Sant Martí,66,85-89,4,8
+2017,10,Sant Martí,67,85-89,1,0
+2017,10,Sant Martí,68,85-89,6,19
+2017,10,Sant Martí,69,85-89,4,5
+2017,10,Sant Martí,70,85-89,3,14
+2017,10,Sant Martí,71,85-89,1,8
+2017,10,Sant Martí,72,85-89,2,15
+2017,10,Sant Martí,73,85-89,6,16
+2017,99,No consta,99,85-89,0,0
+2017,1,Ciutat Vella,1,90-94,5,12
+2017,1,Ciutat Vella,2,90-94,3,4
+2017,1,Ciutat Vella,3,90-94,0,4
+2017,1,Ciutat Vella,4,90-94,2,7
+2017,2,Eixample,5,90-94,6,9
+2017,2,Eixample,6,90-94,7,12
+2017,2,Eixample,7,90-94,9,10
+2017,2,Eixample,8,90-94,12,6
+2017,2,Eixample,9,90-94,5,11
+2017,2,Eixample,10,90-94,5,6
+2017,3,Sants-Montjuïc,11,90-94,1,5
+2017,3,Sants-Montjuïc,12,90-94,0,0
+2017,3,Sants-Montjuïc,13,90-94,4,5
+2017,3,Sants-Montjuïc,14,90-94,4,1
+2017,3,Sants-Montjuïc,15,90-94,2,4
+2017,3,Sants-Montjuïc,16,90-94,5,5
+2017,3,Sants-Montjuïc,17,90-94,2,8
+2017,3,Sants-Montjuïc,18,90-94,5,16
+2017,4,Les Corts,19,90-94,8,18
+2017,4,Les Corts,20,90-94,3,15
+2017,4,Les Corts,21,90-94,4,3
+2017,5,Sarrià-Sant Gervasi,22,90-94,1,1
+2017,5,Sarrià-Sant Gervasi,23,90-94,7,8
+2017,5,Sarrià-Sant Gervasi,24,90-94,2,1
+2017,5,Sarrià-Sant Gervasi,25,90-94,9,9
+2017,5,Sarrià-Sant Gervasi,26,90-94,6,10
+2017,5,Sarrià-Sant Gervasi,27,90-94,4,6
+2017,6,Gràcia,28,90-94,2,6
+2017,6,Gràcia,29,90-94,3,2
+2017,6,Gràcia,30,90-94,1,3
+2017,6,Gràcia,31,90-94,7,27
+2017,6,Gràcia,32,90-94,6,8
+2017,7,Horta-Guinardó,33,90-94,9,8
+2017,7,Horta-Guinardó,34,90-94,1,1
+2017,7,Horta-Guinardó,35,90-94,2,5
+2017,7,Horta-Guinardó,36,90-94,0,0
+2017,7,Horta-Guinardó,37,90-94,1,2
+2017,7,Horta-Guinardó,38,90-94,0,2
+2017,7,Horta-Guinardó,39,90-94,0,0
+2017,7,Horta-Guinardó,40,90-94,3,1
+2017,7,Horta-Guinardó,41,90-94,2,2
+2017,7,Horta-Guinardó,42,90-94,0,0
+2017,7,Horta-Guinardó,43,90-94,9,9
+2017,8,Nou Barris,44,90-94,3,9
+2017,8,Nou Barris,45,90-94,3,5
+2017,8,Nou Barris,46,90-94,3,7
+2017,8,Nou Barris,47,90-94,0,0
+2017,8,Nou Barris,48,90-94,0,4
+2017,8,Nou Barris,49,90-94,0,0
+2017,8,Nou Barris,50,90-94,0,1
+2017,8,Nou Barris,51,90-94,1,4
+2017,8,Nou Barris,52,90-94,4,9
+2017,8,Nou Barris,53,90-94,0,4
+2017,8,Nou Barris,54,90-94,0,0
+2017,8,Nou Barris,55,90-94,0,1
+2017,8,Nou Barris,56,90-94,0,0
+2017,9,Sant Andreu,57,90-94,2,1
+2017,9,Sant Andreu,58,90-94,0,1
+2017,9,Sant Andreu,59,90-94,1,5
+2017,9,Sant Andreu,60,90-94,8,14
+2017,9,Sant Andreu,61,90-94,2,15
+2017,9,Sant Andreu,62,90-94,0,4
+2017,9,Sant Andreu,63,90-94,3,4
+2017,10,Sant Martí,64,90-94,4,13
+2017,10,Sant Martí,65,90-94,2,7
+2017,10,Sant Martí,66,90-94,0,2
+2017,10,Sant Martí,67,90-94,1,2
+2017,10,Sant Martí,68,90-94,4,8
+2017,10,Sant Martí,69,90-94,3,3
+2017,10,Sant Martí,70,90-94,2,6
+2017,10,Sant Martí,71,90-94,4,8
+2017,10,Sant Martí,72,90-94,1,10
+2017,10,Sant Martí,73,90-94,1,5
+2017,99,No consta,99,90-94,0,0
+2017,1,Ciutat Vella,1,95-99,0,2
+2017,1,Ciutat Vella,2,95-99,0,1
+2017,1,Ciutat Vella,3,95-99,1,2
+2017,1,Ciutat Vella,4,95-99,0,3
+2017,2,Eixample,5,95-99,2,2
+2017,2,Eixample,6,95-99,2,7
+2017,2,Eixample,7,95-99,1,3
+2017,2,Eixample,8,95-99,1,4
+2017,2,Eixample,9,95-99,4,5
+2017,2,Eixample,10,95-99,0,4
+2017,3,Sants-Montjuïc,11,95-99,0,5
+2017,3,Sants-Montjuïc,12,95-99,0,0
+2017,3,Sants-Montjuïc,13,95-99,1,0
+2017,3,Sants-Montjuïc,14,95-99,1,1
+2017,3,Sants-Montjuïc,15,95-99,0,3
+2017,3,Sants-Montjuïc,16,95-99,1,1
+2017,3,Sants-Montjuïc,17,95-99,1,4
+2017,3,Sants-Montjuïc,18,95-99,1,1
+2017,4,Les Corts,19,95-99,3,6
+2017,4,Les Corts,20,95-99,3,2
+2017,4,Les Corts,21,95-99,0,0
+2017,5,Sarrià-Sant Gervasi,22,95-99,0,1
+2017,5,Sarrià-Sant Gervasi,23,95-99,2,1
+2017,5,Sarrià-Sant Gervasi,24,95-99,1,1
+2017,5,Sarrià-Sant Gervasi,25,95-99,1,1
+2017,5,Sarrià-Sant Gervasi,26,95-99,1,7
+2017,5,Sarrià-Sant Gervasi,27,95-99,1,4
+2017,6,Gràcia,28,95-99,1,0
+2017,6,Gràcia,29,95-99,0,1
+2017,6,Gràcia,30,95-99,0,1
+2017,6,Gràcia,31,95-99,1,4
+2017,6,Gràcia,32,95-99,3,6
+2017,7,Horta-Guinardó,33,95-99,4,0
+2017,7,Horta-Guinardó,34,95-99,0,0
+2017,7,Horta-Guinardó,35,95-99,3,4
+2017,7,Horta-Guinardó,36,95-99,1,1
+2017,7,Horta-Guinardó,37,95-99,1,4
+2017,7,Horta-Guinardó,38,95-99,1,0
+2017,7,Horta-Guinardó,39,95-99,0,1
+2017,7,Horta-Guinardó,40,95-99,0,0
+2017,7,Horta-Guinardó,41,95-99,0,0
+2017,7,Horta-Guinardó,42,95-99,0,0
+2017,7,Horta-Guinardó,43,95-99,0,4
+2017,8,Nou Barris,44,95-99,0,2
+2017,8,Nou Barris,45,95-99,2,1
+2017,8,Nou Barris,46,95-99,0,0
+2017,8,Nou Barris,47,95-99,0,0
+2017,8,Nou Barris,48,95-99,1,2
+2017,8,Nou Barris,49,95-99,0,0
+2017,8,Nou Barris,50,95-99,0,1
+2017,8,Nou Barris,51,95-99,0,2
+2017,8,Nou Barris,52,95-99,1,1
+2017,8,Nou Barris,53,95-99,0,0
+2017,8,Nou Barris,54,95-99,0,0
+2017,8,Nou Barris,55,95-99,0,0
+2017,8,Nou Barris,56,95-99,0,0
+2017,9,Sant Andreu,57,95-99,0,1
+2017,9,Sant Andreu,58,95-99,0,0
+2017,9,Sant Andreu,59,95-99,0,0
+2017,9,Sant Andreu,60,95-99,1,5
+2017,9,Sant Andreu,61,95-99,1,1
+2017,9,Sant Andreu,62,95-99,1,0
+2017,9,Sant Andreu,63,95-99,2,3
+2017,10,Sant Martí,64,95-99,0,4
+2017,10,Sant Martí,65,95-99,0,1
+2017,10,Sant Martí,66,95-99,0,0
+2017,10,Sant Martí,67,95-99,0,0
+2017,10,Sant Martí,68,95-99,2,2
+2017,10,Sant Martí,69,95-99,0,0
+2017,10,Sant Martí,70,95-99,1,2
+2017,10,Sant Martí,71,95-99,0,2
+2017,10,Sant Martí,72,95-99,0,2
+2017,10,Sant Martí,73,95-99,0,2
+2017,99,No consta,99,95-99,0,0
+2017,1,Ciutat Vella,1,>=100,0,0
+2017,1,Ciutat Vella,2,>=100,0,0
+2017,1,Ciutat Vella,3,>=100,0,0
+2017,1,Ciutat Vella,4,>=100,0,0
+2017,2,Eixample,5,>=100,0,0
+2017,2,Eixample,6,>=100,0,1
+2017,2,Eixample,7,>=100,0,0
+2017,2,Eixample,8,>=100,0,1
+2017,2,Eixample,9,>=100,1,0
+2017,2,Eixample,10,>=100,0,0
+2017,3,Sants-Montjuïc,11,>=100,0,0
+2017,3,Sants-Montjuïc,12,>=100,0,0
+2017,3,Sants-Montjuïc,13,>=100,0,0
+2017,3,Sants-Montjuïc,14,>=100,2,0
+2017,3,Sants-Montjuïc,15,>=100,0,0
+2017,3,Sants-Montjuïc,16,>=100,0,0
+2017,3,Sants-Montjuïc,17,>=100,0,0
+2017,3,Sants-Montjuïc,18,>=100,0,0
+2017,4,Les Corts,19,>=100,0,1
+2017,4,Les Corts,20,>=100,0,0
+2017,4,Les Corts,21,>=100,0,0
+2017,5,Sarrià-Sant Gervasi,22,>=100,0,0
+2017,5,Sarrià-Sant Gervasi,23,>=100,0,0
+2017,5,Sarrià-Sant Gervasi,24,>=100,0,0
+2017,5,Sarrià-Sant Gervasi,25,>=100,0,0
+2017,5,Sarrià-Sant Gervasi,26,>=100,0,0
+2017,5,Sarrià-Sant Gervasi,27,>=100,0,1
+2017,6,Gràcia,28,>=100,0,1
+2017,6,Gràcia,29,>=100,0,0
+2017,6,Gràcia,30,>=100,0,0
+2017,6,Gràcia,31,>=100,0,0
+2017,6,Gràcia,32,>=100,1,1
+2017,7,Horta-Guinardó,33,>=100,0,0
+2017,7,Horta-Guinardó,34,>=100,0,0
+2017,7,Horta-Guinardó,35,>=100,0,0
+2017,7,Horta-Guinardó,36,>=100,0,0
+2017,7,Horta-Guinardó,37,>=100,0,0
+2017,7,Horta-Guinardó,38,>=100,0,0
+2017,7,Horta-Guinardó,39,>=100,0,0
+2017,7,Horta-Guinardó,40,>=100,0,0
+2017,7,Horta-Guinardó,41,>=100,0,0
+2017,7,Horta-Guinardó,42,>=100,0,0
+2017,7,Horta-Guinardó,43,>=100,0,0
+2017,8,Nou Barris,44,>=100,0,1
+2017,8,Nou Barris,45,>=100,0,0
+2017,8,Nou Barris,46,>=100,0,0
+2017,8,Nou Barris,47,>=100,0,0
+2017,8,Nou Barris,48,>=100,0,0
+2017,8,Nou Barris,49,>=100,0,0
+2017,8,Nou Barris,50,>=100,0,1
+2017,8,Nou Barris,51,>=100,0,0
+2017,8,Nou Barris,52,>=100,0,0
+2017,8,Nou Barris,53,>=100,0,0
+2017,8,Nou Barris,54,>=100,0,0
+2017,8,Nou Barris,55,>=100,0,0
+2017,8,Nou Barris,56,>=100,0,0
+2017,9,Sant Andreu,57,>=100,0,0
+2017,9,Sant Andreu,58,>=100,0,0
+2017,9,Sant Andreu,59,>=100,0,0
+2017,9,Sant Andreu,60,>=100,0,0
+2017,9,Sant Andreu,61,>=100,0,0
+2017,9,Sant Andreu,62,>=100,0,0
+2017,9,Sant Andreu,63,>=100,0,0
+2017,10,Sant Martí,64,>=100,0,0
+2017,10,Sant Martí,65,>=100,0,1
+2017,10,Sant Martí,66,>=100,0,0
+2017,10,Sant Martí,67,>=100,0,0
+2017,10,Sant Martí,68,>=100,0,0
+2017,10,Sant Martí,69,>=100,0,0
+2017,10,Sant Martí,70,>=100,0,0
+2017,10,Sant Martí,71,>=100,0,0
+2017,10,Sant Martí,72,>=100,0,0
+2017,10,Sant Martí,73,>=100,0,0
+2017,99,No consta,99,>=100,0,0
+2016,1,Ciutat Vella,1,0-4,210,117
+2016,1,Ciutat Vella,2,0-4,57,37
+2016,1,Ciutat Vella,3,0-4,40,24
+2016,1,Ciutat Vella,4,0-4,55,45
+2016,2,Eixample,5,0-4,67,55
+2016,2,Eixample,6,0-4,102,80
+2016,2,Eixample,7,0-4,108,83
+2016,2,Eixample,8,0-4,108,58
+2016,2,Eixample,9,0-4,106,88
+2016,2,Eixample,10,0-4,84,59
+2016,3,Sants-Montjuïc,11,0-4,93,77
+2016,3,Sants-Montjuïc,12,0-4,1,6
+2016,3,Sants-Montjuïc,13,0-4,89,70
+2016,3,Sants-Montjuïc,14,0-4,22,23
+2016,3,Sants-Montjuïc,15,0-4,35,29
+2016,3,Sants-Montjuïc,16,0-4,42,49
+2016,3,Sants-Montjuïc,17,0-4,55,38
+2016,3,Sants-Montjuïc,18,0-4,96,73
+2016,4,Les Corts,19,0-4,124,68
+2016,4,Les Corts,20,0-4,69,43
+2016,4,Les Corts,21,0-4,45,18
+2016,5,Sarrià-Sant Gervasi,22,0-4,15,13
+2016,5,Sarrià-Sant Gervasi,23,0-4,93,65
+2016,5,Sarrià-Sant Gervasi,24,0-4,42,27
+2016,5,Sarrià-Sant Gervasi,25,0-4,65,34
+2016,5,Sarrià-Sant Gervasi,26,0-4,130,58
+2016,5,Sarrià-Sant Gervasi,27,0-4,63,66
+2016,6,Gràcia,28,0-4,24,29
+2016,6,Gràcia,29,0-4,14,9
+2016,6,Gràcia,30,0-4,21,14
+2016,6,Gràcia,31,0-4,90,93
+2016,6,Gràcia,32,0-4,52,47
+2016,7,Horta-Guinardó,33,0-4,43,37
+2016,7,Horta-Guinardó,34,0-4,16,16
+2016,7,Horta-Guinardó,35,0-4,77,56
+2016,7,Horta-Guinardó,36,0-4,11,16
+2016,7,Horta-Guinardó,37,0-4,52,45
+2016,7,Horta-Guinardó,38,0-4,29,21
+2016,7,Horta-Guinardó,39,0-4,23,5
+2016,7,Horta-Guinardó,40,0-4,9,6
+2016,7,Horta-Guinardó,41,0-4,14,9
+2016,7,Horta-Guinardó,42,0-4,1,0
+2016,7,Horta-Guinardó,43,0-4,43,29
+2016,8,Nou Barris,44,0-4,43,23
+2016,8,Nou Barris,45,0-4,70,28
+2016,8,Nou Barris,46,0-4,47,20
+2016,8,Nou Barris,47,0-4,4,5
+2016,8,Nou Barris,48,0-4,28,16
+2016,8,Nou Barris,49,0-4,11,7
+2016,8,Nou Barris,50,0-4,44,34
+2016,8,Nou Barris,51,0-4,25,29
+2016,8,Nou Barris,52,0-4,56,40
+2016,8,Nou Barris,53,0-4,18,11
+2016,8,Nou Barris,54,0-4,7,5
+2016,8,Nou Barris,55,0-4,46,22
+2016,8,Nou Barris,56,0-4,7,8
+2016,9,Sant Andreu,57,0-4,34,34
+2016,9,Sant Andreu,58,0-4,5,6
+2016,9,Sant Andreu,59,0-4,39,24
+2016,9,Sant Andreu,60,0-4,109,77
+2016,9,Sant Andreu,61,0-4,71,42
+2016,9,Sant Andreu,62,0-4,14,19
+2016,9,Sant Andreu,63,0-4,48,41
+2016,10,Sant Martí,64,0-4,54,87
+2016,10,Sant Martí,65,0-4,46,31
+2016,10,Sant Martí,66,0-4,32,25
+2016,10,Sant Martí,67,0-4,27,20
+2016,10,Sant Martí,68,0-4,88,57
+2016,10,Sant Martí,69,0-4,59,41
+2016,10,Sant Martí,70,0-4,97,80
+2016,10,Sant Martí,71,0-4,42,39
+2016,10,Sant Martí,72,0-4,25,32
+2016,10,Sant Martí,73,0-4,44,46
+2016,99,No consta,99,0-4,0,0
+2016,1,Ciutat Vella,1,9-May,139,100
+2016,1,Ciutat Vella,2,9-May,44,27
+2016,1,Ciutat Vella,3,9-May,19,19
+2016,1,Ciutat Vella,4,9-May,40,26
+2016,2,Eixample,5,9-May,44,27
+2016,2,Eixample,6,9-May,80,47
+2016,2,Eixample,7,9-May,63,39
+2016,2,Eixample,8,9-May,50,34
+2016,2,Eixample,9,9-May,69,51
+2016,2,Eixample,10,9-May,40,26
+2016,3,Sants-Montjuïc,11,9-May,78,40
+2016,3,Sants-Montjuïc,12,9-May,1,0
+2016,3,Sants-Montjuïc,13,9-May,50,39
+2016,3,Sants-Montjuïc,14,9-May,14,12
+2016,3,Sants-Montjuïc,15,9-May,28,21
+2016,3,Sants-Montjuïc,16,9-May,35,25
+2016,3,Sants-Montjuïc,17,9-May,49,40
+2016,3,Sants-Montjuïc,18,9-May,58,48
+2016,4,Les Corts,19,9-May,62,46
+2016,4,Les Corts,20,9-May,40,25
+2016,4,Les Corts,21,9-May,58,13
+2016,5,Sarrià-Sant Gervasi,22,9-May,4,4
+2016,5,Sarrià-Sant Gervasi,23,9-May,74,35
+2016,5,Sarrià-Sant Gervasi,24,9-May,35,31
+2016,5,Sarrià-Sant Gervasi,25,9-May,49,27
+2016,5,Sarrià-Sant Gervasi,26,9-May,97,42
+2016,5,Sarrià-Sant Gervasi,27,9-May,55,34
+2016,6,Gràcia,28,9-May,27,12
+2016,6,Gràcia,29,9-May,15,8
+2016,6,Gràcia,30,9-May,13,10
+2016,6,Gràcia,31,9-May,52,54
+2016,6,Gràcia,32,9-May,34,28
+2016,7,Horta-Guinardó,33,9-May,27,34
+2016,7,Horta-Guinardó,34,9-May,9,6
+2016,7,Horta-Guinardó,35,9-May,60,24
+2016,7,Horta-Guinardó,36,9-May,8,13
+2016,7,Horta-Guinardó,37,9-May,35,33
+2016,7,Horta-Guinardó,38,9-May,25,7
+2016,7,Horta-Guinardó,39,9-May,12,8
+2016,7,Horta-Guinardó,40,9-May,12,5
+2016,7,Horta-Guinardó,41,9-May,7,4
+2016,7,Horta-Guinardó,42,9-May,1,0
+2016,7,Horta-Guinardó,43,9-May,40,20
+2016,8,Nou Barris,44,9-May,46,25
+2016,8,Nou Barris,45,9-May,47,27
+2016,8,Nou Barris,46,9-May,28,14
+2016,8,Nou Barris,47,9-May,3,4
+2016,8,Nou Barris,48,9-May,24,8
+2016,8,Nou Barris,49,9-May,7,4
+2016,8,Nou Barris,50,9-May,40,29
+2016,8,Nou Barris,51,9-May,24,22
+2016,8,Nou Barris,52,9-May,43,13
+2016,8,Nou Barris,53,9-May,11,11
+2016,8,Nou Barris,54,9-May,6,5
+2016,8,Nou Barris,55,9-May,26,15
+2016,8,Nou Barris,56,9-May,5,3
+2016,9,Sant Andreu,57,9-May,29,26
+2016,9,Sant Andreu,58,9-May,3,6
+2016,9,Sant Andreu,59,9-May,27,19
+2016,9,Sant Andreu,60,9-May,52,56
+2016,9,Sant Andreu,61,9-May,38,21
+2016,9,Sant Andreu,62,9-May,15,16
+2016,9,Sant Andreu,63,9-May,29,34
+2016,10,Sant Martí,64,9-May,57,40
+2016,10,Sant Martí,65,9-May,27,19
+2016,10,Sant Martí,66,9-May,19,13
+2016,10,Sant Martí,67,9-May,14,10
+2016,10,Sant Martí,68,9-May,55,46
+2016,10,Sant Martí,69,9-May,36,21
+2016,10,Sant Martí,70,9-May,89,80
+2016,10,Sant Martí,71,9-May,25,35
+2016,10,Sant Martí,72,9-May,36,25
+2016,10,Sant Martí,73,9-May,37,36
+2016,99,No consta,99,9-May,1,0
+2016,1,Ciutat Vella,1,14-Oct,121,47
+2016,1,Ciutat Vella,2,14-Oct,36,20
+2016,1,Ciutat Vella,3,14-Oct,22,7
+2016,1,Ciutat Vella,4,14-Oct,39,14
+2016,2,Eixample,5,14-Oct,31,23
+2016,2,Eixample,6,14-Oct,65,33
+2016,2,Eixample,7,14-Oct,78,44
+2016,2,Eixample,8,14-Oct,44,23
+2016,2,Eixample,9,14-Oct,88,48
+2016,2,Eixample,10,14-Oct,46,27
+2016,3,Sants-Montjuïc,11,14-Oct,78,48
+2016,3,Sants-Montjuïc,12,14-Oct,3,4
+2016,3,Sants-Montjuïc,13,14-Oct,46,44
+2016,3,Sants-Montjuïc,14,14-Oct,10,10
+2016,3,Sants-Montjuïc,15,14-Oct,31,10
+2016,3,Sants-Montjuïc,16,14-Oct,30,21
+2016,3,Sants-Montjuïc,17,14-Oct,52,31
+2016,3,Sants-Montjuïc,18,14-Oct,69,35
+2016,4,Les Corts,19,14-Oct,63,38
+2016,4,Les Corts,20,14-Oct,40,35
+2016,4,Les Corts,21,14-Oct,58,22
+2016,5,Sarrià-Sant Gervasi,22,14-Oct,4,7
+2016,5,Sarrià-Sant Gervasi,23,14-Oct,64,28
+2016,5,Sarrià-Sant Gervasi,24,14-Oct,32,23
+2016,5,Sarrià-Sant Gervasi,25,14-Oct,92,26
+2016,5,Sarrià-Sant Gervasi,26,14-Oct,138,51
+2016,5,Sarrià-Sant Gervasi,27,14-Oct,38,24
+2016,6,Gràcia,28,14-Oct,24,10
+2016,6,Gràcia,29,14-Oct,16,7
+2016,6,Gràcia,30,14-Oct,13,12
+2016,6,Gràcia,31,14-Oct,48,24
+2016,6,Gràcia,32,14-Oct,37,16
+2016,7,Horta-Guinardó,33,14-Oct,16,12
+2016,7,Horta-Guinardó,34,14-Oct,9,5
+2016,7,Horta-Guinardó,35,14-Oct,48,29
+2016,7,Horta-Guinardó,36,14-Oct,4,7
+2016,7,Horta-Guinardó,37,14-Oct,50,20
+2016,7,Horta-Guinardó,38,14-Oct,21,9
+2016,7,Horta-Guinardó,39,14-Oct,23,9
+2016,7,Horta-Guinardó,40,14-Oct,5,2
+2016,7,Horta-Guinardó,41,14-Oct,6,1
+2016,7,Horta-Guinardó,42,14-Oct,0,0
+2016,7,Horta-Guinardó,43,14-Oct,38,2
+2016,8,Nou Barris,44,14-Oct,49,25
+2016,8,Nou Barris,45,14-Oct,61,17
+2016,8,Nou Barris,46,14-Oct,33,20
+2016,8,Nou Barris,47,14-Oct,5,4
+2016,8,Nou Barris,48,14-Oct,19,13
+2016,8,Nou Barris,49,14-Oct,5,7
+2016,8,Nou Barris,50,14-Oct,56,17
+2016,8,Nou Barris,51,14-Oct,30,14
+2016,8,Nou Barris,52,14-Oct,43,24
+2016,8,Nou Barris,53,14-Oct,11,11
+2016,8,Nou Barris,54,14-Oct,6,1
+2016,8,Nou Barris,55,14-Oct,28,18
+2016,8,Nou Barris,56,14-Oct,3,0
+2016,9,Sant Andreu,57,14-Oct,26,20
+2016,9,Sant Andreu,58,14-Oct,5,5
+2016,9,Sant Andreu,59,14-Oct,22,24
+2016,9,Sant Andreu,60,14-Oct,39,15
+2016,9,Sant Andreu,61,14-Oct,44,21
+2016,9,Sant Andreu,62,14-Oct,20,10
+2016,9,Sant Andreu,63,14-Oct,43,24
+2016,10,Sant Martí,64,14-Oct,43,30
+2016,10,Sant Martí,65,14-Oct,24,23
+2016,10,Sant Martí,66,14-Oct,17,10
+2016,10,Sant Martí,67,14-Oct,12,5
+2016,10,Sant Martí,68,14-Oct,42,32
+2016,10,Sant Martí,69,14-Oct,17,13
+2016,10,Sant Martí,70,14-Oct,76,49
+2016,10,Sant Martí,71,14-Oct,25,15
+2016,10,Sant Martí,72,14-Oct,29,32
+2016,10,Sant Martí,73,14-Oct,44,25
+2016,99,No consta,99,14-Oct,2,2
+2016,1,Ciutat Vella,1,15-19,238,86
+2016,1,Ciutat Vella,2,15-19,89,18
+2016,1,Ciutat Vella,3,15-19,50,25
+2016,1,Ciutat Vella,4,15-19,153,31
+2016,2,Eixample,5,15-19,71,20
+2016,2,Eixample,6,15-19,133,43
+2016,2,Eixample,7,15-19,102,30
+2016,2,Eixample,8,15-19,94,30
+2016,2,Eixample,9,15-19,118,49
+2016,2,Eixample,10,15-19,88,34
+2016,3,Sants-Montjuïc,11,15-19,166,71
+2016,3,Sants-Montjuïc,12,15-19,3,4
+2016,3,Sants-Montjuïc,13,15-19,86,47
+2016,3,Sants-Montjuïc,14,15-19,19,10
+2016,3,Sants-Montjuïc,15,15-19,41,15
+2016,3,Sants-Montjuïc,16,15-19,34,15
+2016,3,Sants-Montjuïc,17,15-19,63,34
+2016,3,Sants-Montjuïc,18,15-19,115,32
+2016,4,Les Corts,19,15-19,95,32
+2016,4,Les Corts,20,15-19,46,24
+2016,4,Les Corts,21,15-19,50,22
+2016,5,Sarrià-Sant Gervasi,22,15-19,7,5
+2016,5,Sarrià-Sant Gervasi,23,15-19,90,29
+2016,5,Sarrià-Sant Gervasi,24,15-19,38,11
+2016,5,Sarrià-Sant Gervasi,25,15-19,89,26
+2016,5,Sarrià-Sant Gervasi,26,15-19,141,43
+2016,5,Sarrià-Sant Gervasi,27,15-19,42,21
+2016,6,Gràcia,28,15-19,40,15
+2016,6,Gràcia,29,15-19,20,12
+2016,6,Gràcia,30,15-19,60,24
+2016,6,Gràcia,31,15-19,89,26
+2016,6,Gràcia,32,15-19,41,15
+2016,7,Horta-Guinardó,33,15-19,35,18
+2016,7,Horta-Guinardó,34,15-19,21,3
+2016,7,Horta-Guinardó,35,15-19,70,37
+2016,7,Horta-Guinardó,36,15-19,7,4
+2016,7,Horta-Guinardó,37,15-19,62,33
+2016,7,Horta-Guinardó,38,15-19,28,15
+2016,7,Horta-Guinardó,39,15-19,41,6
+2016,7,Horta-Guinardó,40,15-19,13,3
+2016,7,Horta-Guinardó,41,15-19,8,4
+2016,7,Horta-Guinardó,42,15-19,0,0
+2016,7,Horta-Guinardó,43,15-19,63,12
+2016,8,Nou Barris,44,15-19,52,26
+2016,8,Nou Barris,45,15-19,79,25
+2016,8,Nou Barris,46,15-19,59,30
+2016,8,Nou Barris,47,15-19,9,2
+2016,8,Nou Barris,48,15-19,31,10
+2016,8,Nou Barris,49,15-19,1,9
+2016,8,Nou Barris,50,15-19,48,20
+2016,8,Nou Barris,51,15-19,32,15
+2016,8,Nou Barris,52,15-19,67,23
+2016,8,Nou Barris,53,15-19,21,7
+2016,8,Nou Barris,54,15-19,7,2
+2016,8,Nou Barris,55,15-19,67,26
+2016,8,Nou Barris,56,15-19,2,4
+2016,9,Sant Andreu,57,15-19,33,17
+2016,9,Sant Andreu,58,15-19,3,2
+2016,9,Sant Andreu,59,15-19,25,21
+2016,9,Sant Andreu,60,15-19,79,29
+2016,9,Sant Andreu,61,15-19,61,17
+2016,9,Sant Andreu,62,15-19,28,10
+2016,9,Sant Andreu,63,15-19,44,21
+2016,10,Sant Martí,64,15-19,59,32
+2016,10,Sant Martí,65,15-19,44,22
+2016,10,Sant Martí,66,15-19,51,13
+2016,10,Sant Martí,67,15-19,19,7
+2016,10,Sant Martí,68,15-19,49,25
+2016,10,Sant Martí,69,15-19,22,13
+2016,10,Sant Martí,70,15-19,90,48
+2016,10,Sant Martí,71,15-19,42,27
+2016,10,Sant Martí,72,15-19,106,26
+2016,10,Sant Martí,73,15-19,56,23
+2016,99,No consta,99,15-19,0,1
+2016,1,Ciutat Vella,1,20-24,767,148
+2016,1,Ciutat Vella,2,20-24,414,64
+2016,1,Ciutat Vella,3,20-24,241,41
+2016,1,Ciutat Vella,4,20-24,370,59
+2016,2,Eixample,5,20-24,300,45
+2016,2,Eixample,6,20-24,461,116
+2016,2,Eixample,7,20-24,449,83
+2016,2,Eixample,8,20-24,450,85
+2016,2,Eixample,9,20-24,500,108
+2016,2,Eixample,10,20-24,311,68
+2016,3,Sants-Montjuïc,11,20-24,341,105
+2016,3,Sants-Montjuïc,12,20-24,6,4
+2016,3,Sants-Montjuïc,13,20-24,144,63
+2016,3,Sants-Montjuïc,14,20-24,97,33
+2016,3,Sants-Montjuïc,15,20-24,132,40
+2016,3,Sants-Montjuïc,16,20-24,109,36
+2016,3,Sants-Montjuïc,17,20-24,199,85
+2016,3,Sants-Montjuïc,18,20-24,294,107
+2016,4,Les Corts,19,20-24,201,69
+2016,4,Les Corts,20,20-24,139,43
+2016,4,Les Corts,21,20-24,51,17
+2016,5,Sarrià-Sant Gervasi,22,20-24,14,4
+2016,5,Sarrià-Sant Gervasi,23,20-24,93,30
+2016,5,Sarrià-Sant Gervasi,24,20-24,80,15
+2016,5,Sarrià-Sant Gervasi,25,20-24,113,35
+2016,5,Sarrià-Sant Gervasi,26,20-24,208,65
+2016,5,Sarrià-Sant Gervasi,27,20-24,149,36
+2016,6,Gràcia,28,20-24,69,27
+2016,6,Gràcia,29,20-24,45,25
+2016,6,Gràcia,30,20-24,69,18
+2016,6,Gràcia,31,20-24,405,78
+2016,6,Gràcia,32,20-24,195,48
+2016,7,Horta-Guinardó,33,20-24,121,56
+2016,7,Horta-Guinardó,34,20-24,44,15
+2016,7,Horta-Guinardó,35,20-24,194,46
+2016,7,Horta-Guinardó,36,20-24,14,10
+2016,7,Horta-Guinardó,37,20-24,147,67
+2016,7,Horta-Guinardó,38,20-24,70,19
+2016,7,Horta-Guinardó,39,20-24,34,9
+2016,7,Horta-Guinardó,40,20-24,21,9
+2016,7,Horta-Guinardó,41,20-24,21,2
+2016,7,Horta-Guinardó,42,20-24,3,0
+2016,7,Horta-Guinardó,43,20-24,83,48
+2016,8,Nou Barris,44,20-24,106,35
+2016,8,Nou Barris,45,20-24,138,43
+2016,8,Nou Barris,46,20-24,77,35
+2016,8,Nou Barris,47,20-24,3,1
+2016,8,Nou Barris,48,20-24,48,15
+2016,8,Nou Barris,49,20-24,12,7
+2016,8,Nou Barris,50,20-24,107,48
+2016,8,Nou Barris,51,20-24,69,23
+2016,8,Nou Barris,52,20-24,150,71
+2016,8,Nou Barris,53,20-24,40,20
+2016,8,Nou Barris,54,20-24,16,9
+2016,8,Nou Barris,55,20-24,75,36
+2016,8,Nou Barris,56,20-24,5,6
+2016,9,Sant Andreu,57,20-24,60,31
+2016,9,Sant Andreu,58,20-24,12,9
+2016,9,Sant Andreu,59,20-24,51,36
+2016,9,Sant Andreu,60,20-24,186,91
+2016,9,Sant Andreu,61,20-24,146,66
+2016,9,Sant Andreu,62,20-24,69,33
+2016,9,Sant Andreu,63,20-24,98,29
+2016,10,Sant Martí,64,20-24,269,73
+2016,10,Sant Martí,65,20-24,147,40
+2016,10,Sant Martí,66,20-24,163,27
+2016,10,Sant Martí,67,20-24,35,14
+2016,10,Sant Martí,68,20-24,151,31
+2016,10,Sant Martí,69,20-24,36,16
+2016,10,Sant Martí,70,20-24,164,89
+2016,10,Sant Martí,71,20-24,70,37
+2016,10,Sant Martí,72,20-24,134,63
+2016,10,Sant Martí,73,20-24,101,53
+2016,99,No consta,99,20-24,0,0
+2016,1,Ciutat Vella,1,25-29,1190,294
+2016,1,Ciutat Vella,2,25-29,642,113
+2016,1,Ciutat Vella,3,25-29,460,97
+2016,1,Ciutat Vella,4,25-29,649,133
+2016,2,Eixample,5,25-29,506,140
+2016,2,Eixample,6,25-29,766,206
+2016,2,Eixample,7,25-29,664,156
+2016,2,Eixample,8,25-29,773,160
+2016,2,Eixample,9,25-29,910,220
+2016,2,Eixample,10,25-29,538,155
+2016,3,Sants-Montjuïc,11,25-29,572,208
+2016,3,Sants-Montjuïc,12,25-29,7,4
+2016,3,Sants-Montjuïc,13,25-29,204,142
+2016,3,Sants-Montjuïc,14,25-29,125,63
+2016,3,Sants-Montjuïc,15,25-29,231,80
+2016,3,Sants-Montjuïc,16,25-29,157,77
+2016,3,Sants-Montjuïc,17,25-29,270,153
+2016,3,Sants-Montjuïc,18,25-29,488,212
+2016,4,Les Corts,19,25-29,404,169
+2016,4,Les Corts,20,25-29,244,115
+2016,4,Les Corts,21,25-29,85,31
+2016,5,Sarrià-Sant Gervasi,22,25-29,13,16
+2016,5,Sarrià-Sant Gervasi,23,25-29,110,71
+2016,5,Sarrià-Sant Gervasi,24,25-29,63,36
+2016,5,Sarrià-Sant Gervasi,25,25-29,164,57
+2016,5,Sarrià-Sant Gervasi,26,25-29,362,131
+2016,5,Sarrià-Sant Gervasi,27,25-29,240,105
+2016,6,Gràcia,28,25-29,118,57
+2016,6,Gràcia,29,25-29,57,31
+2016,6,Gràcia,30,25-29,127,31
+2016,6,Gràcia,31,25-29,836,214
+2016,6,Gràcia,32,25-29,380,123
+2016,7,Horta-Guinardó,33,25-29,255,109
+2016,7,Horta-Guinardó,34,25-29,73,36
+2016,7,Horta-Guinardó,35,25-29,322,126
+2016,7,Horta-Guinardó,36,25-29,36,15
+2016,7,Horta-Guinardó,37,25-29,218,117
+2016,7,Horta-Guinardó,38,25-29,104,49
+2016,7,Horta-Guinardó,39,25-29,44,24
+2016,7,Horta-Guinardó,40,25-29,49,15
+2016,7,Horta-Guinardó,41,25-29,25,16
+2016,7,Horta-Guinardó,42,25-29,4,3
+2016,7,Horta-Guinardó,43,25-29,223,84
+2016,8,Nou Barris,44,25-29,160,67
+2016,8,Nou Barris,45,25-29,154,75
+2016,8,Nou Barris,46,25-29,129,39
+2016,8,Nou Barris,47,25-29,7,6
+2016,8,Nou Barris,48,25-29,68,26
+2016,8,Nou Barris,49,25-29,14,18
+2016,8,Nou Barris,50,25-29,137,67
+2016,8,Nou Barris,51,25-29,81,50
+2016,8,Nou Barris,52,25-29,192,98
+2016,8,Nou Barris,53,25-29,59,33
+2016,8,Nou Barris,54,25-29,13,14
+2016,8,Nou Barris,55,25-29,72,49
+2016,8,Nou Barris,56,25-29,6,5
+2016,9,Sant Andreu,57,25-29,82,48
+2016,9,Sant Andreu,58,25-29,14,11
+2016,9,Sant Andreu,59,25-29,66,42
+2016,9,Sant Andreu,60,25-29,278,172
+2016,9,Sant Andreu,61,25-29,202,93
+2016,9,Sant Andreu,62,25-29,95,34
+2016,9,Sant Andreu,63,25-29,156,72
+2016,10,Sant Martí,64,25-29,409,145
+2016,10,Sant Martí,65,25-29,229,92
+2016,10,Sant Martí,66,25-29,179,54
+2016,10,Sant Martí,67,25-29,60,19
+2016,10,Sant Martí,68,25-29,314,110
+2016,10,Sant Martí,69,25-29,83,20
+2016,10,Sant Martí,70,25-29,248,139
+2016,10,Sant Martí,71,25-29,132,55
+2016,10,Sant Martí,72,25-29,165,81
+2016,10,Sant Martí,73,25-29,160,97
+2016,99,No consta,99,25-29,0,0
+2016,1,Ciutat Vella,1,30-34,864,348
+2016,1,Ciutat Vella,2,30-34,345,95
+2016,1,Ciutat Vella,3,30-34,306,113
+2016,1,Ciutat Vella,4,30-34,443,178
+2016,2,Eixample,5,30-34,325,182
+2016,2,Eixample,6,30-34,521,243
+2016,2,Eixample,7,30-34,438,227
+2016,2,Eixample,8,30-34,533,233
+2016,2,Eixample,9,30-34,590,292
+2016,2,Eixample,10,30-34,389,158
+2016,3,Sants-Montjuïc,11,30-34,490,238
+2016,3,Sants-Montjuïc,12,30-34,8,8
+2016,3,Sants-Montjuïc,13,30-34,164,151
+2016,3,Sants-Montjuïc,14,30-34,95,62
+2016,3,Sants-Montjuïc,15,30-34,186,117
+2016,3,Sants-Montjuïc,16,30-34,119,102
+2016,3,Sants-Montjuïc,17,30-34,194,149
+2016,3,Sants-Montjuïc,18,30-34,390,265
+2016,4,Les Corts,19,30-34,340,204
+2016,4,Les Corts,20,30-34,182,113
+2016,4,Les Corts,21,30-34,80,48
+2016,5,Sarrià-Sant Gervasi,22,30-34,23,20
+2016,5,Sarrià-Sant Gervasi,23,30-34,142,86
+2016,5,Sarrià-Sant Gervasi,24,30-34,74,54
+2016,5,Sarrià-Sant Gervasi,25,30-34,118,73
+2016,5,Sarrià-Sant Gervasi,26,30-34,282,165
+2016,5,Sarrià-Sant Gervasi,27,30-34,219,135
+2016,6,Gràcia,28,30-34,112,58
+2016,6,Gràcia,29,30-34,33,31
+2016,6,Gràcia,30,30-34,99,60
+2016,6,Gràcia,31,30-34,630,280
+2016,6,Gràcia,32,30-34,270,176
+2016,7,Horta-Guinardó,33,30-34,166,110
+2016,7,Horta-Guinardó,34,30-34,46,30
+2016,7,Horta-Guinardó,35,30-34,253,175
+2016,7,Horta-Guinardó,36,30-34,26,27
+2016,7,Horta-Guinardó,37,30-34,174,130
+2016,7,Horta-Guinardó,38,30-34,82,50
+2016,7,Horta-Guinardó,39,30-34,43,25
+2016,7,Horta-Guinardó,40,30-34,39,15
+2016,7,Horta-Guinardó,41,30-34,31,15
+2016,7,Horta-Guinardó,42,30-34,1,0
+2016,7,Horta-Guinardó,43,30-34,133,72
+2016,8,Nou Barris,44,30-34,123,99
+2016,8,Nou Barris,45,30-34,143,94
+2016,8,Nou Barris,46,30-34,85,52
+2016,8,Nou Barris,47,30-34,5,6
+2016,8,Nou Barris,48,30-34,46,36
+2016,8,Nou Barris,49,30-34,16,29
+2016,8,Nou Barris,50,30-34,117,76
+2016,8,Nou Barris,51,30-34,91,55
+2016,8,Nou Barris,52,30-34,144,110
+2016,8,Nou Barris,53,30-34,51,26
+2016,8,Nou Barris,54,30-34,18,10
+2016,8,Nou Barris,55,30-34,88,56
+2016,8,Nou Barris,56,30-34,12,2
+2016,9,Sant Andreu,57,30-34,62,50
+2016,9,Sant Andreu,58,30-34,11,9
+2016,9,Sant Andreu,59,30-34,60,55
+2016,9,Sant Andreu,60,30-34,265,180
+2016,9,Sant Andreu,61,30-34,166,116
+2016,9,Sant Andreu,62,30-34,82,54
+2016,9,Sant Andreu,63,30-34,144,92
+2016,10,Sant Martí,64,30-34,329,198
+2016,10,Sant Martí,65,30-34,209,117
+2016,10,Sant Martí,66,30-34,133,80
+2016,10,Sant Martí,67,30-34,53,31
+2016,10,Sant Martí,68,30-34,311,149
+2016,10,Sant Martí,69,30-34,100,49
+2016,10,Sant Martí,70,30-34,227,129
+2016,10,Sant Martí,71,30-34,131,91
+2016,10,Sant Martí,72,30-34,143,112
+2016,10,Sant Martí,73,30-34,141,109
+2016,99,No consta,99,30-34,0,0
+2016,1,Ciutat Vella,1,35-39,496,319
+2016,1,Ciutat Vella,2,35-39,215,120
+2016,1,Ciutat Vella,3,35-39,151,100
+2016,1,Ciutat Vella,4,35-39,264,143
+2016,2,Eixample,5,35-39,221,136
+2016,2,Eixample,6,35-39,340,265
+2016,2,Eixample,7,35-39,305,166
+2016,2,Eixample,8,35-39,297,178
+2016,2,Eixample,9,35-39,349,277
+2016,2,Eixample,10,35-39,205,150
+2016,3,Sants-Montjuïc,11,35-39,323,218
+2016,3,Sants-Montjuïc,12,35-39,2,6
+2016,3,Sants-Montjuïc,13,35-39,131,107
+2016,3,Sants-Montjuïc,14,35-39,82,49
+2016,3,Sants-Montjuïc,15,35-39,116,102
+2016,3,Sants-Montjuïc,16,35-39,110,80
+2016,3,Sants-Montjuïc,17,35-39,158,142
+2016,3,Sants-Montjuïc,18,35-39,266,223
+2016,4,Les Corts,19,35-39,242,158
+2016,4,Les Corts,20,35-39,124,86
+2016,4,Les Corts,21,35-39,81,39
+2016,5,Sarrià-Sant Gervasi,22,35-39,19,18
+2016,5,Sarrià-Sant Gervasi,23,35-39,123,82
+2016,5,Sarrià-Sant Gervasi,24,35-39,51,33
+2016,5,Sarrià-Sant Gervasi,25,35-39,107,66
+2016,5,Sarrià-Sant Gervasi,26,35-39,226,127
+2016,5,Sarrià-Sant Gervasi,27,35-39,132,128
+2016,6,Gràcia,28,35-39,72,55
+2016,6,Gràcia,29,35-39,36,19
+2016,6,Gràcia,30,35-39,63,48
+2016,6,Gràcia,31,35-39,327,247
+2016,6,Gràcia,32,35-39,161,123
+2016,7,Horta-Guinardó,33,35-39,117,61
+2016,7,Horta-Guinardó,34,35-39,52,31
+2016,7,Horta-Guinardó,35,35-39,176,130
+2016,7,Horta-Guinardó,36,35-39,21,29
+2016,7,Horta-Guinardó,37,35-39,106,116
+2016,7,Horta-Guinardó,38,35-39,55,40
+2016,7,Horta-Guinardó,39,35-39,41,9
+2016,7,Horta-Guinardó,40,35-39,28,16
+2016,7,Horta-Guinardó,41,35-39,29,11
+2016,7,Horta-Guinardó,42,35-39,5,2
+2016,7,Horta-Guinardó,43,35-39,97,84
+2016,8,Nou Barris,44,35-39,102,90
+2016,8,Nou Barris,45,35-39,135,70
+2016,8,Nou Barris,46,35-39,72,50
+2016,8,Nou Barris,47,35-39,5,4
+2016,8,Nou Barris,48,35-39,56,23
+2016,8,Nou Barris,49,35-39,25,20
+2016,8,Nou Barris,50,35-39,92,58
+2016,8,Nou Barris,51,35-39,71,54
+2016,8,Nou Barris,52,35-39,119,92
+2016,8,Nou Barris,53,35-39,37,35
+2016,8,Nou Barris,54,35-39,17,11
+2016,8,Nou Barris,55,35-39,64,46
+2016,8,Nou Barris,56,35-39,8,2
+2016,9,Sant Andreu,57,35-39,61,61
+2016,9,Sant Andreu,58,35-39,4,10
+2016,9,Sant Andreu,59,35-39,53,50
+2016,9,Sant Andreu,60,35-39,193,199
+2016,9,Sant Andreu,61,35-39,142,106
+2016,9,Sant Andreu,62,35-39,71,53
+2016,9,Sant Andreu,63,35-39,94,71
+2016,10,Sant Martí,64,35-39,207,173
+2016,10,Sant Martí,65,35-39,132,110
+2016,10,Sant Martí,66,35-39,95,62
+2016,10,Sant Martí,67,35-39,60,29
+2016,10,Sant Martí,68,35-39,224,151
+2016,10,Sant Martí,69,35-39,91,58
+2016,10,Sant Martí,70,35-39,180,135
+2016,10,Sant Martí,71,35-39,107,82
+2016,10,Sant Martí,72,35-39,98,90
+2016,10,Sant Martí,73,35-39,99,84
+2016,99,No consta,99,35-39,1,0
+2016,1,Ciutat Vella,1,40-44,322,220
+2016,1,Ciutat Vella,2,40-44,118,97
+2016,1,Ciutat Vella,3,40-44,90,75
+2016,1,Ciutat Vella,4,40-44,144,99
+2016,2,Eixample,5,40-44,111,95
+2016,2,Eixample,6,40-44,195,153
+2016,2,Eixample,7,40-44,192,145
+2016,2,Eixample,8,40-44,166,121
+2016,2,Eixample,9,40-44,231,168
+2016,2,Eixample,10,40-44,139,125
+2016,3,Sants-Montjuïc,11,40-44,176,173
+2016,3,Sants-Montjuïc,12,40-44,2,1
+2016,3,Sants-Montjuïc,13,40-44,113,87
+2016,3,Sants-Montjuïc,14,40-44,38,33
+2016,3,Sants-Montjuïc,15,40-44,73,54
+2016,3,Sants-Montjuïc,16,40-44,80,46
+2016,3,Sants-Montjuïc,17,40-44,102,91
+2016,3,Sants-Montjuïc,18,40-44,161,145
+2016,4,Les Corts,19,40-44,149,136
+2016,4,Les Corts,20,40-44,75,77
+2016,4,Les Corts,21,40-44,70,25
+2016,5,Sarrià-Sant Gervasi,22,40-44,16,8
+2016,5,Sarrià-Sant Gervasi,23,40-44,106,68
+2016,5,Sarrià-Sant Gervasi,24,40-44,68,60
+2016,5,Sarrià-Sant Gervasi,25,40-44,91,58
+2016,5,Sarrià-Sant Gervasi,26,40-44,184,128
+2016,5,Sarrià-Sant Gervasi,27,40-44,91,72
+2016,6,Gràcia,28,40-44,53,42
+2016,6,Gràcia,29,40-44,31,38
+2016,6,Gràcia,30,40-44,26,20
+2016,6,Gràcia,31,40-44,169,177
+2016,6,Gràcia,32,40-44,95,82
+2016,7,Horta-Guinardó,33,40-44,66,75
+2016,7,Horta-Guinardó,34,40-44,31,24
+2016,7,Horta-Guinardó,35,40-44,122,98
+2016,7,Horta-Guinardó,36,40-44,21,27
+2016,7,Horta-Guinardó,37,40-44,99,81
+2016,7,Horta-Guinardó,38,40-44,38,31
+2016,7,Horta-Guinardó,39,40-44,17,19
+2016,7,Horta-Guinardó,40,40-44,9,9
+2016,7,Horta-Guinardó,41,40-44,13,10
+2016,7,Horta-Guinardó,42,40-44,5,2
+2016,7,Horta-Guinardó,43,40-44,70,58
+2016,8,Nou Barris,44,40-44,77,61
+2016,8,Nou Barris,45,40-44,108,58
+2016,8,Nou Barris,46,40-44,37,47
+2016,8,Nou Barris,47,40-44,5,3
+2016,8,Nou Barris,48,40-44,51,22
+2016,8,Nou Barris,49,40-44,10,10
+2016,8,Nou Barris,50,40-44,63,39
+2016,8,Nou Barris,51,40-44,38,35
+2016,8,Nou Barris,52,40-44,74,63
+2016,8,Nou Barris,53,40-44,31,19
+2016,8,Nou Barris,54,40-44,10,5
+2016,8,Nou Barris,55,40-44,57,33
+2016,8,Nou Barris,56,40-44,2,7
+2016,9,Sant Andreu,57,40-44,54,34
+2016,9,Sant Andreu,58,40-44,8,7
+2016,9,Sant Andreu,59,40-44,43,44
+2016,9,Sant Andreu,60,40-44,134,139
+2016,9,Sant Andreu,61,40-44,86,60
+2016,9,Sant Andreu,62,40-44,38,33
+2016,9,Sant Andreu,63,40-44,70,65
+2016,10,Sant Martí,64,40-44,146,133
+2016,10,Sant Martí,65,40-44,72,75
+2016,10,Sant Martí,66,40-44,59,43
+2016,10,Sant Martí,67,40-44,37,18
+2016,10,Sant Martí,68,40-44,146,114
+2016,10,Sant Martí,69,40-44,72,50
+2016,10,Sant Martí,70,40-44,126,95
+2016,10,Sant Martí,71,40-44,66,72
+2016,10,Sant Martí,72,40-44,57,58
+2016,10,Sant Martí,73,40-44,89,67
+2016,99,No consta,99,40-44,0,0
+2016,1,Ciutat Vella,1,45-49,213,163
+2016,1,Ciutat Vella,2,45-49,68,47
+2016,1,Ciutat Vella,3,45-49,47,33
+2016,1,Ciutat Vella,4,45-49,71,66
+2016,2,Eixample,5,45-49,81,54
+2016,2,Eixample,6,45-49,131,112
+2016,2,Eixample,7,45-49,133,88
+2016,2,Eixample,8,45-49,109,73
+2016,2,Eixample,9,45-49,128,121
+2016,2,Eixample,10,45-49,78,59
+2016,3,Sants-Montjuïc,11,45-49,122,112
+2016,3,Sants-Montjuïc,12,45-49,1,2
+2016,3,Sants-Montjuïc,13,45-49,78,62
+2016,3,Sants-Montjuïc,14,45-49,33,24
+2016,3,Sants-Montjuïc,15,45-49,56,58
+2016,3,Sants-Montjuïc,16,45-49,37,49
+2016,3,Sants-Montjuïc,17,45-49,58,55
+2016,3,Sants-Montjuïc,18,45-49,107,94
+2016,4,Les Corts,19,45-49,101,86
+2016,4,Les Corts,20,45-49,63,53
+2016,4,Les Corts,21,45-49,45,38
+2016,5,Sarrià-Sant Gervasi,22,45-49,6,10
+2016,5,Sarrià-Sant Gervasi,23,45-49,72,52
+2016,5,Sarrià-Sant Gervasi,24,45-49,37,33
+2016,5,Sarrià-Sant Gervasi,25,45-49,49,55
+2016,5,Sarrià-Sant Gervasi,26,45-49,148,81
+2016,5,Sarrià-Sant Gervasi,27,45-49,62,57
+2016,6,Gràcia,28,45-49,37,31
+2016,6,Gràcia,29,45-49,19,14
+2016,6,Gràcia,30,45-49,20,19
+2016,6,Gràcia,31,45-49,103,104
+2016,6,Gràcia,32,45-49,65,43
+2016,7,Horta-Guinardó,33,45-49,47,48
+2016,7,Horta-Guinardó,34,45-49,22,10
+2016,7,Horta-Guinardó,35,45-49,96,80
+2016,7,Horta-Guinardó,36,45-49,11,14
+2016,7,Horta-Guinardó,37,45-49,54,55
+2016,7,Horta-Guinardó,38,45-49,21,15
+2016,7,Horta-Guinardó,39,45-49,19,13
+2016,7,Horta-Guinardó,40,45-49,6,13
+2016,7,Horta-Guinardó,41,45-49,14,7
+2016,7,Horta-Guinardó,42,45-49,0,0
+2016,7,Horta-Guinardó,43,45-49,49,42
+2016,8,Nou Barris,44,45-49,43,28
+2016,8,Nou Barris,45,45-49,71,57
+2016,8,Nou Barris,46,45-49,40,32
+2016,8,Nou Barris,47,45-49,2,7
+2016,8,Nou Barris,48,45-49,31,24
+2016,8,Nou Barris,49,45-49,4,11
+2016,8,Nou Barris,50,45-49,47,43
+2016,8,Nou Barris,51,45-49,28,22
+2016,8,Nou Barris,52,45-49,62,39
+2016,8,Nou Barris,53,45-49,15,16
+2016,8,Nou Barris,54,45-49,10,2
+2016,8,Nou Barris,55,45-49,31,20
+2016,8,Nou Barris,56,45-49,3,4
+2016,9,Sant Andreu,57,45-49,39,20
+2016,9,Sant Andreu,58,45-49,10,6
+2016,9,Sant Andreu,59,45-49,33,33
+2016,9,Sant Andreu,60,45-49,96,75
+2016,9,Sant Andreu,61,45-49,61,43
+2016,9,Sant Andreu,62,45-49,33,23
+2016,9,Sant Andreu,63,45-49,49,51
+2016,10,Sant Martí,64,45-49,92,93
+2016,10,Sant Martí,65,45-49,58,45
+2016,10,Sant Martí,66,45-49,39,24
+2016,10,Sant Martí,67,45-49,17,18
+2016,10,Sant Martí,68,45-49,80,58
+2016,10,Sant Martí,69,45-49,45,29
+2016,10,Sant Martí,70,45-49,94,74
+2016,10,Sant Martí,71,45-49,43,33
+2016,10,Sant Martí,72,45-49,51,53
+2016,10,Sant Martí,73,45-49,79,55
+2016,99,No consta,99,45-49,3,1
+2016,1,Ciutat Vella,1,50-54,132,96
+2016,1,Ciutat Vella,2,50-54,55,40
+2016,1,Ciutat Vella,3,50-54,33,21
+2016,1,Ciutat Vella,4,50-54,51,29
+2016,2,Eixample,5,50-54,67,41
+2016,2,Eixample,6,50-54,101,81
+2016,2,Eixample,7,50-54,118,70
+2016,2,Eixample,8,50-54,78,76
+2016,2,Eixample,9,50-54,105,73
+2016,2,Eixample,10,50-54,74,56
+2016,3,Sants-Montjuïc,11,50-54,94,78
+2016,3,Sants-Montjuïc,12,50-54,1,1
+2016,3,Sants-Montjuïc,13,50-54,59,50
+2016,3,Sants-Montjuïc,14,50-54,12,20
+2016,3,Sants-Montjuïc,15,50-54,26,30
+2016,3,Sants-Montjuïc,16,50-54,29,19
+2016,3,Sants-Montjuïc,17,50-54,39,50
+2016,3,Sants-Montjuïc,18,50-54,87,66
+2016,4,Les Corts,19,50-54,59,66
+2016,4,Les Corts,20,50-54,45,33
+2016,4,Les Corts,21,50-54,36,23
+2016,5,Sarrià-Sant Gervasi,22,50-54,7,6
+2016,5,Sarrià-Sant Gervasi,23,50-54,50,45
+2016,5,Sarrià-Sant Gervasi,24,50-54,32,22
+2016,5,Sarrià-Sant Gervasi,25,50-54,46,39
+2016,5,Sarrià-Sant Gervasi,26,50-54,122,67
+2016,5,Sarrià-Sant Gervasi,27,50-54,47,40
+2016,6,Gràcia,28,50-54,27,18
+2016,6,Gràcia,29,50-54,9,11
+2016,6,Gràcia,30,50-54,18,15
+2016,6,Gràcia,31,50-54,85,78
+2016,6,Gràcia,32,50-54,39,30
+2016,7,Horta-Guinardó,33,50-54,29,21
+2016,7,Horta-Guinardó,34,50-54,14,17
+2016,7,Horta-Guinardó,35,50-54,57,43
+2016,7,Horta-Guinardó,36,50-54,6,7
+2016,7,Horta-Guinardó,37,50-54,54,40
+2016,7,Horta-Guinardó,38,50-54,19,17
+2016,7,Horta-Guinardó,39,50-54,12,9
+2016,7,Horta-Guinardó,40,50-54,7,6
+2016,7,Horta-Guinardó,41,50-54,9,9
+2016,7,Horta-Guinardó,42,50-54,1,0
+2016,7,Horta-Guinardó,43,50-54,45,35
+2016,8,Nou Barris,44,50-54,40,31
+2016,8,Nou Barris,45,50-54,46,40
+2016,8,Nou Barris,46,50-54,32,18
+2016,8,Nou Barris,47,50-54,6,3
+2016,8,Nou Barris,48,50-54,17,14
+2016,8,Nou Barris,49,50-54,7,4
+2016,8,Nou Barris,50,50-54,25,21
+2016,8,Nou Barris,51,50-54,27,13
+2016,8,Nou Barris,52,50-54,48,33
+2016,8,Nou Barris,53,50-54,14,15
+2016,8,Nou Barris,54,50-54,10,3
+2016,8,Nou Barris,55,50-54,30,17
+2016,8,Nou Barris,56,50-54,0,1
+2016,9,Sant Andreu,57,50-54,28,16
+2016,9,Sant Andreu,58,50-54,4,3
+2016,9,Sant Andreu,59,50-54,18,23
+2016,9,Sant Andreu,60,50-54,72,54
+2016,9,Sant Andreu,61,50-54,46,35
+2016,9,Sant Andreu,62,50-54,25,17
+2016,9,Sant Andreu,63,50-54,40,26
+2016,10,Sant Martí,64,50-54,64,61
+2016,10,Sant Martí,65,50-54,46,36
+2016,10,Sant Martí,66,50-54,15,31
+2016,10,Sant Martí,67,50-54,15,14
+2016,10,Sant Martí,68,50-54,49,54
+2016,10,Sant Martí,69,50-54,31,15
+2016,10,Sant Martí,70,50-54,69,48
+2016,10,Sant Martí,71,50-54,40,35
+2016,10,Sant Martí,72,50-54,50,39
+2016,10,Sant Martí,73,50-54,48,29
+2016,99,No consta,99,50-54,0,0
+2016,1,Ciutat Vella,1,55-59,96,60
+2016,1,Ciutat Vella,2,55-59,41,27
+2016,1,Ciutat Vella,3,55-59,29,27
+2016,1,Ciutat Vella,4,55-59,36,21
+2016,2,Eixample,5,55-59,55,36
+2016,2,Eixample,6,55-59,68,59
+2016,2,Eixample,7,55-59,73,65
+2016,2,Eixample,8,55-59,60,44
+2016,2,Eixample,9,55-59,87,52
+2016,2,Eixample,10,55-59,51,60
+2016,3,Sants-Montjuïc,11,55-59,75,54
+2016,3,Sants-Montjuïc,12,55-59,0,3
+2016,3,Sants-Montjuïc,13,55-59,37,39
+2016,3,Sants-Montjuïc,14,55-59,11,13
+2016,3,Sants-Montjuïc,15,55-59,20,20
+2016,3,Sants-Montjuïc,16,55-59,35,27
+2016,3,Sants-Montjuïc,17,55-59,29,43
+2016,3,Sants-Montjuïc,18,55-59,56,55
+2016,4,Les Corts,19,55-59,47,53
+2016,4,Les Corts,20,55-59,37,35
+2016,4,Les Corts,21,55-59,32,16
+2016,5,Sarrià-Sant Gervasi,22,55-59,9,3
+2016,5,Sarrià-Sant Gervasi,23,55-59,37,35
+2016,5,Sarrià-Sant Gervasi,24,55-59,18,21
+2016,5,Sarrià-Sant Gervasi,25,55-59,23,30
+2016,5,Sarrià-Sant Gervasi,26,55-59,60,64
+2016,5,Sarrià-Sant Gervasi,27,55-59,28,28
+2016,6,Gràcia,28,55-59,27,19
+2016,6,Gràcia,29,55-59,10,5
+2016,6,Gràcia,30,55-59,18,8
+2016,6,Gràcia,31,55-59,69,49
+2016,6,Gràcia,32,55-59,19,36
+2016,7,Horta-Guinardó,33,55-59,36,26
+2016,7,Horta-Guinardó,34,55-59,8,7
+2016,7,Horta-Guinardó,35,55-59,46,38
+2016,7,Horta-Guinardó,36,55-59,8,13
+2016,7,Horta-Guinardó,37,55-59,26,31
+2016,7,Horta-Guinardó,38,55-59,14,10
+2016,7,Horta-Guinardó,39,55-59,11,3
+2016,7,Horta-Guinardó,40,55-59,5,3
+2016,7,Horta-Guinardó,41,55-59,4,4
+2016,7,Horta-Guinardó,42,55-59,0,0
+2016,7,Horta-Guinardó,43,55-59,24,22
+2016,8,Nou Barris,44,55-59,34,37
+2016,8,Nou Barris,45,55-59,39,30
+2016,8,Nou Barris,46,55-59,26,13
+2016,8,Nou Barris,47,55-59,5,2
+2016,8,Nou Barris,48,55-59,10,11
+2016,8,Nou Barris,49,55-59,4,9
+2016,8,Nou Barris,50,55-59,26,16
+2016,8,Nou Barris,51,55-59,23,16
+2016,8,Nou Barris,52,55-59,28,18
+2016,8,Nou Barris,53,55-59,14,12
+2016,8,Nou Barris,54,55-59,3,2
+2016,8,Nou Barris,55,55-59,16,12
+2016,8,Nou Barris,56,55-59,3,3
+2016,9,Sant Andreu,57,55-59,13,15
+2016,9,Sant Andreu,58,55-59,3,5
+2016,9,Sant Andreu,59,55-59,19,20
+2016,9,Sant Andreu,60,55-59,66,58
+2016,9,Sant Andreu,61,55-59,28,26
+2016,9,Sant Andreu,62,55-59,18,14
+2016,9,Sant Andreu,63,55-59,32,19
+2016,10,Sant Martí,64,55-59,50,48
+2016,10,Sant Martí,65,55-59,29,33
+2016,10,Sant Martí,66,55-59,17,19
+2016,10,Sant Martí,67,55-59,15,9
+2016,10,Sant Martí,68,55-59,28,32
+2016,10,Sant Martí,69,55-59,25,7
+2016,10,Sant Martí,70,55-59,36,28
+2016,10,Sant Martí,71,55-59,31,29
+2016,10,Sant Martí,72,55-59,37,33
+2016,10,Sant Martí,73,55-59,34,31
+2016,99,No consta,99,55-59,0,0
+2016,1,Ciutat Vella,1,60-64,84,51
+2016,1,Ciutat Vella,2,60-64,32,16
+2016,1,Ciutat Vella,3,60-64,29,20
+2016,1,Ciutat Vella,4,60-64,26,17
+2016,2,Eixample,5,60-64,32,29
+2016,2,Eixample,6,60-64,57,53
+2016,2,Eixample,7,60-64,61,47
+2016,2,Eixample,8,60-64,45,47
+2016,2,Eixample,9,60-64,56,57
+2016,2,Eixample,10,60-64,37,29
+2016,3,Sants-Montjuïc,11,60-64,35,39
+2016,3,Sants-Montjuïc,12,60-64,0,1
+2016,3,Sants-Montjuïc,13,60-64,27,30
+2016,3,Sants-Montjuïc,14,60-64,15,11
+2016,3,Sants-Montjuïc,15,60-64,13,16
+2016,3,Sants-Montjuïc,16,60-64,29,17
+2016,3,Sants-Montjuïc,17,60-64,24,37
+2016,3,Sants-Montjuïc,18,60-64,39,45
+2016,4,Les Corts,19,60-64,47,44
+2016,4,Les Corts,20,60-64,28,27
+2016,4,Les Corts,21,60-64,13,22
+2016,5,Sarrià-Sant Gervasi,22,60-64,10,8
+2016,5,Sarrià-Sant Gervasi,23,60-64,17,18
+2016,5,Sarrià-Sant Gervasi,24,60-64,12,10
+2016,5,Sarrià-Sant Gervasi,25,60-64,20,32
+2016,5,Sarrià-Sant Gervasi,26,60-64,49,54
+2016,5,Sarrià-Sant Gervasi,27,60-64,33,41
+2016,6,Gràcia,28,60-64,13,14
+2016,6,Gràcia,29,60-64,8,7
+2016,6,Gràcia,30,60-64,10,10
+2016,6,Gràcia,31,60-64,48,43
+2016,6,Gràcia,32,60-64,37,30
+2016,7,Horta-Guinardó,33,60-64,24,26
+2016,7,Horta-Guinardó,34,60-64,6,10
+2016,7,Horta-Guinardó,35,60-64,27,23
+2016,7,Horta-Guinardó,36,60-64,9,7
+2016,7,Horta-Guinardó,37,60-64,23,21
+2016,7,Horta-Guinardó,38,60-64,5,9
+2016,7,Horta-Guinardó,39,60-64,6,4
+2016,7,Horta-Guinardó,40,60-64,8,6
+2016,7,Horta-Guinardó,41,60-64,10,6
+2016,7,Horta-Guinardó,42,60-64,1,1
+2016,7,Horta-Guinardó,43,60-64,18,13
+2016,8,Nou Barris,44,60-64,18,22
+2016,8,Nou Barris,45,60-64,27,27
+2016,8,Nou Barris,46,60-64,19,9
+2016,8,Nou Barris,47,60-64,2,0
+2016,8,Nou Barris,48,60-64,8,8
+2016,8,Nou Barris,49,60-64,5,9
+2016,8,Nou Barris,50,60-64,16,13
+2016,8,Nou Barris,51,60-64,8,12
+2016,8,Nou Barris,52,60-64,14,17
+2016,8,Nou Barris,53,60-64,8,7
+2016,8,Nou Barris,54,60-64,1,0
+2016,8,Nou Barris,55,60-64,9,7
+2016,8,Nou Barris,56,60-64,2,1
+2016,9,Sant Andreu,57,60-64,10,7
+2016,9,Sant Andreu,58,60-64,1,3
+2016,9,Sant Andreu,59,60-64,9,13
+2016,9,Sant Andreu,60,60-64,40,54
+2016,9,Sant Andreu,61,60-64,29,25
+2016,9,Sant Andreu,62,60-64,12,10
+2016,9,Sant Andreu,63,60-64,18,32
+2016,10,Sant Martí,64,60-64,41,45
+2016,10,Sant Martí,65,60-64,30,29
+2016,10,Sant Martí,66,60-64,12,13
+2016,10,Sant Martí,67,60-64,8,7
+2016,10,Sant Martí,68,60-64,22,17
+2016,10,Sant Martí,69,60-64,9,12
+2016,10,Sant Martí,70,60-64,31,14
+2016,10,Sant Martí,71,60-64,19,21
+2016,10,Sant Martí,72,60-64,36,20
+2016,10,Sant Martí,73,60-64,24,23
+2016,99,No consta,99,60-64,2,0
+2016,1,Ciutat Vella,1,65-69,55,36
+2016,1,Ciutat Vella,2,65-69,21,10
+2016,1,Ciutat Vella,3,65-69,10,12
+2016,1,Ciutat Vella,4,65-69,11,17
+2016,2,Eixample,5,65-69,20,23
+2016,2,Eixample,6,65-69,42,36
+2016,2,Eixample,7,65-69,54,42
+2016,2,Eixample,8,65-69,40,50
+2016,2,Eixample,9,65-69,55,64
+2016,2,Eixample,10,65-69,25,36
+2016,3,Sants-Montjuïc,11,65-69,40,53
+2016,3,Sants-Montjuïc,12,65-69,0,0
+2016,3,Sants-Montjuïc,13,65-69,19,23
+2016,3,Sants-Montjuïc,14,65-69,7,14
+2016,3,Sants-Montjuïc,15,65-69,14,22
+2016,3,Sants-Montjuïc,16,65-69,20,20
+2016,3,Sants-Montjuïc,17,65-69,20,27
+2016,3,Sants-Montjuïc,18,65-69,36,34
+2016,4,Les Corts,19,65-69,34,47
+2016,4,Les Corts,20,65-69,27,23
+2016,4,Les Corts,21,65-69,13,10
+2016,5,Sarrià-Sant Gervasi,22,65-69,2,0
+2016,5,Sarrià-Sant Gervasi,23,65-69,18,22
+2016,5,Sarrià-Sant Gervasi,24,65-69,11,19
+2016,5,Sarrià-Sant Gervasi,25,65-69,25,23
+2016,5,Sarrià-Sant Gervasi,26,65-69,38,52
+2016,5,Sarrià-Sant Gervasi,27,65-69,25,40
+2016,6,Gràcia,28,65-69,11,12
+2016,6,Gràcia,29,65-69,9,10
+2016,6,Gràcia,30,65-69,14,10
+2016,6,Gràcia,31,65-69,32,45
+2016,6,Gràcia,32,65-69,26,21
+2016,7,Horta-Guinardó,33,65-69,19,15
+2016,7,Horta-Guinardó,34,65-69,5,15
+2016,7,Horta-Guinardó,35,65-69,22,33
+2016,7,Horta-Guinardó,36,65-69,5,9
+2016,7,Horta-Guinardó,37,65-69,23,22
+2016,7,Horta-Guinardó,38,65-69,3,10
+2016,7,Horta-Guinardó,39,65-69,4,7
+2016,7,Horta-Guinardó,40,65-69,3,2
+2016,7,Horta-Guinardó,41,65-69,6,5
+2016,7,Horta-Guinardó,42,65-69,0,0
+2016,7,Horta-Guinardó,43,65-69,10,21
+2016,8,Nou Barris,44,65-69,22,22
+2016,8,Nou Barris,45,65-69,15,14
+2016,8,Nou Barris,46,65-69,15,14
+2016,8,Nou Barris,47,65-69,2,0
+2016,8,Nou Barris,48,65-69,4,5
+2016,8,Nou Barris,49,65-69,2,1
+2016,8,Nou Barris,50,65-69,17,16
+2016,8,Nou Barris,51,65-69,10,6
+2016,8,Nou Barris,52,65-69,18,16
+2016,8,Nou Barris,53,65-69,9,9
+2016,8,Nou Barris,54,65-69,1,1
+2016,8,Nou Barris,55,65-69,4,11
+2016,8,Nou Barris,56,65-69,0,2
+2016,9,Sant Andreu,57,65-69,5,4
+2016,9,Sant Andreu,58,65-69,1,3
+2016,9,Sant Andreu,59,65-69,7,12
+2016,9,Sant Andreu,60,65-69,48,42
+2016,9,Sant Andreu,61,65-69,20,22
+2016,9,Sant Andreu,62,65-69,9,5
+2016,9,Sant Andreu,63,65-69,21,20
+2016,10,Sant Martí,64,65-69,27,32
+2016,10,Sant Martí,65,65-69,19,26
+2016,10,Sant Martí,66,65-69,9,13
+2016,10,Sant Martí,67,65-69,6,11
+2016,10,Sant Martí,68,65-69,25,20
+2016,10,Sant Martí,69,65-69,19,12
+2016,10,Sant Martí,70,65-69,22,20
+2016,10,Sant Martí,71,65-69,10,10
+2016,10,Sant Martí,72,65-69,17,20
+2016,10,Sant Martí,73,65-69,13,14
+2016,99,No consta,99,65-69,0,0
+2016,1,Ciutat Vella,1,70-74,28,19
+2016,1,Ciutat Vella,2,70-74,10,10
+2016,1,Ciutat Vella,3,70-74,13,5
+2016,1,Ciutat Vella,4,70-74,12,14
+2016,2,Eixample,5,70-74,24,20
+2016,2,Eixample,6,70-74,35,23
+2016,2,Eixample,7,70-74,34,44
+2016,2,Eixample,8,70-74,22,18
+2016,2,Eixample,9,70-74,31,37
+2016,2,Eixample,10,70-74,11,18
+2016,3,Sants-Montjuïc,11,70-74,14,20
+2016,3,Sants-Montjuïc,12,70-74,0,0
+2016,3,Sants-Montjuïc,13,70-74,15,19
+2016,3,Sants-Montjuïc,14,70-74,6,1
+2016,3,Sants-Montjuïc,15,70-74,12,16
+2016,3,Sants-Montjuïc,16,70-74,13,18
+2016,3,Sants-Montjuïc,17,70-74,17,13
+2016,3,Sants-Montjuïc,18,70-74,19,15
+2016,4,Les Corts,19,70-74,20,32
+2016,4,Les Corts,20,70-74,17,17
+2016,4,Les Corts,21,70-74,4,5
+2016,5,Sarrià-Sant Gervasi,22,70-74,1,5
+2016,5,Sarrià-Sant Gervasi,23,70-74,9,8
+2016,5,Sarrià-Sant Gervasi,24,70-74,9,14
+2016,5,Sarrià-Sant Gervasi,25,70-74,16,19
+2016,5,Sarrià-Sant Gervasi,26,70-74,23,30
+2016,5,Sarrià-Sant Gervasi,27,70-74,14,34
+2016,6,Gràcia,28,70-74,10,15
+2016,6,Gràcia,29,70-74,5,7
+2016,6,Gràcia,30,70-74,9,11
+2016,6,Gràcia,31,70-74,23,25
+2016,6,Gràcia,32,70-74,21,21
+2016,7,Horta-Guinardó,33,70-74,16,18
+2016,7,Horta-Guinardó,34,70-74,7,4
+2016,7,Horta-Guinardó,35,70-74,13,12
+2016,7,Horta-Guinardó,36,70-74,2,4
+2016,7,Horta-Guinardó,37,70-74,10,12
+2016,7,Horta-Guinardó,38,70-74,8,4
+2016,7,Horta-Guinardó,39,70-74,6,2
+2016,7,Horta-Guinardó,40,70-74,7,3
+2016,7,Horta-Guinardó,41,70-74,5,3
+2016,7,Horta-Guinardó,42,70-74,1,0
+2016,7,Horta-Guinardó,43,70-74,5,12
+2016,8,Nou Barris,44,70-74,11,13
+2016,8,Nou Barris,45,70-74,11,11
+2016,8,Nou Barris,46,70-74,9,10
+2016,8,Nou Barris,47,70-74,1,0
+2016,8,Nou Barris,48,70-74,8,4
+2016,8,Nou Barris,49,70-74,2,2
+2016,8,Nou Barris,50,70-74,6,2
+2016,8,Nou Barris,51,70-74,7,5
+2016,8,Nou Barris,52,70-74,14,15
+2016,8,Nou Barris,53,70-74,2,4
+2016,8,Nou Barris,54,70-74,0,1
+2016,8,Nou Barris,55,70-74,5,7
+2016,8,Nou Barris,56,70-74,1,1
+2016,9,Sant Andreu,57,70-74,2,4
+2016,9,Sant Andreu,58,70-74,0,0
+2016,9,Sant Andreu,59,70-74,5,7
+2016,9,Sant Andreu,60,70-74,19,37
+2016,9,Sant Andreu,61,70-74,12,10
+2016,9,Sant Andreu,62,70-74,10,8
+2016,9,Sant Andreu,63,70-74,11,19
+2016,10,Sant Martí,64,70-74,16,21
+2016,10,Sant Martí,65,70-74,17,16
+2016,10,Sant Martí,66,70-74,3,10
+2016,10,Sant Martí,67,70-74,3,1
+2016,10,Sant Martí,68,70-74,11,12
+2016,10,Sant Martí,69,70-74,9,7
+2016,10,Sant Martí,70,70-74,11,6
+2016,10,Sant Martí,71,70-74,5,6
+2016,10,Sant Martí,72,70-74,14,10
+2016,10,Sant Martí,73,70-74,12,22
+2016,99,No consta,99,70-74,0,0
+2016,1,Ciutat Vella,1,75-79,10,13
+2016,1,Ciutat Vella,2,75-79,5,5
+2016,1,Ciutat Vella,3,75-79,2,6
+2016,1,Ciutat Vella,4,75-79,7,6
+2016,2,Eixample,5,75-79,18,12
+2016,2,Eixample,6,75-79,14,15
+2016,2,Eixample,7,75-79,15,23
+2016,2,Eixample,8,75-79,9,13
+2016,2,Eixample,9,75-79,22,30
+2016,2,Eixample,10,75-79,12,14
+2016,3,Sants-Montjuïc,11,75-79,11,19
+2016,3,Sants-Montjuïc,12,75-79,0,1
+2016,3,Sants-Montjuïc,13,75-79,11,10
+2016,3,Sants-Montjuïc,14,75-79,5,3
+2016,3,Sants-Montjuïc,15,75-79,3,8
+2016,3,Sants-Montjuïc,16,75-79,1,8
+2016,3,Sants-Montjuïc,17,75-79,15,14
+2016,3,Sants-Montjuïc,18,75-79,17,19
+2016,4,Les Corts,19,75-79,14,19
+2016,4,Les Corts,20,75-79,12,14
+2016,4,Les Corts,21,75-79,5,1
+2016,5,Sarrià-Sant Gervasi,22,75-79,0,5
+2016,5,Sarrià-Sant Gervasi,23,75-79,9,12
+2016,5,Sarrià-Sant Gervasi,24,75-79,2,4
+2016,5,Sarrià-Sant Gervasi,25,75-79,14,20
+2016,5,Sarrià-Sant Gervasi,26,75-79,26,24
+2016,5,Sarrià-Sant Gervasi,27,75-79,13,11
+2016,6,Gràcia,28,75-79,3,7
+2016,6,Gràcia,29,75-79,3,5
+2016,6,Gràcia,30,75-79,11,9
+2016,6,Gràcia,31,75-79,17,19
+2016,6,Gràcia,32,75-79,10,11
+2016,7,Horta-Guinardó,33,75-79,9,17
+2016,7,Horta-Guinardó,34,75-79,7,3
+2016,7,Horta-Guinardó,35,75-79,19,17
+2016,7,Horta-Guinardó,36,75-79,3,7
+2016,7,Horta-Guinardó,37,75-79,4,11
+2016,7,Horta-Guinardó,38,75-79,6,7
+2016,7,Horta-Guinardó,39,75-79,2,3
+2016,7,Horta-Guinardó,40,75-79,1,1
+2016,7,Horta-Guinardó,41,75-79,4,0
+2016,7,Horta-Guinardó,42,75-79,0,0
+2016,7,Horta-Guinardó,43,75-79,12,9
+2016,8,Nou Barris,44,75-79,12,10
+2016,8,Nou Barris,45,75-79,12,6
+2016,8,Nou Barris,46,75-79,6,4
+2016,8,Nou Barris,47,75-79,3,1
+2016,8,Nou Barris,48,75-79,5,5
+2016,8,Nou Barris,49,75-79,1,5
+2016,8,Nou Barris,50,75-79,5,8
+2016,8,Nou Barris,51,75-79,6,6
+2016,8,Nou Barris,52,75-79,8,14
+2016,8,Nou Barris,53,75-79,2,3
+2016,8,Nou Barris,54,75-79,0,0
+2016,8,Nou Barris,55,75-79,4,10
+2016,8,Nou Barris,56,75-79,1,1
+2016,9,Sant Andreu,57,75-79,3,4
+2016,9,Sant Andreu,58,75-79,0,2
+2016,9,Sant Andreu,59,75-79,1,4
+2016,9,Sant Andreu,60,75-79,35,24
+2016,9,Sant Andreu,61,75-79,9,12
+2016,9,Sant Andreu,62,75-79,6,5
+2016,9,Sant Andreu,63,75-79,9,13
+2016,10,Sant Martí,64,75-79,13,14
+2016,10,Sant Martí,65,75-79,10,12
+2016,10,Sant Martí,66,75-79,5,7
+2016,10,Sant Martí,67,75-79,2,1
+2016,10,Sant Martí,68,75-79,11,10
+2016,10,Sant Martí,69,75-79,9,5
+2016,10,Sant Martí,70,75-79,7,13
+2016,10,Sant Martí,71,75-79,6,9
+2016,10,Sant Martí,72,75-79,13,17
+2016,10,Sant Martí,73,75-79,12,15
+2016,99,No consta,99,75-79,0,0
+2016,1,Ciutat Vella,1,80-84,7,17
+2016,1,Ciutat Vella,2,80-84,3,12
+2016,1,Ciutat Vella,3,80-84,3,10
+2016,1,Ciutat Vella,4,80-84,3,6
+2016,2,Eixample,5,80-84,10,14
+2016,2,Eixample,6,80-84,9,17
+2016,2,Eixample,7,80-84,27,24
+2016,2,Eixample,8,80-84,19,21
+2016,2,Eixample,9,80-84,16,26
+2016,2,Eixample,10,80-84,9,16
+2016,3,Sants-Montjuïc,11,80-84,13,19
+2016,3,Sants-Montjuïc,12,80-84,0,2
+2016,3,Sants-Montjuïc,13,80-84,12,17
+2016,3,Sants-Montjuïc,14,80-84,5,2
+2016,3,Sants-Montjuïc,15,80-84,2,5
+2016,3,Sants-Montjuïc,16,80-84,4,16
+2016,3,Sants-Montjuïc,17,80-84,3,13
+2016,3,Sants-Montjuïc,18,80-84,10,15
+2016,4,Les Corts,19,80-84,23,18
+2016,4,Les Corts,20,80-84,9,11
+2016,4,Les Corts,21,80-84,6,3
+2016,5,Sarrià-Sant Gervasi,22,80-84,0,2
+2016,5,Sarrià-Sant Gervasi,23,80-84,6,13
+2016,5,Sarrià-Sant Gervasi,24,80-84,4,4
+2016,5,Sarrià-Sant Gervasi,25,80-84,17,17
+2016,5,Sarrià-Sant Gervasi,26,80-84,18,15
+2016,5,Sarrià-Sant Gervasi,27,80-84,8,16
+2016,6,Gràcia,28,80-84,5,2
+2016,6,Gràcia,29,80-84,2,2
+2016,6,Gràcia,30,80-84,10,12
+2016,6,Gràcia,31,80-84,21,23
+2016,6,Gràcia,32,80-84,11,12
+2016,7,Horta-Guinardó,33,80-84,14,11
+2016,7,Horta-Guinardó,34,80-84,2,6
+2016,7,Horta-Guinardó,35,80-84,13,15
+2016,7,Horta-Guinardó,36,80-84,3,4
+2016,7,Horta-Guinardó,37,80-84,5,24
+2016,7,Horta-Guinardó,38,80-84,3,5
+2016,7,Horta-Guinardó,39,80-84,6,9
+2016,7,Horta-Guinardó,40,80-84,3,5
+2016,7,Horta-Guinardó,41,80-84,2,3
+2016,7,Horta-Guinardó,42,80-84,0,0
+2016,7,Horta-Guinardó,43,80-84,7,20
+2016,8,Nou Barris,44,80-84,5,14
+2016,8,Nou Barris,45,80-84,3,12
+2016,8,Nou Barris,46,80-84,2,14
+2016,8,Nou Barris,47,80-84,1,0
+2016,8,Nou Barris,48,80-84,3,7
+2016,8,Nou Barris,49,80-84,2,6
+2016,8,Nou Barris,50,80-84,4,8
+2016,8,Nou Barris,51,80-84,2,5
+2016,8,Nou Barris,52,80-84,8,25
+2016,8,Nou Barris,53,80-84,2,2
+2016,8,Nou Barris,54,80-84,0,1
+2016,8,Nou Barris,55,80-84,2,3
+2016,8,Nou Barris,56,80-84,2,1
+2016,9,Sant Andreu,57,80-84,3,2
+2016,9,Sant Andreu,58,80-84,0,1
+2016,9,Sant Andreu,59,80-84,6,3
+2016,9,Sant Andreu,60,80-84,21,24
+2016,9,Sant Andreu,61,80-84,6,7
+2016,9,Sant Andreu,62,80-84,5,8
+2016,9,Sant Andreu,63,80-84,4,9
+2016,10,Sant Martí,64,80-84,8,15
+2016,10,Sant Martí,65,80-84,4,5
+2016,10,Sant Martí,66,80-84,4,11
+2016,10,Sant Martí,67,80-84,4,4
+2016,10,Sant Martí,68,80-84,3,17
+2016,10,Sant Martí,69,80-84,2,9
+2016,10,Sant Martí,70,80-84,4,20
+2016,10,Sant Martí,71,80-84,4,18
+2016,10,Sant Martí,72,80-84,15,23
+2016,10,Sant Martí,73,80-84,7,18
+2016,99,No consta,99,80-84,0,0
+2016,1,Ciutat Vella,1,85-89,1,24
+2016,1,Ciutat Vella,2,85-89,2,6
+2016,1,Ciutat Vella,3,85-89,2,6
+2016,1,Ciutat Vella,4,85-89,1,13
+2016,2,Eixample,5,85-89,5,14
+2016,2,Eixample,6,85-89,23,28
+2016,2,Eixample,7,85-89,18,28
+2016,2,Eixample,8,85-89,8,21
+2016,2,Eixample,9,85-89,18,22
+2016,2,Eixample,10,85-89,6,25
+2016,3,Sants-Montjuïc,11,85-89,8,23
+2016,3,Sants-Montjuïc,12,85-89,0,1
+2016,3,Sants-Montjuïc,13,85-89,9,16
+2016,3,Sants-Montjuïc,14,85-89,3,3
+2016,3,Sants-Montjuïc,15,85-89,2,5
+2016,3,Sants-Montjuïc,16,85-89,1,10
+2016,3,Sants-Montjuïc,17,85-89,13,18
+2016,3,Sants-Montjuïc,18,85-89,10,30
+2016,4,Les Corts,19,85-89,13,21
+2016,4,Les Corts,20,85-89,11,15
+2016,4,Les Corts,21,85-89,2,5
+2016,5,Sarrià-Sant Gervasi,22,85-89,0,2
+2016,5,Sarrià-Sant Gervasi,23,85-89,11,16
+2016,5,Sarrià-Sant Gervasi,24,85-89,1,1
+2016,5,Sarrià-Sant Gervasi,25,85-89,15,16
+2016,5,Sarrià-Sant Gervasi,26,85-89,8,17
+2016,5,Sarrià-Sant Gervasi,27,85-89,9,12
+2016,6,Gràcia,28,85-89,3,8
+2016,6,Gràcia,29,85-89,0,4
+2016,6,Gràcia,30,85-89,5,3
+2016,6,Gràcia,31,85-89,7,22
+2016,6,Gràcia,32,85-89,5,20
+2016,7,Horta-Guinardó,33,85-89,13,13
+2016,7,Horta-Guinardó,34,85-89,1,6
+2016,7,Horta-Guinardó,35,85-89,6,30
+2016,7,Horta-Guinardó,36,85-89,6,3
+2016,7,Horta-Guinardó,37,85-89,7,10
+2016,7,Horta-Guinardó,38,85-89,2,3
+2016,7,Horta-Guinardó,39,85-89,2,2
+2016,7,Horta-Guinardó,40,85-89,4,2
+2016,7,Horta-Guinardó,41,85-89,0,2
+2016,7,Horta-Guinardó,42,85-89,0,0
+2016,7,Horta-Guinardó,43,85-89,6,9
+2016,8,Nou Barris,44,85-89,6,11
+2016,8,Nou Barris,45,85-89,4,16
+2016,8,Nou Barris,46,85-89,1,17
+2016,8,Nou Barris,47,85-89,0,3
+2016,8,Nou Barris,48,85-89,4,6
+2016,8,Nou Barris,49,85-89,1,1
+2016,8,Nou Barris,50,85-89,1,6
+2016,8,Nou Barris,51,85-89,2,6
+2016,8,Nou Barris,52,85-89,9,13
+2016,8,Nou Barris,53,85-89,0,9
+2016,8,Nou Barris,54,85-89,0,3
+2016,8,Nou Barris,55,85-89,1,2
+2016,8,Nou Barris,56,85-89,1,0
+2016,9,Sant Andreu,57,85-89,0,4
+2016,9,Sant Andreu,58,85-89,0,0
+2016,9,Sant Andreu,59,85-89,0,5
+2016,9,Sant Andreu,60,85-89,7,30
+2016,9,Sant Andreu,61,85-89,10,12
+2016,9,Sant Andreu,62,85-89,0,10
+2016,9,Sant Andreu,63,85-89,2,10
+2016,10,Sant Martí,64,85-89,5,15
+2016,10,Sant Martí,65,85-89,9,11
+2016,10,Sant Martí,66,85-89,4,5
+2016,10,Sant Martí,67,85-89,3,0
+2016,10,Sant Martí,68,85-89,6,15
+2016,10,Sant Martí,69,85-89,4,6
+2016,10,Sant Martí,70,85-89,2,12
+2016,10,Sant Martí,71,85-89,5,13
+2016,10,Sant Martí,72,85-89,9,19
+2016,10,Sant Martí,73,85-89,4,21
+2016,99,No consta,99,85-89,0,1
+2016,1,Ciutat Vella,1,90-94,1,13
+2016,1,Ciutat Vella,2,90-94,1,1
+2016,1,Ciutat Vella,3,90-94,0,4
+2016,1,Ciutat Vella,4,90-94,2,7
+2016,2,Eixample,5,90-94,5,9
+2016,2,Eixample,6,90-94,10,25
+2016,2,Eixample,7,90-94,10,15
+2016,2,Eixample,8,90-94,5,11
+2016,2,Eixample,9,90-94,5,19
+2016,2,Eixample,10,90-94,1,12
+2016,3,Sants-Montjuïc,11,90-94,0,9
+2016,3,Sants-Montjuïc,12,90-94,0,0
+2016,3,Sants-Montjuïc,13,90-94,6,6
+2016,3,Sants-Montjuïc,14,90-94,1,4
+2016,3,Sants-Montjuïc,15,90-94,1,3
+2016,3,Sants-Montjuïc,16,90-94,1,3
+2016,3,Sants-Montjuïc,17,90-94,6,6
+2016,3,Sants-Montjuïc,18,90-94,4,10
+2016,4,Les Corts,19,90-94,7,15
+2016,4,Les Corts,20,90-94,2,9
+2016,4,Les Corts,21,90-94,0,0
+2016,5,Sarrià-Sant Gervasi,22,90-94,0,0
+2016,5,Sarrià-Sant Gervasi,23,90-94,6,5
+2016,5,Sarrià-Sant Gervasi,24,90-94,3,4
+2016,5,Sarrià-Sant Gervasi,25,90-94,8,16
+2016,5,Sarrià-Sant Gervasi,26,90-94,8,15
+2016,5,Sarrià-Sant Gervasi,27,90-94,2,5
+2016,6,Gràcia,28,90-94,2,6
+2016,6,Gràcia,29,90-94,0,2
+2016,6,Gràcia,30,90-94,3,0
+2016,6,Gràcia,31,90-94,4,11
+2016,6,Gràcia,32,90-94,5,12
+2016,7,Horta-Guinardó,33,90-94,4,6
+2016,7,Horta-Guinardó,34,90-94,1,2
+2016,7,Horta-Guinardó,35,90-94,4,13
+2016,7,Horta-Guinardó,36,90-94,1,1
+2016,7,Horta-Guinardó,37,90-94,3,9
+2016,7,Horta-Guinardó,38,90-94,3,2
+2016,7,Horta-Guinardó,39,90-94,0,0
+2016,7,Horta-Guinardó,40,90-94,2,3
+2016,7,Horta-Guinardó,41,90-94,3,2
+2016,7,Horta-Guinardó,42,90-94,0,0
+2016,7,Horta-Guinardó,43,90-94,3,7
+2016,8,Nou Barris,44,90-94,7,8
+2016,8,Nou Barris,45,90-94,3,8
+2016,8,Nou Barris,46,90-94,0,10
+2016,8,Nou Barris,47,90-94,0,2
+2016,8,Nou Barris,48,90-94,3,5
+2016,8,Nou Barris,49,90-94,0,3
+2016,8,Nou Barris,50,90-94,0,3
+2016,8,Nou Barris,51,90-94,1,4
+2016,8,Nou Barris,52,90-94,1,5
+2016,8,Nou Barris,53,90-94,0,0
+2016,8,Nou Barris,54,90-94,0,2
+2016,8,Nou Barris,55,90-94,0,1
+2016,8,Nou Barris,56,90-94,0,0
+2016,9,Sant Andreu,57,90-94,1,0
+2016,9,Sant Andreu,58,90-94,0,2
+2016,9,Sant Andreu,59,90-94,0,3
+2016,9,Sant Andreu,60,90-94,7,12
+2016,9,Sant Andreu,61,90-94,2,9
+2016,9,Sant Andreu,62,90-94,0,8
+2016,9,Sant Andreu,63,90-94,1,9
+2016,10,Sant Martí,64,90-94,3,13
+2016,10,Sant Martí,65,90-94,5,8
+2016,10,Sant Martí,66,90-94,0,2
+2016,10,Sant Martí,67,90-94,1,2
+2016,10,Sant Martí,68,90-94,4,3
+2016,10,Sant Martí,69,90-94,0,2
+2016,10,Sant Martí,70,90-94,0,2
+2016,10,Sant Martí,71,90-94,1,6
+2016,10,Sant Martí,72,90-94,2,8
+2016,10,Sant Martí,73,90-94,2,12
+2016,99,No consta,99,90-94,0,0
+2016,1,Ciutat Vella,1,95-99,2,2
+2016,1,Ciutat Vella,2,95-99,0,0
+2016,1,Ciutat Vella,3,95-99,1,1
+2016,1,Ciutat Vella,4,95-99,0,2
+2016,2,Eixample,5,95-99,1,7
+2016,2,Eixample,6,95-99,1,1
+2016,2,Eixample,7,95-99,1,2
+2016,2,Eixample,8,95-99,1,3
+2016,2,Eixample,9,95-99,2,5
+2016,2,Eixample,10,95-99,1,4
+2016,3,Sants-Montjuïc,11,95-99,0,1
+2016,3,Sants-Montjuïc,12,95-99,0,0
+2016,3,Sants-Montjuïc,13,95-99,1,1
+2016,3,Sants-Montjuïc,14,95-99,0,2
+2016,3,Sants-Montjuïc,15,95-99,1,1
+2016,3,Sants-Montjuïc,16,95-99,1,0
+2016,3,Sants-Montjuïc,17,95-99,0,4
+2016,3,Sants-Montjuïc,18,95-99,0,1
+2016,4,Les Corts,19,95-99,1,5
+2016,4,Les Corts,20,95-99,0,4
+2016,4,Les Corts,21,95-99,1,0
+2016,5,Sarrià-Sant Gervasi,22,95-99,0,0
+2016,5,Sarrià-Sant Gervasi,23,95-99,1,3
+2016,5,Sarrià-Sant Gervasi,24,95-99,0,1
+2016,5,Sarrià-Sant Gervasi,25,95-99,2,3
+2016,5,Sarrià-Sant Gervasi,26,95-99,1,1
+2016,5,Sarrià-Sant Gervasi,27,95-99,1,3
+2016,6,Gràcia,28,95-99,2,2
+2016,6,Gràcia,29,95-99,0,1
+2016,6,Gràcia,30,95-99,0,3
+2016,6,Gràcia,31,95-99,0,3
+2016,6,Gràcia,32,95-99,1,2
+2016,7,Horta-Guinardó,33,95-99,3,1
+2016,7,Horta-Guinardó,34,95-99,0,1
+2016,7,Horta-Guinardó,35,95-99,1,1
+2016,7,Horta-Guinardó,36,95-99,0,0
+2016,7,Horta-Guinardó,37,95-99,1,1
+2016,7,Horta-Guinardó,38,95-99,0,1
+2016,7,Horta-Guinardó,39,95-99,1,0
+2016,7,Horta-Guinardó,40,95-99,0,0
+2016,7,Horta-Guinardó,41,95-99,0,0
+2016,7,Horta-Guinardó,42,95-99,0,0
+2016,7,Horta-Guinardó,43,95-99,0,1
+2016,8,Nou Barris,44,95-99,0,1
+2016,8,Nou Barris,45,95-99,0,2
+2016,8,Nou Barris,46,95-99,0,2
+2016,8,Nou Barris,47,95-99,0,1
+2016,8,Nou Barris,48,95-99,0,0
+2016,8,Nou Barris,49,95-99,0,0
+2016,8,Nou Barris,50,95-99,1,0
+2016,8,Nou Barris,51,95-99,1,0
+2016,8,Nou Barris,52,95-99,1,1
+2016,8,Nou Barris,53,95-99,0,0
+2016,8,Nou Barris,54,95-99,0,0
+2016,8,Nou Barris,55,95-99,1,1
+2016,8,Nou Barris,56,95-99,2,0
+2016,9,Sant Andreu,57,95-99,0,0
+2016,9,Sant Andreu,58,95-99,0,0
+2016,9,Sant Andreu,59,95-99,0,1
+2016,9,Sant Andreu,60,95-99,3,1
+2016,9,Sant Andreu,61,95-99,0,3
+2016,9,Sant Andreu,62,95-99,0,1
+2016,9,Sant Andreu,63,95-99,0,1
+2016,10,Sant Martí,64,95-99,2,1
+2016,10,Sant Martí,65,95-99,1,2
+2016,10,Sant Martí,66,95-99,0,0
+2016,10,Sant Martí,67,95-99,0,0
+2016,10,Sant Martí,68,95-99,1,3
+2016,10,Sant Martí,69,95-99,0,0
+2016,10,Sant Martí,70,95-99,2,1
+2016,10,Sant Martí,71,95-99,1,0
+2016,10,Sant Martí,72,95-99,0,2
+2016,10,Sant Martí,73,95-99,1,0
+2016,99,No consta,99,95-99,0,0
+2016,1,Ciutat Vella,1,>=100,0,0
+2016,1,Ciutat Vella,2,>=100,0,0
+2016,1,Ciutat Vella,3,>=100,0,0
+2016,1,Ciutat Vella,4,>=100,0,0
+2016,2,Eixample,5,>=100,0,0
+2016,2,Eixample,6,>=100,1,1
+2016,2,Eixample,7,>=100,0,0
+2016,2,Eixample,8,>=100,0,1
+2016,2,Eixample,9,>=100,0,2
+2016,2,Eixample,10,>=100,1,0
+2016,3,Sants-Montjuïc,11,>=100,0,0
+2016,3,Sants-Montjuïc,12,>=100,0,0
+2016,3,Sants-Montjuïc,13,>=100,0,0
+2016,3,Sants-Montjuïc,14,>=100,0,0
+2016,3,Sants-Montjuïc,15,>=100,0,0
+2016,3,Sants-Montjuïc,16,>=100,0,0
+2016,3,Sants-Montjuïc,17,>=100,0,0
+2016,3,Sants-Montjuïc,18,>=100,0,0
+2016,4,Les Corts,19,>=100,1,0
+2016,4,Les Corts,20,>=100,0,0
+2016,4,Les Corts,21,>=100,0,0
+2016,5,Sarrià-Sant Gervasi,22,>=100,0,1
+2016,5,Sarrià-Sant Gervasi,23,>=100,0,0
+2016,5,Sarrià-Sant Gervasi,24,>=100,0,0
+2016,5,Sarrià-Sant Gervasi,25,>=100,0,1
+2016,5,Sarrià-Sant Gervasi,26,>=100,0,0
+2016,5,Sarrià-Sant Gervasi,27,>=100,0,0
+2016,6,Gràcia,28,>=100,0,0
+2016,6,Gràcia,29,>=100,0,0
+2016,6,Gràcia,30,>=100,0,0
+2016,6,Gràcia,31,>=100,0,0
+2016,6,Gràcia,32,>=100,1,0
+2016,7,Horta-Guinardó,33,>=100,0,0
+2016,7,Horta-Guinardó,34,>=100,0,0
+2016,7,Horta-Guinardó,35,>=100,0,0
+2016,7,Horta-Guinardó,36,>=100,0,0
+2016,7,Horta-Guinardó,37,>=100,0,1
+2016,7,Horta-Guinardó,38,>=100,0,0
+2016,7,Horta-Guinardó,39,>=100,0,0
+2016,7,Horta-Guinardó,40,>=100,0,0
+2016,7,Horta-Guinardó,41,>=100,0,0
+2016,7,Horta-Guinardó,42,>=100,0,0
+2016,7,Horta-Guinardó,43,>=100,0,0
+2016,8,Nou Barris,44,>=100,0,0
+2016,8,Nou Barris,45,>=100,0,0
+2016,8,Nou Barris,46,>=100,0,0
+2016,8,Nou Barris,47,>=100,0,0
+2016,8,Nou Barris,48,>=100,0,0
+2016,8,Nou Barris,49,>=100,0,0
+2016,8,Nou Barris,50,>=100,0,0
+2016,8,Nou Barris,51,>=100,0,0
+2016,8,Nou Barris,52,>=100,0,0
+2016,8,Nou Barris,53,>=100,0,0
+2016,8,Nou Barris,54,>=100,0,0
+2016,8,Nou Barris,55,>=100,0,0
+2016,8,Nou Barris,56,>=100,0,0
+2016,9,Sant Andreu,57,>=100,0,0
+2016,9,Sant Andreu,58,>=100,0,0
+2016,9,Sant Andreu,59,>=100,0,0
+2016,9,Sant Andreu,60,>=100,1,0
+2016,9,Sant Andreu,61,>=100,0,0
+2016,9,Sant Andreu,62,>=100,0,0
+2016,9,Sant Andreu,63,>=100,0,1
+2016,10,Sant Martí,64,>=100,0,0
+2016,10,Sant Martí,65,>=100,1,0
+2016,10,Sant Martí,66,>=100,0,0
+2016,10,Sant Martí,67,>=100,0,0
+2016,10,Sant Martí,68,>=100,0,0
+2016,10,Sant Martí,69,>=100,0,0
+2016,10,Sant Martí,70,>=100,0,0
+2016,10,Sant Martí,71,>=100,0,0
+2016,10,Sant Martí,72,>=100,0,0
+2016,10,Sant Martí,73,>=100,0,0
+2016,99,No consta,99,>=100,0,0
+2015,1,Ciutat Vella,1,0-4,165,112
+2015,1,Ciutat Vella,2,0-4,49,28
+2015,1,Ciutat Vella,3,0-4,36,21
+2015,1,Ciutat Vella,4,0-4,64,35
+2015,2,Eixample,5,0-4,78,62
+2015,2,Eixample,6,0-4,101,80
+2015,2,Eixample,7,0-4,94,75
+2015,2,Eixample,8,0-4,73,47
+2015,2,Eixample,9,0-4,111,96
+2015,2,Eixample,10,0-4,68,58
+2015,3,Sants-Montjuïc,11,0-4,81,94
+2015,3,Sants-Montjuïc,12,0-4,6,5
+2015,3,Sants-Montjuïc,13,0-4,64,72
+2015,3,Sants-Montjuïc,14,0-4,33,29
+2015,3,Sants-Montjuïc,15,0-4,36,29
+2015,3,Sants-Montjuïc,16,0-4,46,42
+2015,3,Sants-Montjuïc,17,0-4,39,58
+2015,3,Sants-Montjuïc,18,0-4,79,92
+2015,4,Les Corts,19,0-4,113,79
+2015,4,Les Corts,20,0-4,84,51
+2015,4,Les Corts,21,0-4,53,18
+2015,5,Sarrià-Sant Gervasi,22,0-4,20,16
+2015,5,Sarrià-Sant Gervasi,23,0-4,81,50
+2015,5,Sarrià-Sant Gervasi,24,0-4,51,22
+2015,5,Sarrià-Sant Gervasi,25,0-4,72,34
+2015,5,Sarrià-Sant Gervasi,26,0-4,96,77
+2015,5,Sarrià-Sant Gervasi,27,0-4,67,50
+2015,6,Gràcia,28,0-4,25,29
+2015,6,Gràcia,29,0-4,21,18
+2015,6,Gràcia,30,0-4,21,21
+2015,6,Gràcia,31,0-4,93,66
+2015,6,Gràcia,32,0-4,53,52
+2015,7,Horta-Guinardó,33,0-4,46,40
+2015,7,Horta-Guinardó,34,0-4,10,11
+2015,7,Horta-Guinardó,35,0-4,55,61
+2015,7,Horta-Guinardó,36,0-4,14,5
+2015,7,Horta-Guinardó,37,0-4,55,56
+2015,7,Horta-Guinardó,38,0-4,24,18
+2015,7,Horta-Guinardó,39,0-4,12,6
+2015,7,Horta-Guinardó,40,0-4,10,5
+2015,7,Horta-Guinardó,41,0-4,10,4
+2015,7,Horta-Guinardó,42,0-4,2,0
+2015,7,Horta-Guinardó,43,0-4,42,25
+2015,8,Nou Barris,44,0-4,40,32
+2015,8,Nou Barris,45,0-4,40,31
+2015,8,Nou Barris,46,0-4,31,32
+2015,8,Nou Barris,47,0-4,2,1
+2015,8,Nou Barris,48,0-4,19,32
+2015,8,Nou Barris,49,0-4,11,13
+2015,8,Nou Barris,50,0-4,36,37
+2015,8,Nou Barris,51,0-4,22,18
+2015,8,Nou Barris,52,0-4,53,28
+2015,8,Nou Barris,53,0-4,25,17
+2015,8,Nou Barris,54,0-4,15,5
+2015,8,Nou Barris,55,0-4,26,27
+2015,8,Nou Barris,56,0-4,8,2
+2015,9,Sant Andreu,57,0-4,39,30
+2015,9,Sant Andreu,58,0-4,15,4
+2015,9,Sant Andreu,59,0-4,36,27
+2015,9,Sant Andreu,60,0-4,84,90
+2015,9,Sant Andreu,61,0-4,46,38
+2015,9,Sant Andreu,62,0-4,27,19
+2015,9,Sant Andreu,63,0-4,51,42
+2015,10,Sant Martí,64,0-4,69,75
+2015,10,Sant Martí,65,0-4,45,32
+2015,10,Sant Martí,66,0-4,30,24
+2015,10,Sant Martí,67,0-4,41,20
+2015,10,Sant Martí,68,0-4,88,69
+2015,10,Sant Martí,69,0-4,61,42
+2015,10,Sant Martí,70,0-4,101,83
+2015,10,Sant Martí,71,0-4,52,29
+2015,10,Sant Martí,72,0-4,41,27
+2015,10,Sant Martí,73,0-4,51,55
+2015,99,No consta,99,0-4,1,0
+2015,1,Ciutat Vella,1,9-May,149,100
+2015,1,Ciutat Vella,2,9-May,35,25
+2015,1,Ciutat Vella,3,9-May,15,17
+2015,1,Ciutat Vella,4,9-May,41,38
+2015,2,Eixample,5,9-May,56,39
+2015,2,Eixample,6,9-May,62,44
+2015,2,Eixample,7,9-May,67,47
+2015,2,Eixample,8,9-May,68,38
+2015,2,Eixample,9,9-May,75,61
+2015,2,Eixample,10,9-May,57,45
+2015,3,Sants-Montjuïc,11,9-May,66,59
+2015,3,Sants-Montjuïc,12,9-May,5,1
+2015,3,Sants-Montjuïc,13,9-May,52,51
+2015,3,Sants-Montjuïc,14,9-May,15,22
+2015,3,Sants-Montjuïc,15,9-May,34,21
+2015,3,Sants-Montjuïc,16,9-May,32,28
+2015,3,Sants-Montjuïc,17,9-May,46,41
+2015,3,Sants-Montjuïc,18,9-May,76,70
+2015,4,Les Corts,19,9-May,62,53
+2015,4,Les Corts,20,9-May,34,34
+2015,4,Les Corts,21,9-May,62,19
+2015,5,Sarrià-Sant Gervasi,22,9-May,14,14
+2015,5,Sarrià-Sant Gervasi,23,9-May,70,41
+2015,5,Sarrià-Sant Gervasi,24,9-May,47,30
+2015,5,Sarrià-Sant Gervasi,25,9-May,51,29
+2015,5,Sarrià-Sant Gervasi,26,9-May,101,68
+2015,5,Sarrià-Sant Gervasi,27,9-May,49,28
+2015,6,Gràcia,28,9-May,20,11
+2015,6,Gràcia,29,9-May,16,13
+2015,6,Gràcia,30,9-May,7,16
+2015,6,Gràcia,31,9-May,76,40
+2015,6,Gràcia,32,9-May,45,41
+2015,7,Horta-Guinardó,33,9-May,41,23
+2015,7,Horta-Guinardó,34,9-May,12,11
+2015,7,Horta-Guinardó,35,9-May,47,29
+2015,7,Horta-Guinardó,36,9-May,6,8
+2015,7,Horta-Guinardó,37,9-May,42,38
+2015,7,Horta-Guinardó,38,9-May,9,11
+2015,7,Horta-Guinardó,39,9-May,4,13
+2015,7,Horta-Guinardó,40,9-May,9,1
+2015,7,Horta-Guinardó,41,9-May,6,3
+2015,7,Horta-Guinardó,42,9-May,0,1
+2015,7,Horta-Guinardó,43,9-May,36,18
+2015,8,Nou Barris,44,9-May,34,25
+2015,8,Nou Barris,45,9-May,29,27
+2015,8,Nou Barris,46,9-May,35,18
+2015,8,Nou Barris,47,9-May,1,2
+2015,8,Nou Barris,48,9-May,15,13
+2015,8,Nou Barris,49,9-May,7,8
+2015,8,Nou Barris,50,9-May,38,34
+2015,8,Nou Barris,51,9-May,26,20
+2015,8,Nou Barris,52,9-May,39,28
+2015,8,Nou Barris,53,9-May,16,11
+2015,8,Nou Barris,54,9-May,13,5
+2015,8,Nou Barris,55,9-May,26,34
+2015,8,Nou Barris,56,9-May,4,3
+2015,9,Sant Andreu,57,9-May,39,30
+2015,9,Sant Andreu,58,9-May,9,12
+2015,9,Sant Andreu,59,9-May,23,22
+2015,9,Sant Andreu,60,9-May,73,48
+2015,9,Sant Andreu,61,9-May,40,22
+2015,9,Sant Andreu,62,9-May,14,14
+2015,9,Sant Andreu,63,9-May,34,22
+2015,10,Sant Martí,64,9-May,45,42
+2015,10,Sant Martí,65,9-May,36,29
+2015,10,Sant Martí,66,9-May,24,26
+2015,10,Sant Martí,67,9-May,18,16
+2015,10,Sant Martí,68,9-May,52,44
+2015,10,Sant Martí,69,9-May,28,36
+2015,10,Sant Martí,70,9-May,71,90
+2015,10,Sant Martí,71,9-May,31,19
+2015,10,Sant Martí,72,9-May,26,28
+2015,10,Sant Martí,73,9-May,60,40
+2015,99,No consta,99,9-May,0,0
+2015,1,Ciutat Vella,1,14-Oct,94,61
+2015,1,Ciutat Vella,2,14-Oct,28,12
+2015,1,Ciutat Vella,3,14-Oct,18,10
+2015,1,Ciutat Vella,4,14-Oct,33,26
+2015,2,Eixample,5,14-Oct,42,17
+2015,2,Eixample,6,14-Oct,71,40
+2015,2,Eixample,7,14-Oct,60,38
+2015,2,Eixample,8,14-Oct,61,19
+2015,2,Eixample,9,14-Oct,91,60
+2015,2,Eixample,10,14-Oct,47,38
+2015,3,Sants-Montjuïc,11,14-Oct,70,51
+2015,3,Sants-Montjuïc,12,14-Oct,4,0
+2015,3,Sants-Montjuïc,13,14-Oct,70,48
+2015,3,Sants-Montjuïc,14,14-Oct,21,6
+2015,3,Sants-Montjuïc,15,14-Oct,37,20
+2015,3,Sants-Montjuïc,16,14-Oct,33,16
+2015,3,Sants-Montjuïc,17,14-Oct,49,25
+2015,3,Sants-Montjuïc,18,14-Oct,84,41
+2015,4,Les Corts,19,14-Oct,63,36
+2015,4,Les Corts,20,14-Oct,39,31
+2015,4,Les Corts,21,14-Oct,50,23
+2015,5,Sarrià-Sant Gervasi,22,14-Oct,13,7
+2015,5,Sarrià-Sant Gervasi,23,14-Oct,87,28
+2015,5,Sarrià-Sant Gervasi,24,14-Oct,38,25
+2015,5,Sarrià-Sant Gervasi,25,14-Oct,45,24
+2015,5,Sarrià-Sant Gervasi,26,14-Oct,104,51
+2015,5,Sarrià-Sant Gervasi,27,14-Oct,49,23
+2015,6,Gràcia,28,14-Oct,20,12
+2015,6,Gràcia,29,14-Oct,15,4
+2015,6,Gràcia,30,14-Oct,16,7
+2015,6,Gràcia,31,14-Oct,52,31
+2015,6,Gràcia,32,14-Oct,32,18
+2015,7,Horta-Guinardó,33,14-Oct,29,16
+2015,7,Horta-Guinardó,34,14-Oct,8,7
+2015,7,Horta-Guinardó,35,14-Oct,59,21
+2015,7,Horta-Guinardó,36,14-Oct,11,6
+2015,7,Horta-Guinardó,37,14-Oct,30,42
+2015,7,Horta-Guinardó,38,14-Oct,16,5
+2015,7,Horta-Guinardó,39,14-Oct,8,10
+2015,7,Horta-Guinardó,40,14-Oct,4,3
+2015,7,Horta-Guinardó,41,14-Oct,9,6
+2015,7,Horta-Guinardó,42,14-Oct,0,1
+2015,7,Horta-Guinardó,43,14-Oct,44,19
+2015,8,Nou Barris,44,14-Oct,41,17
+2015,8,Nou Barris,45,14-Oct,27,12
+2015,8,Nou Barris,46,14-Oct,28,11
+2015,8,Nou Barris,47,14-Oct,4,0
+2015,8,Nou Barris,48,14-Oct,18,10
+2015,8,Nou Barris,49,14-Oct,9,14
+2015,8,Nou Barris,50,14-Oct,38,18
+2015,8,Nou Barris,51,14-Oct,20,15
+2015,8,Nou Barris,52,14-Oct,45,29
+2015,8,Nou Barris,53,14-Oct,16,6
+2015,8,Nou Barris,54,14-Oct,5,5
+2015,8,Nou Barris,55,14-Oct,28,26
+2015,8,Nou Barris,56,14-Oct,4,3
+2015,9,Sant Andreu,57,14-Oct,30,13
+2015,9,Sant Andreu,58,14-Oct,2,1
+2015,9,Sant Andreu,59,14-Oct,20,13
+2015,9,Sant Andreu,60,14-Oct,50,44
+2015,9,Sant Andreu,61,14-Oct,34,20
+2015,9,Sant Andreu,62,14-Oct,19,13
+2015,9,Sant Andreu,63,14-Oct,28,17
+2015,10,Sant Martí,64,14-Oct,43,34
+2015,10,Sant Martí,65,14-Oct,37,17
+2015,10,Sant Martí,66,14-Oct,13,15
+2015,10,Sant Martí,67,14-Oct,11,14
+2015,10,Sant Martí,68,14-Oct,50,23
+2015,10,Sant Martí,69,14-Oct,20,19
+2015,10,Sant Martí,70,14-Oct,68,60
+2015,10,Sant Martí,71,14-Oct,39,12
+2015,10,Sant Martí,72,14-Oct,35,12
+2015,10,Sant Martí,73,14-Oct,54,36
+2015,99,No consta,99,14-Oct,0,0
+2015,1,Ciutat Vella,1,15-19,232,92
+2015,1,Ciutat Vella,2,15-19,77,25
+2015,1,Ciutat Vella,3,15-19,44,13
+2015,1,Ciutat Vella,4,15-19,93,38
+2015,2,Eixample,5,15-19,66,33
+2015,2,Eixample,6,15-19,93,31
+2015,2,Eixample,7,15-19,96,35
+2015,2,Eixample,8,15-19,109,35
+2015,2,Eixample,9,15-19,105,46
+2015,2,Eixample,10,15-19,82,37
+2015,3,Sants-Montjuïc,11,15-19,125,56
+2015,3,Sants-Montjuïc,12,15-19,2,2
+2015,3,Sants-Montjuïc,13,15-19,87,28
+2015,3,Sants-Montjuïc,14,15-19,32,16
+2015,3,Sants-Montjuïc,15,15-19,45,13
+2015,3,Sants-Montjuïc,16,15-19,28,23
+2015,3,Sants-Montjuïc,17,15-19,59,27
+2015,3,Sants-Montjuïc,18,15-19,107,45
+2015,4,Les Corts,19,15-19,88,28
+2015,4,Les Corts,20,15-19,60,18
+2015,4,Les Corts,21,15-19,41,21
+2015,5,Sarrià-Sant Gervasi,22,15-19,11,3
+2015,5,Sarrià-Sant Gervasi,23,15-19,71,31
+2015,5,Sarrià-Sant Gervasi,24,15-19,46,12
+2015,5,Sarrià-Sant Gervasi,25,15-19,84,19
+2015,5,Sarrià-Sant Gervasi,26,15-19,118,35
+2015,5,Sarrià-Sant Gervasi,27,15-19,73,24
+2015,6,Gràcia,28,15-19,18,10
+2015,6,Gràcia,29,15-19,15,4
+2015,6,Gràcia,30,15-19,47,16
+2015,6,Gràcia,31,15-19,94,21
+2015,6,Gràcia,32,15-19,39,15
+2015,7,Horta-Guinardó,33,15-19,40,18
+2015,7,Horta-Guinardó,34,15-19,10,10
+2015,7,Horta-Guinardó,35,15-19,65,32
+2015,7,Horta-Guinardó,36,15-19,9,7
+2015,7,Horta-Guinardó,37,15-19,56,40
+2015,7,Horta-Guinardó,38,15-19,14,9
+2015,7,Horta-Guinardó,39,15-19,12,13
+2015,7,Horta-Guinardó,40,15-19,16,5
+2015,7,Horta-Guinardó,41,15-19,8,3
+2015,7,Horta-Guinardó,42,15-19,0,1
+2015,7,Horta-Guinardó,43,15-19,64,23
+2015,8,Nou Barris,44,15-19,51,17
+2015,8,Nou Barris,45,15-19,46,25
+2015,8,Nou Barris,46,15-19,48,20
+2015,8,Nou Barris,47,15-19,0,7
+2015,8,Nou Barris,48,15-19,17,10
+2015,8,Nou Barris,49,15-19,7,4
+2015,8,Nou Barris,50,15-19,48,31
+2015,8,Nou Barris,51,15-19,31,11
+2015,8,Nou Barris,52,15-19,45,29
+2015,8,Nou Barris,53,15-19,28,10
+2015,8,Nou Barris,54,15-19,16,9
+2015,8,Nou Barris,55,15-19,31,26
+2015,8,Nou Barris,56,15-19,2,3
+2015,9,Sant Andreu,57,15-19,33,17
+2015,9,Sant Andreu,58,15-19,3,3
+2015,9,Sant Andreu,59,15-19,38,14
+2015,9,Sant Andreu,60,15-19,62,39
+2015,9,Sant Andreu,61,15-19,48,25
+2015,9,Sant Andreu,62,15-19,20,11
+2015,9,Sant Andreu,63,15-19,50,19
+2015,10,Sant Martí,64,15-19,77,34
+2015,10,Sant Martí,65,15-19,34,25
+2015,10,Sant Martí,66,15-19,46,12
+2015,10,Sant Martí,67,15-19,11,4
+2015,10,Sant Martí,68,15-19,44,36
+2015,10,Sant Martí,69,15-19,23,17
+2015,10,Sant Martí,70,15-19,91,48
+2015,10,Sant Martí,71,15-19,41,22
+2015,10,Sant Martí,72,15-19,46,27
+2015,10,Sant Martí,73,15-19,46,40
+2015,99,No consta,99,15-19,0,0
+2015,1,Ciutat Vella,1,20-24,752,176
+2015,1,Ciutat Vella,2,20-24,423,58
+2015,1,Ciutat Vella,3,20-24,234,38
+2015,1,Ciutat Vella,4,20-24,388,64
+2015,2,Eixample,5,20-24,266,68
+2015,2,Eixample,6,20-24,408,102
+2015,2,Eixample,7,20-24,400,56
+2015,2,Eixample,8,20-24,383,76
+2015,2,Eixample,9,20-24,454,128
+2015,2,Eixample,10,20-24,272,74
+2015,3,Sants-Montjuïc,11,20-24,338,106
+2015,3,Sants-Montjuïc,12,20-24,6,4
+2015,3,Sants-Montjuïc,13,20-24,126,72
+2015,3,Sants-Montjuïc,14,20-24,93,32
+2015,3,Sants-Montjuïc,15,20-24,132,36
+2015,3,Sants-Montjuïc,16,20-24,98,48
+2015,3,Sants-Montjuïc,17,20-24,194,75
+2015,3,Sants-Montjuïc,18,20-24,251,123
+2015,4,Les Corts,19,20-24,189,65
+2015,4,Les Corts,20,20-24,124,48
+2015,4,Les Corts,21,20-24,57,12
+2015,5,Sarrià-Sant Gervasi,22,20-24,13,3
+2015,5,Sarrià-Sant Gervasi,23,20-24,80,36
+2015,5,Sarrià-Sant Gervasi,24,20-24,83,16
+2015,5,Sarrià-Sant Gervasi,25,20-24,130,45
+2015,5,Sarrià-Sant Gervasi,26,20-24,242,61
+2015,5,Sarrià-Sant Gervasi,27,20-24,137,42
+2015,6,Gràcia,28,20-24,68,14
+2015,6,Gràcia,29,20-24,43,11
+2015,6,Gràcia,30,20-24,65,23
+2015,6,Gràcia,31,20-24,437,86
+2015,6,Gràcia,32,20-24,172,48
+2015,7,Horta-Guinardó,33,20-24,130,39
+2015,7,Horta-Guinardó,34,20-24,42,11
+2015,7,Horta-Guinardó,35,20-24,170,66
+2015,7,Horta-Guinardó,36,20-24,21,9
+2015,7,Horta-Guinardó,37,20-24,129,68
+2015,7,Horta-Guinardó,38,20-24,57,29
+2015,7,Horta-Guinardó,39,20-24,36,12
+2015,7,Horta-Guinardó,40,20-24,22,5
+2015,7,Horta-Guinardó,41,20-24,13,8
+2015,7,Horta-Guinardó,42,20-24,5,0
+2015,7,Horta-Guinardó,43,20-24,89,34
+2015,8,Nou Barris,44,20-24,109,50
+2015,8,Nou Barris,45,20-24,109,34
+2015,8,Nou Barris,46,20-24,76,48
+2015,8,Nou Barris,47,20-24,2,5
+2015,8,Nou Barris,48,20-24,34,18
+2015,8,Nou Barris,49,20-24,7,6
+2015,8,Nou Barris,50,20-24,116,51
+2015,8,Nou Barris,51,20-24,81,29
+2015,8,Nou Barris,52,20-24,118,60
+2015,8,Nou Barris,53,20-24,41,26
+2015,8,Nou Barris,54,20-24,14,3
+2015,8,Nou Barris,55,20-24,82,49
+2015,8,Nou Barris,56,20-24,6,4
+2015,9,Sant Andreu,57,20-24,88,39
+2015,9,Sant Andreu,58,20-24,9,6
+2015,9,Sant Andreu,59,20-24,55,22
+2015,9,Sant Andreu,60,20-24,148,80
+2015,9,Sant Andreu,61,20-24,121,45
+2015,9,Sant Andreu,62,20-24,66,30
+2015,9,Sant Andreu,63,20-24,97,33
+2015,10,Sant Martí,64,20-24,199,78
+2015,10,Sant Martí,65,20-24,118,41
+2015,10,Sant Martí,66,20-24,161,35
+2015,10,Sant Martí,67,20-24,35,11
+2015,10,Sant Martí,68,20-24,103,46
+2015,10,Sant Martí,69,20-24,51,17
+2015,10,Sant Martí,70,20-24,152,101
+2015,10,Sant Martí,71,20-24,85,27
+2015,10,Sant Martí,72,20-24,99,49
+2015,10,Sant Martí,73,20-24,107,58
+2015,99,No consta,99,20-24,2,0
+2015,1,Ciutat Vella,1,25-29,1242,342
+2015,1,Ciutat Vella,2,25-29,580,90
+2015,1,Ciutat Vella,3,25-29,414,100
+2015,1,Ciutat Vella,4,25-29,684,140
+2015,2,Eixample,5,25-29,445,139
+2015,2,Eixample,6,25-29,803,220
+2015,2,Eixample,7,25-29,705,162
+2015,2,Eixample,8,25-29,742,188
+2015,2,Eixample,9,25-29,841,238
+2015,2,Eixample,10,25-29,520,183
+2015,3,Sants-Montjuïc,11,25-29,628,214
+2015,3,Sants-Montjuïc,12,25-29,3,3
+2015,3,Sants-Montjuïc,13,25-29,212,116
+2015,3,Sants-Montjuïc,14,25-29,184,59
+2015,3,Sants-Montjuïc,15,25-29,239,79
+2015,3,Sants-Montjuïc,16,25-29,167,105
+2015,3,Sants-Montjuïc,17,25-29,291,158
+2015,3,Sants-Montjuïc,18,25-29,528,230
+2015,4,Les Corts,19,25-29,398,206
+2015,4,Les Corts,20,25-29,259,113
+2015,4,Les Corts,21,25-29,81,42
+2015,5,Sarrià-Sant Gervasi,22,25-29,25,14
+2015,5,Sarrià-Sant Gervasi,23,25-29,145,68
+2015,5,Sarrià-Sant Gervasi,24,25-29,58,36
+2015,5,Sarrià-Sant Gervasi,25,25-29,167,92
+2015,5,Sarrià-Sant Gervasi,26,25-29,313,133
+2015,5,Sarrià-Sant Gervasi,27,25-29,281,86
+2015,6,Gràcia,28,25-29,134,58
+2015,6,Gràcia,29,25-29,74,24
+2015,6,Gràcia,30,25-29,91,39
+2015,6,Gràcia,31,25-29,872,227
+2015,6,Gràcia,32,25-29,377,104
+2015,7,Horta-Guinardó,33,25-29,238,100
+2015,7,Horta-Guinardó,34,25-29,93,29
+2015,7,Horta-Guinardó,35,25-29,302,127
+2015,7,Horta-Guinardó,36,25-29,29,16
+2015,7,Horta-Guinardó,37,25-29,192,109
+2015,7,Horta-Guinardó,38,25-29,71,43
+2015,7,Horta-Guinardó,39,25-29,42,15
+2015,7,Horta-Guinardó,40,25-29,38,16
+2015,7,Horta-Guinardó,41,25-29,31,9
+2015,7,Horta-Guinardó,42,25-29,4,3
+2015,7,Horta-Guinardó,43,25-29,143,60
+2015,8,Nou Barris,44,25-29,147,88
+2015,8,Nou Barris,45,25-29,155,63
+2015,8,Nou Barris,46,25-29,120,53
+2015,8,Nou Barris,47,25-29,3,6
+2015,8,Nou Barris,48,25-29,64,45
+2015,8,Nou Barris,49,25-29,22,19
+2015,8,Nou Barris,50,25-29,116,63
+2015,8,Nou Barris,51,25-29,103,56
+2015,8,Nou Barris,52,25-29,175,92
+2015,8,Nou Barris,53,25-29,60,36
+2015,8,Nou Barris,54,25-29,16,8
+2015,8,Nou Barris,55,25-29,82,71
+2015,8,Nou Barris,56,25-29,11,7
+2015,9,Sant Andreu,57,25-29,100,59
+2015,9,Sant Andreu,58,25-29,10,7
+2015,9,Sant Andreu,59,25-29,78,29
+2015,9,Sant Andreu,60,25-29,281,170
+2015,9,Sant Andreu,61,25-29,192,103
+2015,9,Sant Andreu,62,25-29,104,46
+2015,9,Sant Andreu,63,25-29,168,61
+2015,10,Sant Martí,64,25-29,408,150
+2015,10,Sant Martí,65,25-29,213,114
+2015,10,Sant Martí,66,25-29,158,68
+2015,10,Sant Martí,67,25-29,69,21
+2015,10,Sant Martí,68,25-29,285,114
+2015,10,Sant Martí,69,25-29,81,28
+2015,10,Sant Martí,70,25-29,240,156
+2015,10,Sant Martí,71,25-29,148,68
+2015,10,Sant Martí,72,25-29,167,93
+2015,10,Sant Martí,73,25-29,156,102
+2015,99,No consta,99,25-29,0,0
+2015,1,Ciutat Vella,1,30-34,958,451
+2015,1,Ciutat Vella,2,30-34,347,119
+2015,1,Ciutat Vella,3,30-34,340,120
+2015,1,Ciutat Vella,4,30-34,477,170
+2015,2,Eixample,5,30-34,347,168
+2015,2,Eixample,6,30-34,585,293
+2015,2,Eixample,7,30-34,470,248
+2015,2,Eixample,8,30-34,510,237
+2015,2,Eixample,9,30-34,604,326
+2015,2,Eixample,10,30-34,428,222
+2015,3,Sants-Montjuïc,11,30-34,542,294
+2015,3,Sants-Montjuïc,12,30-34,16,10
+2015,3,Sants-Montjuïc,13,30-34,197,149
+2015,3,Sants-Montjuïc,14,30-34,119,88
+2015,3,Sants-Montjuïc,15,30-34,229,131
+2015,3,Sants-Montjuïc,16,30-34,155,132
+2015,3,Sants-Montjuïc,17,30-34,227,173
+2015,3,Sants-Montjuïc,18,30-34,432,312
+2015,4,Les Corts,19,30-34,325,230
+2015,4,Les Corts,20,30-34,222,128
+2015,4,Les Corts,21,30-34,71,56
+2015,5,Sarrià-Sant Gervasi,22,30-34,29,21
+2015,5,Sarrià-Sant Gervasi,23,30-34,115,95
+2015,5,Sarrià-Sant Gervasi,24,30-34,65,47
+2015,5,Sarrià-Sant Gervasi,25,30-34,155,101
+2015,5,Sarrià-Sant Gervasi,26,30-34,325,186
+2015,5,Sarrià-Sant Gervasi,27,30-34,259,154
+2015,6,Gràcia,28,30-34,116,65
+2015,6,Gràcia,29,30-34,52,28
+2015,6,Gràcia,30,30-34,92,63
+2015,6,Gràcia,31,30-34,729,324
+2015,6,Gràcia,32,30-34,317,155
+2015,7,Horta-Guinardó,33,30-34,216,126
+2015,7,Horta-Guinardó,34,30-34,53,45
+2015,7,Horta-Guinardó,35,30-34,301,165
+2015,7,Horta-Guinardó,36,30-34,36,30
+2015,7,Horta-Guinardó,37,30-34,181,130
+2015,7,Horta-Guinardó,38,30-34,68,45
+2015,7,Horta-Guinardó,39,30-34,47,31
+2015,7,Horta-Guinardó,40,30-34,17,17
+2015,7,Horta-Guinardó,41,30-34,22,12
+2015,7,Horta-Guinardó,42,30-34,6,2
+2015,7,Horta-Guinardó,43,30-34,122,101
+2015,8,Nou Barris,44,30-34,135,92
+2015,8,Nou Barris,45,30-34,134,70
+2015,8,Nou Barris,46,30-34,99,55
+2015,8,Nou Barris,47,30-34,3,8
+2015,8,Nou Barris,48,30-34,54,54
+2015,8,Nou Barris,49,30-34,15,22
+2015,8,Nou Barris,50,30-34,126,79
+2015,8,Nou Barris,51,30-34,70,59
+2015,8,Nou Barris,52,30-34,142,110
+2015,8,Nou Barris,53,30-34,48,41
+2015,8,Nou Barris,54,30-34,11,14
+2015,8,Nou Barris,55,30-34,81,75
+2015,8,Nou Barris,56,30-34,5,5
+2015,9,Sant Andreu,57,30-34,107,78
+2015,9,Sant Andreu,58,30-34,15,14
+2015,9,Sant Andreu,59,30-34,70,61
+2015,9,Sant Andreu,60,30-34,270,202
+2015,9,Sant Andreu,61,30-34,182,103
+2015,9,Sant Andreu,62,30-34,88,65
+2015,9,Sant Andreu,63,30-34,126,96
+2015,10,Sant Martí,64,30-34,347,205
+2015,10,Sant Martí,65,30-34,226,134
+2015,10,Sant Martí,66,30-34,147,81
+2015,10,Sant Martí,67,30-34,71,42
+2015,10,Sant Martí,68,30-34,310,141
+2015,10,Sant Martí,69,30-34,98,60
+2015,10,Sant Martí,70,30-34,213,147
+2015,10,Sant Martí,71,30-34,142,100
+2015,10,Sant Martí,72,30-34,129,95
+2015,10,Sant Martí,73,30-34,142,104
+2015,99,No consta,99,30-34,1,0
+2015,1,Ciutat Vella,1,35-39,593,348
+2015,1,Ciutat Vella,2,35-39,227,123
+2015,1,Ciutat Vella,3,35-39,160,96
+2015,1,Ciutat Vella,4,35-39,300,185
+2015,2,Eixample,5,35-39,219,127
+2015,2,Eixample,6,35-39,380,278
+2015,2,Eixample,7,35-39,316,210
+2015,2,Eixample,8,35-39,277,195
+2015,2,Eixample,9,35-39,381,295
+2015,2,Eixample,10,35-39,290,207
+2015,3,Sants-Montjuïc,11,35-39,388,315
+2015,3,Sants-Montjuïc,12,35-39,6,5
+2015,3,Sants-Montjuïc,13,35-39,171,143
+2015,3,Sants-Montjuïc,14,35-39,83,62
+2015,3,Sants-Montjuïc,15,35-39,133,109
+2015,3,Sants-Montjuïc,16,35-39,129,115
+2015,3,Sants-Montjuïc,17,35-39,172,161
+2015,3,Sants-Montjuïc,18,35-39,307,247
+2015,4,Les Corts,19,35-39,263,188
+2015,4,Les Corts,20,35-39,142,115
+2015,4,Les Corts,21,35-39,72,49
+2015,5,Sarrià-Sant Gervasi,22,35-39,27,19
+2015,5,Sarrià-Sant Gervasi,23,35-39,117,71
+2015,5,Sarrià-Sant Gervasi,24,35-39,74,43
+2015,5,Sarrià-Sant Gervasi,25,35-39,117,73
+2015,5,Sarrià-Sant Gervasi,26,35-39,218,164
+2015,5,Sarrià-Sant Gervasi,27,35-39,165,120
+2015,6,Gràcia,28,35-39,81,59
+2015,6,Gràcia,29,35-39,41,46
+2015,6,Gràcia,30,35-39,62,50
+2015,6,Gràcia,31,35-39,404,293
+2015,6,Gràcia,32,35-39,214,155
+2015,7,Horta-Guinardó,33,35-39,120,92
+2015,7,Horta-Guinardó,34,35-39,46,27
+2015,7,Horta-Guinardó,35,35-39,189,142
+2015,7,Horta-Guinardó,36,35-39,29,28
+2015,7,Horta-Guinardó,37,35-39,133,125
+2015,7,Horta-Guinardó,38,35-39,43,43
+2015,7,Horta-Guinardó,39,35-39,30,31
+2015,7,Horta-Guinardó,40,35-39,28,14
+2015,7,Horta-Guinardó,41,35-39,18,11
+2015,7,Horta-Guinardó,42,35-39,2,2
+2015,7,Horta-Guinardó,43,35-39,126,75
+2015,8,Nou Barris,44,35-39,105,84
+2015,8,Nou Barris,45,35-39,116,73
+2015,8,Nou Barris,46,35-39,92,59
+2015,8,Nou Barris,47,35-39,8,5
+2015,8,Nou Barris,48,35-39,43,45
+2015,8,Nou Barris,49,35-39,20,18
+2015,8,Nou Barris,50,35-39,103,79
+2015,8,Nou Barris,51,35-39,83,56
+2015,8,Nou Barris,52,35-39,128,100
+2015,8,Nou Barris,53,35-39,46,32
+2015,8,Nou Barris,54,35-39,15,13
+2015,8,Nou Barris,55,35-39,85,69
+2015,8,Nou Barris,56,35-39,9,12
+2015,9,Sant Andreu,57,35-39,90,83
+2015,9,Sant Andreu,58,35-39,12,14
+2015,9,Sant Andreu,59,35-39,63,63
+2015,9,Sant Andreu,60,35-39,239,196
+2015,9,Sant Andreu,61,35-39,149,126
+2015,9,Sant Andreu,62,35-39,61,42
+2015,9,Sant Andreu,63,35-39,96,82
+2015,10,Sant Martí,64,35-39,218,206
+2015,10,Sant Martí,65,35-39,157,118
+2015,10,Sant Martí,66,35-39,105,73
+2015,10,Sant Martí,67,35-39,66,31
+2015,10,Sant Martí,68,35-39,228,144
+2015,10,Sant Martí,69,35-39,99,65
+2015,10,Sant Martí,70,35-39,224,166
+2015,10,Sant Martí,71,35-39,120,76
+2015,10,Sant Martí,72,35-39,98,72
+2015,10,Sant Martí,73,35-39,118,96
+2015,99,No consta,99,35-39,1,0
+2015,1,Ciutat Vella,1,40-44,396,273
+2015,1,Ciutat Vella,2,40-44,147,92
+2015,1,Ciutat Vella,3,40-44,115,80
+2015,1,Ciutat Vella,4,40-44,158,105
+2015,2,Eixample,5,40-44,166,117
+2015,2,Eixample,6,40-44,220,160
+2015,2,Eixample,7,40-44,191,146
+2015,2,Eixample,8,40-44,200,135
+2015,2,Eixample,9,40-44,224,175
+2015,2,Eixample,10,40-44,175,133
+2015,3,Sants-Montjuïc,11,40-44,207,194
+2015,3,Sants-Montjuïc,12,40-44,1,2
+2015,3,Sants-Montjuïc,13,40-44,121,95
+2015,3,Sants-Montjuïc,14,40-44,46,32
+2015,3,Sants-Montjuïc,15,40-44,90,76
+2015,3,Sants-Montjuïc,16,40-44,61,59
+2015,3,Sants-Montjuïc,17,40-44,99,104
+2015,3,Sants-Montjuïc,18,40-44,190,166
+2015,4,Les Corts,19,40-44,163,136
+2015,4,Les Corts,20,40-44,110,75
+2015,4,Les Corts,21,40-44,78,39
+2015,5,Sarrià-Sant Gervasi,22,40-44,23,24
+2015,5,Sarrià-Sant Gervasi,23,40-44,132,92
+2015,5,Sarrià-Sant Gervasi,24,40-44,57,45
+2015,5,Sarrià-Sant Gervasi,25,40-44,105,64
+2015,5,Sarrià-Sant Gervasi,26,40-44,180,123
+2015,5,Sarrià-Sant Gervasi,27,40-44,92,59
+2015,6,Gràcia,28,40-44,52,43
+2015,6,Gràcia,29,40-44,26,32
+2015,6,Gràcia,30,40-44,32,41
+2015,6,Gràcia,31,40-44,234,178
+2015,6,Gràcia,32,40-44,102,99
+2015,7,Horta-Guinardó,33,40-44,85,73
+2015,7,Horta-Guinardó,34,40-44,25,26
+2015,7,Horta-Guinardó,35,40-44,137,104
+2015,7,Horta-Guinardó,36,40-44,26,19
+2015,7,Horta-Guinardó,37,40-44,87,75
+2015,7,Horta-Guinardó,38,40-44,29,38
+2015,7,Horta-Guinardó,39,40-44,13,24
+2015,7,Horta-Guinardó,40,40-44,16,8
+2015,7,Horta-Guinardó,41,40-44,20,9
+2015,7,Horta-Guinardó,42,40-44,4,1
+2015,7,Horta-Guinardó,43,40-44,76,69
+2015,8,Nou Barris,44,40-44,98,68
+2015,8,Nou Barris,45,40-44,120,78
+2015,8,Nou Barris,46,40-44,70,51
+2015,8,Nou Barris,47,40-44,7,5
+2015,8,Nou Barris,48,40-44,54,38
+2015,8,Nou Barris,49,40-44,20,11
+2015,8,Nou Barris,50,40-44,60,53
+2015,8,Nou Barris,51,40-44,45,48
+2015,8,Nou Barris,52,40-44,76,82
+2015,8,Nou Barris,53,40-44,37,28
+2015,8,Nou Barris,54,40-44,10,13
+2015,8,Nou Barris,55,40-44,42,56
+2015,8,Nou Barris,56,40-44,4,0
+2015,9,Sant Andreu,57,40-44,62,48
+2015,9,Sant Andreu,58,40-44,10,12
+2015,9,Sant Andreu,59,40-44,67,49
+2015,9,Sant Andreu,60,40-44,166,143
+2015,9,Sant Andreu,61,40-44,97,83
+2015,9,Sant Andreu,62,40-44,46,38
+2015,9,Sant Andreu,63,40-44,78,67
+2015,10,Sant Martí,64,40-44,154,109
+2015,10,Sant Martí,65,40-44,95,85
+2015,10,Sant Martí,66,40-44,68,57
+2015,10,Sant Martí,67,40-44,53,30
+2015,10,Sant Martí,68,40-44,156,125
+2015,10,Sant Martí,69,40-44,78,56
+2015,10,Sant Martí,70,40-44,138,128
+2015,10,Sant Martí,71,40-44,94,55
+2015,10,Sant Martí,72,40-44,77,70
+2015,10,Sant Martí,73,40-44,101,98
+2015,99,No consta,99,40-44,1,0
+2015,1,Ciutat Vella,1,45-49,280,176
+2015,1,Ciutat Vella,2,45-49,96,57
+2015,1,Ciutat Vella,3,45-49,66,30
+2015,1,Ciutat Vella,4,45-49,105,70
+2015,2,Eixample,5,45-49,94,69
+2015,2,Eixample,6,45-49,141,106
+2015,2,Eixample,7,45-49,139,96
+2015,2,Eixample,8,45-49,140,81
+2015,2,Eixample,9,45-49,161,99
+2015,2,Eixample,10,45-49,91,97
+2015,3,Sants-Montjuïc,11,45-49,144,124
+2015,3,Sants-Montjuïc,12,45-49,3,3
+2015,3,Sants-Montjuïc,13,45-49,73,64
+2015,3,Sants-Montjuïc,14,45-49,27,24
+2015,3,Sants-Montjuïc,15,45-49,62,48
+2015,3,Sants-Montjuïc,16,45-49,46,38
+2015,3,Sants-Montjuïc,17,45-49,80,80
+2015,3,Sants-Montjuïc,18,45-49,156,110
+2015,4,Les Corts,19,45-49,114,80
+2015,4,Les Corts,20,45-49,55,44
+2015,4,Les Corts,21,45-49,52,28
+2015,5,Sarrià-Sant Gervasi,22,45-49,28,16
+2015,5,Sarrià-Sant Gervasi,23,45-49,95,42
+2015,5,Sarrià-Sant Gervasi,24,45-49,65,32
+2015,5,Sarrià-Sant Gervasi,25,45-49,74,54
+2015,5,Sarrià-Sant Gervasi,26,45-49,164,73
+2015,5,Sarrià-Sant Gervasi,27,45-49,72,44
+2015,6,Gràcia,28,45-49,31,22
+2015,6,Gràcia,29,45-49,17,12
+2015,6,Gràcia,30,45-49,32,10
+2015,6,Gràcia,31,45-49,141,114
+2015,6,Gràcia,32,45-49,55,43
+2015,7,Horta-Guinardó,33,45-49,62,45
+2015,7,Horta-Guinardó,34,45-49,22,23
+2015,7,Horta-Guinardó,35,45-49,92,76
+2015,7,Horta-Guinardó,36,45-49,13,11
+2015,7,Horta-Guinardó,37,45-49,63,60
+2015,7,Horta-Guinardó,38,45-49,22,16
+2015,7,Horta-Guinardó,39,45-49,19,17
+2015,7,Horta-Guinardó,40,45-49,17,13
+2015,7,Horta-Guinardó,41,45-49,13,9
+2015,7,Horta-Guinardó,42,45-49,2,1
+2015,7,Horta-Guinardó,43,45-49,69,50
+2015,8,Nou Barris,44,45-49,66,42
+2015,8,Nou Barris,45,45-49,70,40
+2015,8,Nou Barris,46,45-49,53,20
+2015,8,Nou Barris,47,45-49,5,4
+2015,8,Nou Barris,48,45-49,24,20
+2015,8,Nou Barris,49,45-49,11,8
+2015,8,Nou Barris,50,45-49,45,43
+2015,8,Nou Barris,51,45-49,27,18
+2015,8,Nou Barris,52,45-49,75,42
+2015,8,Nou Barris,53,45-49,19,13
+2015,8,Nou Barris,54,45-49,6,7
+2015,8,Nou Barris,55,45-49,41,31
+2015,8,Nou Barris,56,45-49,4,1
+2015,9,Sant Andreu,57,45-49,35,26
+2015,9,Sant Andreu,58,45-49,3,6
+2015,9,Sant Andreu,59,45-49,37,36
+2015,9,Sant Andreu,60,45-49,117,86
+2015,9,Sant Andreu,61,45-49,71,52
+2015,9,Sant Andreu,62,45-49,42,33
+2015,9,Sant Andreu,63,45-49,60,40
+2015,10,Sant Martí,64,45-49,98,87
+2015,10,Sant Martí,65,45-49,81,64
+2015,10,Sant Martí,66,45-49,38,30
+2015,10,Sant Martí,67,45-49,37,18
+2015,10,Sant Martí,68,45-49,89,61
+2015,10,Sant Martí,69,45-49,36,38
+2015,10,Sant Martí,70,45-49,103,85
+2015,10,Sant Martí,71,45-49,52,36
+2015,10,Sant Martí,72,45-49,53,32
+2015,10,Sant Martí,73,45-49,63,67
+2015,99,No consta,99,45-49,0,0
+2015,1,Ciutat Vella,1,50-54,162,119
+2015,1,Ciutat Vella,2,50-54,60,35
+2015,1,Ciutat Vella,3,50-54,38,25
+2015,1,Ciutat Vella,4,50-54,71,51
+2015,2,Eixample,5,50-54,71,55
+2015,2,Eixample,6,50-54,118,74
+2015,2,Eixample,7,50-54,114,68
+2015,2,Eixample,8,50-54,116,67
+2015,2,Eixample,9,50-54,128,90
+2015,2,Eixample,10,50-54,76,64
+2015,3,Sants-Montjuïc,11,50-54,91,88
+2015,3,Sants-Montjuïc,12,50-54,4,0
+2015,3,Sants-Montjuïc,13,50-54,60,64
+2015,3,Sants-Montjuïc,14,50-54,31,16
+2015,3,Sants-Montjuïc,15,50-54,35,32
+2015,3,Sants-Montjuïc,16,50-54,38,22
+2015,3,Sants-Montjuïc,17,50-54,70,51
+2015,3,Sants-Montjuïc,18,50-54,87,96
+2015,4,Les Corts,19,50-54,89,60
+2015,4,Les Corts,20,50-54,52,42
+2015,4,Les Corts,21,50-54,53,23
+2015,5,Sarrià-Sant Gervasi,22,50-54,10,2
+2015,5,Sarrià-Sant Gervasi,23,50-54,57,25
+2015,5,Sarrià-Sant Gervasi,24,50-54,37,21
+2015,5,Sarrià-Sant Gervasi,25,50-54,64,56
+2015,5,Sarrià-Sant Gervasi,26,50-54,111,65
+2015,5,Sarrià-Sant Gervasi,27,50-54,71,52
+2015,6,Gràcia,28,50-54,24,21
+2015,6,Gràcia,29,50-54,12,6
+2015,6,Gràcia,30,50-54,15,17
+2015,6,Gràcia,31,50-54,104,78
+2015,6,Gràcia,32,50-54,59,28
+2015,7,Horta-Guinardó,33,50-54,53,29
+2015,7,Horta-Guinardó,34,50-54,19,13
+2015,7,Horta-Guinardó,35,50-54,63,63
+2015,7,Horta-Guinardó,36,50-54,7,10
+2015,7,Horta-Guinardó,37,50-54,64,37
+2015,7,Horta-Guinardó,38,50-54,21,13
+2015,7,Horta-Guinardó,39,50-54,12,11
+2015,7,Horta-Guinardó,40,50-54,11,9
+2015,7,Horta-Guinardó,41,50-54,12,4
+2015,7,Horta-Guinardó,42,50-54,2,2
+2015,7,Horta-Guinardó,43,50-54,42,33
+2015,8,Nou Barris,44,50-54,51,28
+2015,8,Nou Barris,45,50-54,51,36
+2015,8,Nou Barris,46,50-54,36,28
+2015,8,Nou Barris,47,50-54,1,3
+2015,8,Nou Barris,48,50-54,18,15
+2015,8,Nou Barris,49,50-54,6,4
+2015,8,Nou Barris,50,50-54,34,29
+2015,8,Nou Barris,51,50-54,30,21
+2015,8,Nou Barris,52,50-54,55,31
+2015,8,Nou Barris,53,50-54,13,15
+2015,8,Nou Barris,54,50-54,6,3
+2015,8,Nou Barris,55,50-54,27,25
+2015,8,Nou Barris,56,50-54,2,0
+2015,9,Sant Andreu,57,50-54,28,24
+2015,9,Sant Andreu,58,50-54,5,3
+2015,9,Sant Andreu,59,50-54,35,15
+2015,9,Sant Andreu,60,50-54,76,56
+2015,9,Sant Andreu,61,50-54,52,36
+2015,9,Sant Andreu,62,50-54,22,33
+2015,9,Sant Andreu,63,50-54,45,37
+2015,10,Sant Martí,64,50-54,76,64
+2015,10,Sant Martí,65,50-54,51,41
+2015,10,Sant Martí,66,50-54,30,20
+2015,10,Sant Martí,67,50-54,24,16
+2015,10,Sant Martí,68,50-54,51,35
+2015,10,Sant Martí,69,50-54,23,19
+2015,10,Sant Martí,70,50-54,55,54
+2015,10,Sant Martí,71,50-54,31,34
+2015,10,Sant Martí,72,50-54,58,47
+2015,10,Sant Martí,73,50-54,55,46
+2015,99,No consta,99,50-54,0,0
+2015,1,Ciutat Vella,1,55-59,114,79
+2015,1,Ciutat Vella,2,55-59,50,27
+2015,1,Ciutat Vella,3,55-59,23,10
+2015,1,Ciutat Vella,4,55-59,50,38
+2015,2,Eixample,5,55-59,53,40
+2015,2,Eixample,6,55-59,81,63
+2015,2,Eixample,7,55-59,71,53
+2015,2,Eixample,8,55-59,71,65
+2015,2,Eixample,9,55-59,105,63
+2015,2,Eixample,10,55-59,70,44
+2015,3,Sants-Montjuïc,11,55-59,70,60
+2015,3,Sants-Montjuïc,12,55-59,2,2
+2015,3,Sants-Montjuïc,13,55-59,35,28
+2015,3,Sants-Montjuïc,14,55-59,17,14
+2015,3,Sants-Montjuïc,15,55-59,25,16
+2015,3,Sants-Montjuïc,16,55-59,26,16
+2015,3,Sants-Montjuïc,17,55-59,41,37
+2015,3,Sants-Montjuïc,18,55-59,61,64
+2015,4,Les Corts,19,55-59,60,49
+2015,4,Les Corts,20,55-59,36,31
+2015,4,Les Corts,21,55-59,21,12
+2015,5,Sarrià-Sant Gervasi,22,55-59,7,8
+2015,5,Sarrià-Sant Gervasi,23,55-59,38,31
+2015,5,Sarrià-Sant Gervasi,24,55-59,17,22
+2015,5,Sarrià-Sant Gervasi,25,55-59,42,37
+2015,5,Sarrià-Sant Gervasi,26,55-59,81,45
+2015,5,Sarrià-Sant Gervasi,27,55-59,43,26
+2015,6,Gràcia,28,55-59,22,20
+2015,6,Gràcia,29,55-59,11,5
+2015,6,Gràcia,30,55-59,19,16
+2015,6,Gràcia,31,55-59,73,52
+2015,6,Gràcia,32,55-59,46,31
+2015,7,Horta-Guinardó,33,55-59,40,17
+2015,7,Horta-Guinardó,34,55-59,22,6
+2015,7,Horta-Guinardó,35,55-59,61,46
+2015,7,Horta-Guinardó,36,55-59,4,9
+2015,7,Horta-Guinardó,37,55-59,37,23
+2015,7,Horta-Guinardó,38,55-59,10,8
+2015,7,Horta-Guinardó,39,55-59,8,8
+2015,7,Horta-Guinardó,40,55-59,12,7
+2015,7,Horta-Guinardó,41,55-59,4,5
+2015,7,Horta-Guinardó,42,55-59,1,0
+2015,7,Horta-Guinardó,43,55-59,44,16
+2015,8,Nou Barris,44,55-59,49,21
+2015,8,Nou Barris,45,55-59,34,20
+2015,8,Nou Barris,46,55-59,22,18
+2015,8,Nou Barris,47,55-59,4,0
+2015,8,Nou Barris,48,55-59,19,13
+2015,8,Nou Barris,49,55-59,5,4
+2015,8,Nou Barris,50,55-59,21,18
+2015,8,Nou Barris,51,55-59,19,17
+2015,8,Nou Barris,52,55-59,37,25
+2015,8,Nou Barris,53,55-59,16,13
+2015,8,Nou Barris,54,55-59,6,2
+2015,8,Nou Barris,55,55-59,16,9
+2015,8,Nou Barris,56,55-59,1,1
+2015,9,Sant Andreu,57,55-59,19,15
+2015,9,Sant Andreu,58,55-59,7,2
+2015,9,Sant Andreu,59,55-59,17,10
+2015,9,Sant Andreu,60,55-59,64,46
+2015,9,Sant Andreu,61,55-59,34,16
+2015,9,Sant Andreu,62,55-59,14,21
+2015,9,Sant Andreu,63,55-59,25,33
+2015,10,Sant Martí,64,55-59,51,46
+2015,10,Sant Martí,65,55-59,36,26
+2015,10,Sant Martí,66,55-59,22,17
+2015,10,Sant Martí,67,55-59,16,12
+2015,10,Sant Martí,68,55-59,48,34
+2015,10,Sant Martí,69,55-59,15,9
+2015,10,Sant Martí,70,55-59,52,43
+2015,10,Sant Martí,71,55-59,29,23
+2015,10,Sant Martí,72,55-59,36,22
+2015,10,Sant Martí,73,55-59,41,30
+2015,99,No consta,99,55-59,0,2
+2015,1,Ciutat Vella,1,60-64,81,48
+2015,1,Ciutat Vella,2,60-64,33,23
+2015,1,Ciutat Vella,3,60-64,12,23
+2015,1,Ciutat Vella,4,60-64,30,22
+2015,2,Eixample,5,60-64,23,33
+2015,2,Eixample,6,60-64,49,54
+2015,2,Eixample,7,60-64,79,57
+2015,2,Eixample,8,60-64,54,45
+2015,2,Eixample,9,60-64,75,64
+2015,2,Eixample,10,60-64,39,39
+2015,3,Sants-Montjuïc,11,60-64,56,35
+2015,3,Sants-Montjuïc,12,60-64,2,1
+2015,3,Sants-Montjuïc,13,60-64,32,22
+2015,3,Sants-Montjuïc,14,60-64,19,7
+2015,3,Sants-Montjuïc,15,60-64,17,20
+2015,3,Sants-Montjuïc,16,60-64,25,14
+2015,3,Sants-Montjuïc,17,60-64,35,39
+2015,3,Sants-Montjuïc,18,60-64,46,44
+2015,4,Les Corts,19,60-64,40,53
+2015,4,Les Corts,20,60-64,32,36
+2015,4,Les Corts,21,60-64,13,14
+2015,5,Sarrià-Sant Gervasi,22,60-64,4,6
+2015,5,Sarrià-Sant Gervasi,23,60-64,26,26
+2015,5,Sarrià-Sant Gervasi,24,60-64,15,21
+2015,5,Sarrià-Sant Gervasi,25,60-64,27,27
+2015,5,Sarrià-Sant Gervasi,26,60-64,63,60
+2015,5,Sarrià-Sant Gervasi,27,60-64,36,38
+2015,6,Gràcia,28,60-64,14,10
+2015,6,Gràcia,29,60-64,7,8
+2015,6,Gràcia,30,60-64,11,13
+2015,6,Gràcia,31,60-64,63,50
+2015,6,Gràcia,32,60-64,40,27
+2015,7,Horta-Guinardó,33,60-64,32,31
+2015,7,Horta-Guinardó,34,60-64,11,7
+2015,7,Horta-Guinardó,35,60-64,32,20
+2015,7,Horta-Guinardó,36,60-64,5,13
+2015,7,Horta-Guinardó,37,60-64,35,26
+2015,7,Horta-Guinardó,38,60-64,6,9
+2015,7,Horta-Guinardó,39,60-64,7,7
+2015,7,Horta-Guinardó,40,60-64,5,3
+2015,7,Horta-Guinardó,41,60-64,7,4
+2015,7,Horta-Guinardó,42,60-64,0,0
+2015,7,Horta-Guinardó,43,60-64,26,16
+2015,8,Nou Barris,44,60-64,21,23
+2015,8,Nou Barris,45,60-64,24,16
+2015,8,Nou Barris,46,60-64,19,10
+2015,8,Nou Barris,47,60-64,0,1
+2015,8,Nou Barris,48,60-64,14,7
+2015,8,Nou Barris,49,60-64,6,8
+2015,8,Nou Barris,50,60-64,19,14
+2015,8,Nou Barris,51,60-64,15,7
+2015,8,Nou Barris,52,60-64,17,20
+2015,8,Nou Barris,53,60-64,6,5
+2015,8,Nou Barris,54,60-64,4,1
+2015,8,Nou Barris,55,60-64,17,12
+2015,8,Nou Barris,56,60-64,1,0
+2015,9,Sant Andreu,57,60-64,8,6
+2015,9,Sant Andreu,58,60-64,6,5
+2015,9,Sant Andreu,59,60-64,12,15
+2015,9,Sant Andreu,60,60-64,50,48
+2015,9,Sant Andreu,61,60-64,35,22
+2015,9,Sant Andreu,62,60-64,11,15
+2015,9,Sant Andreu,63,60-64,25,18
+2015,10,Sant Martí,64,60-64,49,34
+2015,10,Sant Martí,65,60-64,32,33
+2015,10,Sant Martí,66,60-64,15,14
+2015,10,Sant Martí,67,60-64,10,6
+2015,10,Sant Martí,68,60-64,34,27
+2015,10,Sant Martí,69,60-64,19,12
+2015,10,Sant Martí,70,60-64,18,23
+2015,10,Sant Martí,71,60-64,22,18
+2015,10,Sant Martí,72,60-64,29,16
+2015,10,Sant Martí,73,60-64,31,29
+2015,99,No consta,99,60-64,0,1
+2015,1,Ciutat Vella,1,65-69,51,46
+2015,1,Ciutat Vella,2,65-69,16,14
+2015,1,Ciutat Vella,3,65-69,19,16
+2015,1,Ciutat Vella,4,65-69,20,28
+2015,2,Eixample,5,65-69,30,20
+2015,2,Eixample,6,65-69,57,31
+2015,2,Eixample,7,65-69,60,59
+2015,2,Eixample,8,65-69,42,28
+2015,2,Eixample,9,65-69,71,53
+2015,2,Eixample,10,65-69,28,34
+2015,3,Sants-Montjuïc,11,65-69,20,45
+2015,3,Sants-Montjuïc,12,65-69,0,1
+2015,3,Sants-Montjuïc,13,65-69,26,18
+2015,3,Sants-Montjuïc,14,65-69,7,7
+2015,3,Sants-Montjuïc,15,65-69,22,15
+2015,3,Sants-Montjuïc,16,65-69,17,24
+2015,3,Sants-Montjuïc,17,65-69,24,29
+2015,3,Sants-Montjuïc,18,65-69,35,59
+2015,4,Les Corts,19,65-69,55,36
+2015,4,Les Corts,20,65-69,23,23
+2015,4,Les Corts,21,65-69,15,17
+2015,5,Sarrià-Sant Gervasi,22,65-69,0,8
+2015,5,Sarrià-Sant Gervasi,23,65-69,22,26
+2015,5,Sarrià-Sant Gervasi,24,65-69,15,19
+2015,5,Sarrià-Sant Gervasi,25,65-69,18,31
+2015,5,Sarrià-Sant Gervasi,26,65-69,47,53
+2015,5,Sarrià-Sant Gervasi,27,65-69,21,37
+2015,6,Gràcia,28,65-69,17,12
+2015,6,Gràcia,29,65-69,5,9
+2015,6,Gràcia,30,65-69,19,9
+2015,6,Gràcia,31,65-69,51,50
+2015,6,Gràcia,32,65-69,21,37
+2015,7,Horta-Guinardó,33,65-69,23,30
+2015,7,Horta-Guinardó,34,65-69,9,12
+2015,7,Horta-Guinardó,35,65-69,30,23
+2015,7,Horta-Guinardó,36,65-69,8,7
+2015,7,Horta-Guinardó,37,65-69,16,28
+2015,7,Horta-Guinardó,38,65-69,9,6
+2015,7,Horta-Guinardó,39,65-69,4,7
+2015,7,Horta-Guinardó,40,65-69,2,1
+2015,7,Horta-Guinardó,41,65-69,3,4
+2015,7,Horta-Guinardó,42,65-69,0,1
+2015,7,Horta-Guinardó,43,65-69,8,20
+2015,8,Nou Barris,44,65-69,11,19
+2015,8,Nou Barris,45,65-69,12,16
+2015,8,Nou Barris,46,65-69,11,11
+2015,8,Nou Barris,47,65-69,1,0
+2015,8,Nou Barris,48,65-69,11,21
+2015,8,Nou Barris,49,65-69,7,4
+2015,8,Nou Barris,50,65-69,12,16
+2015,8,Nou Barris,51,65-69,5,5
+2015,8,Nou Barris,52,65-69,15,17
+2015,8,Nou Barris,53,65-69,4,2
+2015,8,Nou Barris,54,65-69,0,1
+2015,8,Nou Barris,55,65-69,6,15
+2015,8,Nou Barris,56,65-69,1,0
+2015,9,Sant Andreu,57,65-69,6,4
+2015,9,Sant Andreu,58,65-69,1,0
+2015,9,Sant Andreu,59,65-69,8,16
+2015,9,Sant Andreu,60,65-69,30,43
+2015,9,Sant Andreu,61,65-69,26,25
+2015,9,Sant Andreu,62,65-69,10,5
+2015,9,Sant Andreu,63,65-69,13,18
+2015,10,Sant Martí,64,65-69,40,33
+2015,10,Sant Martí,65,65-69,26,21
+2015,10,Sant Martí,66,65-69,12,16
+2015,10,Sant Martí,67,65-69,10,5
+2015,10,Sant Martí,68,65-69,25,30
+2015,10,Sant Martí,69,65-69,14,13
+2015,10,Sant Martí,70,65-69,11,15
+2015,10,Sant Martí,71,65-69,20,13
+2015,10,Sant Martí,72,65-69,26,14
+2015,10,Sant Martí,73,65-69,25,22
+2015,99,No consta,99,65-69,0,0
+2015,1,Ciutat Vella,1,70-74,32,28
+2015,1,Ciutat Vella,2,70-74,13,12
+2015,1,Ciutat Vella,3,70-74,8,7
+2015,1,Ciutat Vella,4,70-74,17,15
+2015,2,Eixample,5,70-74,17,16
+2015,2,Eixample,6,70-74,33,23
+2015,2,Eixample,7,70-74,39,37
+2015,2,Eixample,8,70-74,24,23
+2015,2,Eixample,9,70-74,39,27
+2015,2,Eixample,10,70-74,12,21
+2015,3,Sants-Montjuïc,11,70-74,20,23
+2015,3,Sants-Montjuïc,12,70-74,0,0
+2015,3,Sants-Montjuïc,13,70-74,13,17
+2015,3,Sants-Montjuïc,14,70-74,11,5
+2015,3,Sants-Montjuïc,15,70-74,14,11
+2015,3,Sants-Montjuïc,16,70-74,11,10
+2015,3,Sants-Montjuïc,17,70-74,15,25
+2015,3,Sants-Montjuïc,18,70-74,13,35
+2015,4,Les Corts,19,70-74,33,24
+2015,4,Les Corts,20,70-74,24,13
+2015,4,Les Corts,21,70-74,11,10
+2015,5,Sarrià-Sant Gervasi,22,70-74,0,4
+2015,5,Sarrià-Sant Gervasi,23,70-74,10,16
+2015,5,Sarrià-Sant Gervasi,24,70-74,9,17
+2015,5,Sarrià-Sant Gervasi,25,70-74,21,26
+2015,5,Sarrià-Sant Gervasi,26,70-74,38,34
+2015,5,Sarrià-Sant Gervasi,27,70-74,21,14
+2015,6,Gràcia,28,70-74,10,11
+2015,6,Gràcia,29,70-74,5,4
+2015,6,Gràcia,30,70-74,5,7
+2015,6,Gràcia,31,70-74,25,23
+2015,6,Gràcia,32,70-74,25,19
+2015,7,Horta-Guinardó,33,70-74,17,26
+2015,7,Horta-Guinardó,34,70-74,5,7
+2015,7,Horta-Guinardó,35,70-74,20,16
+2015,7,Horta-Guinardó,36,70-74,3,8
+2015,7,Horta-Guinardó,37,70-74,13,27
+2015,7,Horta-Guinardó,38,70-74,6,4
+2015,7,Horta-Guinardó,39,70-74,1,10
+2015,7,Horta-Guinardó,40,70-74,4,2
+2015,7,Horta-Guinardó,41,70-74,2,6
+2015,7,Horta-Guinardó,42,70-74,0,0
+2015,7,Horta-Guinardó,43,70-74,12,6
+2015,8,Nou Barris,44,70-74,7,13
+2015,8,Nou Barris,45,70-74,11,13
+2015,8,Nou Barris,46,70-74,5,3
+2015,8,Nou Barris,47,70-74,0,0
+2015,8,Nou Barris,48,70-74,14,11
+2015,8,Nou Barris,49,70-74,3,2
+2015,8,Nou Barris,50,70-74,10,6
+2015,8,Nou Barris,51,70-74,8,4
+2015,8,Nou Barris,52,70-74,7,21
+2015,8,Nou Barris,53,70-74,1,0
+2015,8,Nou Barris,54,70-74,2,0
+2015,8,Nou Barris,55,70-74,4,4
+2015,8,Nou Barris,56,70-74,0,2
+2015,9,Sant Andreu,57,70-74,2,4
+2015,9,Sant Andreu,58,70-74,2,1
+2015,9,Sant Andreu,59,70-74,4,7
+2015,9,Sant Andreu,60,70-74,31,24
+2015,9,Sant Andreu,61,70-74,15,10
+2015,9,Sant Andreu,62,70-74,6,3
+2015,9,Sant Andreu,63,70-74,14,13
+2015,10,Sant Martí,64,70-74,31,22
+2015,10,Sant Martí,65,70-74,13,15
+2015,10,Sant Martí,66,70-74,4,13
+2015,10,Sant Martí,67,70-74,5,4
+2015,10,Sant Martí,68,70-74,14,9
+2015,10,Sant Martí,69,70-74,9,5
+2015,10,Sant Martí,70,70-74,11,6
+2015,10,Sant Martí,71,70-74,15,7
+2015,10,Sant Martí,72,70-74,11,12
+2015,10,Sant Martí,73,70-74,15,18
+2015,99,No consta,99,70-74,0,0
+2015,1,Ciutat Vella,1,75-79,14,21
+2015,1,Ciutat Vella,2,75-79,10,11
+2015,1,Ciutat Vella,3,75-79,7,9
+2015,1,Ciutat Vella,4,75-79,7,18
+2015,2,Eixample,5,75-79,9,11
+2015,2,Eixample,6,75-79,20,15
+2015,2,Eixample,7,75-79,23,23
+2015,2,Eixample,8,75-79,23,25
+2015,2,Eixample,9,75-79,23,29
+2015,2,Eixample,10,75-79,12,14
+2015,3,Sants-Montjuïc,11,75-79,20,29
+2015,3,Sants-Montjuïc,12,75-79,0,0
+2015,3,Sants-Montjuïc,13,75-79,8,16
+2015,3,Sants-Montjuïc,14,75-79,7,4
+2015,3,Sants-Montjuïc,15,75-79,6,8
+2015,3,Sants-Montjuïc,16,75-79,6,11
+2015,3,Sants-Montjuïc,17,75-79,14,10
+2015,3,Sants-Montjuïc,18,75-79,14,16
+2015,4,Les Corts,19,75-79,21,20
+2015,4,Les Corts,20,75-79,10,11
+2015,4,Les Corts,21,75-79,7,5
+2015,5,Sarrià-Sant Gervasi,22,75-79,3,4
+2015,5,Sarrià-Sant Gervasi,23,75-79,10,11
+2015,5,Sarrià-Sant Gervasi,24,75-79,8,9
+2015,5,Sarrià-Sant Gervasi,25,75-79,14,22
+2015,5,Sarrià-Sant Gervasi,26,75-79,31,22
+2015,5,Sarrià-Sant Gervasi,27,75-79,7,14
+2015,6,Gràcia,28,75-79,5,6
+2015,6,Gràcia,29,75-79,3,0
+2015,6,Gràcia,30,75-79,4,7
+2015,6,Gràcia,31,75-79,9,17
+2015,6,Gràcia,32,75-79,15,9
+2015,7,Horta-Guinardó,33,75-79,10,15
+2015,7,Horta-Guinardó,34,75-79,5,3
+2015,7,Horta-Guinardó,35,75-79,10,14
+2015,7,Horta-Guinardó,36,75-79,3,2
+2015,7,Horta-Guinardó,37,75-79,10,25
+2015,7,Horta-Guinardó,38,75-79,9,7
+2015,7,Horta-Guinardó,39,75-79,4,7
+2015,7,Horta-Guinardó,40,75-79,4,3
+2015,7,Horta-Guinardó,41,75-79,5,4
+2015,7,Horta-Guinardó,42,75-79,0,3
+2015,7,Horta-Guinardó,43,75-79,7,6
+2015,8,Nou Barris,44,75-79,9,11
+2015,8,Nou Barris,45,75-79,7,14
+2015,8,Nou Barris,46,75-79,3,6
+2015,8,Nou Barris,47,75-79,0,3
+2015,8,Nou Barris,48,75-79,5,9
+2015,8,Nou Barris,49,75-79,1,3
+2015,8,Nou Barris,50,75-79,10,5
+2015,8,Nou Barris,51,75-79,4,5
+2015,8,Nou Barris,52,75-79,11,12
+2015,8,Nou Barris,53,75-79,2,2
+2015,8,Nou Barris,54,75-79,1,0
+2015,8,Nou Barris,55,75-79,1,7
+2015,8,Nou Barris,56,75-79,4,0
+2015,9,Sant Andreu,57,75-79,4,4
+2015,9,Sant Andreu,58,75-79,1,3
+2015,9,Sant Andreu,59,75-79,3,8
+2015,9,Sant Andreu,60,75-79,18,22
+2015,9,Sant Andreu,61,75-79,10,13
+2015,9,Sant Andreu,62,75-79,6,2
+2015,9,Sant Andreu,63,75-79,10,7
+2015,10,Sant Martí,64,75-79,16,14
+2015,10,Sant Martí,65,75-79,7,12
+2015,10,Sant Martí,66,75-79,2,7
+2015,10,Sant Martí,67,75-79,2,4
+2015,10,Sant Martí,68,75-79,10,16
+2015,10,Sant Martí,69,75-79,5,3
+2015,10,Sant Martí,70,75-79,3,13
+2015,10,Sant Martí,71,75-79,7,6
+2015,10,Sant Martí,72,75-79,6,14
+2015,10,Sant Martí,73,75-79,4,14
+2015,99,No consta,99,75-79,0,0
+2015,1,Ciutat Vella,1,80-84,13,27
+2015,1,Ciutat Vella,2,80-84,7,9
+2015,1,Ciutat Vella,3,80-84,1,10
+2015,1,Ciutat Vella,4,80-84,9,13
+2015,2,Eixample,5,80-84,5,8
+2015,2,Eixample,6,80-84,21,25
+2015,2,Eixample,7,80-84,19,27
+2015,2,Eixample,8,80-84,20,29
+2015,2,Eixample,9,80-84,31,34
+2015,2,Eixample,10,80-84,15,26
+2015,3,Sants-Montjuïc,11,80-84,14,20
+2015,3,Sants-Montjuïc,12,80-84,0,0
+2015,3,Sants-Montjuïc,13,80-84,6,17
+2015,3,Sants-Montjuïc,14,80-84,4,2
+2015,3,Sants-Montjuïc,15,80-84,6,6
+2015,3,Sants-Montjuïc,16,80-84,6,14
+2015,3,Sants-Montjuïc,17,80-84,5,15
+2015,3,Sants-Montjuïc,18,80-84,16,22
+2015,4,Les Corts,19,80-84,19,22
+2015,4,Les Corts,20,80-84,16,11
+2015,4,Les Corts,21,80-84,3,6
+2015,5,Sarrià-Sant Gervasi,22,80-84,1,2
+2015,5,Sarrià-Sant Gervasi,23,80-84,10,6
+2015,5,Sarrià-Sant Gervasi,24,80-84,5,8
+2015,5,Sarrià-Sant Gervasi,25,80-84,18,23
+2015,5,Sarrià-Sant Gervasi,26,80-84,15,19
+2015,5,Sarrià-Sant Gervasi,27,80-84,9,10
+2015,6,Gràcia,28,80-84,2,6
+2015,6,Gràcia,29,80-84,2,1
+2015,6,Gràcia,30,80-84,3,3
+2015,6,Gràcia,31,80-84,15,26
+2015,6,Gràcia,32,80-84,14,18
+2015,7,Horta-Guinardó,33,80-84,5,16
+2015,7,Horta-Guinardó,34,80-84,4,6
+2015,7,Horta-Guinardó,35,80-84,12,17
+2015,7,Horta-Guinardó,36,80-84,2,3
+2015,7,Horta-Guinardó,37,80-84,8,25
+2015,7,Horta-Guinardó,38,80-84,3,7
+2015,7,Horta-Guinardó,39,80-84,5,8
+2015,7,Horta-Guinardó,40,80-84,2,2
+2015,7,Horta-Guinardó,41,80-84,1,3
+2015,7,Horta-Guinardó,42,80-84,0,1
+2015,7,Horta-Guinardó,43,80-84,14,15
+2015,8,Nou Barris,44,80-84,15,15
+2015,8,Nou Barris,45,80-84,7,17
+2015,8,Nou Barris,46,80-84,5,14
+2015,8,Nou Barris,47,80-84,0,1
+2015,8,Nou Barris,48,80-84,3,8
+2015,8,Nou Barris,49,80-84,3,6
+2015,8,Nou Barris,50,80-84,4,7
+2015,8,Nou Barris,51,80-84,1,10
+2015,8,Nou Barris,52,80-84,9,16
+2015,8,Nou Barris,53,80-84,0,7
+2015,8,Nou Barris,54,80-84,0,0
+2015,8,Nou Barris,55,80-84,4,4
+2015,8,Nou Barris,56,80-84,3,2
+2015,9,Sant Andreu,57,80-84,1,8
+2015,9,Sant Andreu,58,80-84,0,5
+2015,9,Sant Andreu,59,80-84,8,10
+2015,9,Sant Andreu,60,80-84,26,30
+2015,9,Sant Andreu,61,80-84,11,19
+2015,9,Sant Andreu,62,80-84,4,8
+2015,9,Sant Andreu,63,80-84,7,11
+2015,10,Sant Martí,64,80-84,13,15
+2015,10,Sant Martí,65,80-84,2,14
+2015,10,Sant Martí,66,80-84,6,7
+2015,10,Sant Martí,67,80-84,3,3
+2015,10,Sant Martí,68,80-84,9,13
+2015,10,Sant Martí,69,80-84,5,4
+2015,10,Sant Martí,70,80-84,15,15
+2015,10,Sant Martí,71,80-84,9,12
+2015,10,Sant Martí,72,80-84,11,31
+2015,10,Sant Martí,73,80-84,11,19
+2015,99,No consta,99,80-84,0,0
+2015,1,Ciutat Vella,1,85-89,7,17
+2015,1,Ciutat Vella,2,85-89,2,10
+2015,1,Ciutat Vella,3,85-89,2,13
+2015,1,Ciutat Vella,4,85-89,5,18
+2015,2,Eixample,5,85-89,14,13
+2015,2,Eixample,6,85-89,15,20
+2015,2,Eixample,7,85-89,14,21
+2015,2,Eixample,8,85-89,14,22
+2015,2,Eixample,9,85-89,15,25
+2015,2,Eixample,10,85-89,7,22
+2015,3,Sants-Montjuïc,11,85-89,10,41
+2015,3,Sants-Montjuïc,12,85-89,1,0
+2015,3,Sants-Montjuïc,13,85-89,9,15
+2015,3,Sants-Montjuïc,14,85-89,9,4
+2015,3,Sants-Montjuïc,15,85-89,6,6
+2015,3,Sants-Montjuïc,16,85-89,5,10
+2015,3,Sants-Montjuïc,17,85-89,4,16
+2015,3,Sants-Montjuïc,18,85-89,17,21
+2015,4,Les Corts,19,85-89,19,32
+2015,4,Les Corts,20,85-89,9,16
+2015,4,Les Corts,21,85-89,2,4
+2015,5,Sarrià-Sant Gervasi,22,85-89,3,4
+2015,5,Sarrià-Sant Gervasi,23,85-89,14,13
+2015,5,Sarrià-Sant Gervasi,24,85-89,12,4
+2015,5,Sarrià-Sant Gervasi,25,85-89,10,12
+2015,5,Sarrià-Sant Gervasi,26,85-89,9,27
+2015,5,Sarrià-Sant Gervasi,27,85-89,2,6
+2015,6,Gràcia,28,85-89,2,8
+2015,6,Gràcia,29,85-89,5,2
+2015,6,Gràcia,30,85-89,6,6
+2015,6,Gràcia,31,85-89,18,24
+2015,6,Gràcia,32,85-89,13,16
+2015,7,Horta-Guinardó,33,85-89,7,16
+2015,7,Horta-Guinardó,34,85-89,3,5
+2015,7,Horta-Guinardó,35,85-89,12,23
+2015,7,Horta-Guinardó,36,85-89,1,3
+2015,7,Horta-Guinardó,37,85-89,11,15
+2015,7,Horta-Guinardó,38,85-89,3,4
+2015,7,Horta-Guinardó,39,85-89,5,7
+2015,7,Horta-Guinardó,40,85-89,5,3
+2015,7,Horta-Guinardó,41,85-89,0,1
+2015,7,Horta-Guinardó,42,85-89,0,0
+2015,7,Horta-Guinardó,43,85-89,15,17
+2015,8,Nou Barris,44,85-89,11,13
+2015,8,Nou Barris,45,85-89,5,15
+2015,8,Nou Barris,46,85-89,5,13
+2015,8,Nou Barris,47,85-89,0,1
+2015,8,Nou Barris,48,85-89,6,8
+2015,8,Nou Barris,49,85-89,1,5
+2015,8,Nou Barris,50,85-89,3,2
+2015,8,Nou Barris,51,85-89,3,5
+2015,8,Nou Barris,52,85-89,11,18
+2015,8,Nou Barris,53,85-89,1,12
+2015,8,Nou Barris,54,85-89,1,1
+2015,8,Nou Barris,55,85-89,1,3
+2015,8,Nou Barris,56,85-89,3,0
+2015,9,Sant Andreu,57,85-89,1,5
+2015,9,Sant Andreu,58,85-89,0,1
+2015,9,Sant Andreu,59,85-89,2,8
+2015,9,Sant Andreu,60,85-89,20,17
+2015,9,Sant Andreu,61,85-89,10,16
+2015,9,Sant Andreu,62,85-89,4,11
+2015,9,Sant Andreu,63,85-89,3,14
+2015,10,Sant Martí,64,85-89,12,15
+2015,10,Sant Martí,65,85-89,4,12
+2015,10,Sant Martí,66,85-89,5,5
+2015,10,Sant Martí,67,85-89,2,3
+2015,10,Sant Martí,68,85-89,5,18
+2015,10,Sant Martí,69,85-89,7,10
+2015,10,Sant Martí,70,85-89,4,21
+2015,10,Sant Martí,71,85-89,2,7
+2015,10,Sant Martí,72,85-89,8,22
+2015,10,Sant Martí,73,85-89,7,21
+2015,99,No consta,99,85-89,0,1
+2015,1,Ciutat Vella,1,90-94,1,13
+2015,1,Ciutat Vella,2,90-94,1,1
+2015,1,Ciutat Vella,3,90-94,2,4
+2015,1,Ciutat Vella,4,90-94,0,8
+2015,2,Eixample,5,90-94,3,9
+2015,2,Eixample,6,90-94,3,22
+2015,2,Eixample,7,90-94,14,16
+2015,2,Eixample,8,90-94,7,16
+2015,2,Eixample,9,90-94,9,17
+2015,2,Eixample,10,90-94,4,9
+2015,3,Sants-Montjuïc,11,90-94,4,19
+2015,3,Sants-Montjuïc,12,90-94,0,0
+2015,3,Sants-Montjuïc,13,90-94,2,12
+2015,3,Sants-Montjuïc,14,90-94,3,5
+2015,3,Sants-Montjuïc,15,90-94,5,4
+2015,3,Sants-Montjuïc,16,90-94,9,7
+2015,3,Sants-Montjuïc,17,90-94,7,10
+2015,3,Sants-Montjuïc,18,90-94,8,16
+2015,4,Les Corts,19,90-94,5,13
+2015,4,Les Corts,20,90-94,6,8
+2015,4,Les Corts,21,90-94,0,2
+2015,5,Sarrià-Sant Gervasi,22,90-94,0,3
+2015,5,Sarrià-Sant Gervasi,23,90-94,6,7
+2015,5,Sarrià-Sant Gervasi,24,90-94,6,6
+2015,5,Sarrià-Sant Gervasi,25,90-94,2,4
+2015,5,Sarrià-Sant Gervasi,26,90-94,8,8
+2015,5,Sarrià-Sant Gervasi,27,90-94,4,9
+2015,6,Gràcia,28,90-94,2,4
+2015,6,Gràcia,29,90-94,1,0
+2015,6,Gràcia,30,90-94,5,7
+2015,6,Gràcia,31,90-94,8,10
+2015,6,Gràcia,32,90-94,2,11
+2015,7,Horta-Guinardó,33,90-94,7,8
+2015,7,Horta-Guinardó,34,90-94,3,2
+2015,7,Horta-Guinardó,35,90-94,6,16
+2015,7,Horta-Guinardó,36,90-94,2,1
+2015,7,Horta-Guinardó,37,90-94,3,7
+2015,7,Horta-Guinardó,38,90-94,0,2
+2015,7,Horta-Guinardó,39,90-94,2,2
+2015,7,Horta-Guinardó,40,90-94,0,3
+2015,7,Horta-Guinardó,41,90-94,0,2
+2015,7,Horta-Guinardó,42,90-94,0,1
+2015,7,Horta-Guinardó,43,90-94,8,8
+2015,8,Nou Barris,44,90-94,5,8
+2015,8,Nou Barris,45,90-94,5,9
+2015,8,Nou Barris,46,90-94,2,11
+2015,8,Nou Barris,47,90-94,0,1
+2015,8,Nou Barris,48,90-94,3,5
+2015,8,Nou Barris,49,90-94,1,2
+2015,8,Nou Barris,50,90-94,2,2
+2015,8,Nou Barris,51,90-94,1,4
+2015,8,Nou Barris,52,90-94,3,9
+2015,8,Nou Barris,53,90-94,1,2
+2015,8,Nou Barris,54,90-94,0,0
+2015,8,Nou Barris,55,90-94,0,5
+2015,8,Nou Barris,56,90-94,1,0
+2015,9,Sant Andreu,57,90-94,2,3
+2015,9,Sant Andreu,58,90-94,0,2
+2015,9,Sant Andreu,59,90-94,3,4
+2015,9,Sant Andreu,60,90-94,6,18
+2015,9,Sant Andreu,61,90-94,1,7
+2015,9,Sant Andreu,62,90-94,1,7
+2015,9,Sant Andreu,63,90-94,1,7
+2015,10,Sant Martí,64,90-94,1,11
+2015,10,Sant Martí,65,90-94,1,8
+2015,10,Sant Martí,66,90-94,5,9
+2015,10,Sant Martí,67,90-94,0,0
+2015,10,Sant Martí,68,90-94,3,7
+2015,10,Sant Martí,69,90-94,1,3
+2015,10,Sant Martí,70,90-94,2,15
+2015,10,Sant Martí,71,90-94,2,6
+2015,10,Sant Martí,72,90-94,2,13
+2015,10,Sant Martí,73,90-94,5,9
+2015,99,No consta,99,90-94,0,0
+2015,1,Ciutat Vella,1,95-99,0,4
+2015,1,Ciutat Vella,2,95-99,1,1
+2015,1,Ciutat Vella,3,95-99,0,0
+2015,1,Ciutat Vella,4,95-99,0,2
+2015,2,Eixample,5,95-99,0,6
+2015,2,Eixample,6,95-99,4,1
+2015,2,Eixample,7,95-99,2,5
+2015,2,Eixample,8,95-99,2,5
+2015,2,Eixample,9,95-99,0,10
+2015,2,Eixample,10,95-99,3,4
+2015,3,Sants-Montjuïc,11,95-99,0,3
+2015,3,Sants-Montjuïc,12,95-99,0,0
+2015,3,Sants-Montjuïc,13,95-99,1,1
+2015,3,Sants-Montjuïc,14,95-99,0,1
+2015,3,Sants-Montjuïc,15,95-99,1,0
+2015,3,Sants-Montjuïc,16,95-99,1,1
+2015,3,Sants-Montjuïc,17,95-99,2,3
+2015,3,Sants-Montjuïc,18,95-99,1,5
+2015,4,Les Corts,19,95-99,2,2
+2015,4,Les Corts,20,95-99,2,4
+2015,4,Les Corts,21,95-99,0,1
+2015,5,Sarrià-Sant Gervasi,22,95-99,0,0
+2015,5,Sarrià-Sant Gervasi,23,95-99,1,2
+2015,5,Sarrià-Sant Gervasi,24,95-99,1,1
+2015,5,Sarrià-Sant Gervasi,25,95-99,1,0
+2015,5,Sarrià-Sant Gervasi,26,95-99,4,2
+2015,5,Sarrià-Sant Gervasi,27,95-99,1,1
+2015,6,Gràcia,28,95-99,0,0
+2015,6,Gràcia,29,95-99,1,0
+2015,6,Gràcia,30,95-99,1,0
+2015,6,Gràcia,31,95-99,3,2
+2015,6,Gràcia,32,95-99,2,9
+2015,7,Horta-Guinardó,33,95-99,4,1
+2015,7,Horta-Guinardó,34,95-99,0,0
+2015,7,Horta-Guinardó,35,95-99,0,4
+2015,7,Horta-Guinardó,36,95-99,1,1
+2015,7,Horta-Guinardó,37,95-99,0,0
+2015,7,Horta-Guinardó,38,95-99,0,0
+2015,7,Horta-Guinardó,39,95-99,0,0
+2015,7,Horta-Guinardó,40,95-99,0,1
+2015,7,Horta-Guinardó,41,95-99,0,1
+2015,7,Horta-Guinardó,42,95-99,0,0
+2015,7,Horta-Guinardó,43,95-99,1,1
+2015,8,Nou Barris,44,95-99,0,0
+2015,8,Nou Barris,45,95-99,2,5
+2015,8,Nou Barris,46,95-99,0,3
+2015,8,Nou Barris,47,95-99,0,0
+2015,8,Nou Barris,48,95-99,0,1
+2015,8,Nou Barris,49,95-99,0,0
+2015,8,Nou Barris,50,95-99,1,3
+2015,8,Nou Barris,51,95-99,0,1
+2015,8,Nou Barris,52,95-99,0,2
+2015,8,Nou Barris,53,95-99,0,0
+2015,8,Nou Barris,54,95-99,0,0
+2015,8,Nou Barris,55,95-99,0,0
+2015,8,Nou Barris,56,95-99,0,0
+2015,9,Sant Andreu,57,95-99,0,0
+2015,9,Sant Andreu,58,95-99,0,0
+2015,9,Sant Andreu,59,95-99,0,0
+2015,9,Sant Andreu,60,95-99,0,6
+2015,9,Sant Andreu,61,95-99,2,1
+2015,9,Sant Andreu,62,95-99,1,5
+2015,9,Sant Andreu,63,95-99,1,2
+2015,10,Sant Martí,64,95-99,1,2
+2015,10,Sant Martí,65,95-99,1,1
+2015,10,Sant Martí,66,95-99,0,4
+2015,10,Sant Martí,67,95-99,0,0
+2015,10,Sant Martí,68,95-99,0,0
+2015,10,Sant Martí,69,95-99,0,1
+2015,10,Sant Martí,70,95-99,1,0
+2015,10,Sant Martí,71,95-99,0,0
+2015,10,Sant Martí,72,95-99,1,2
+2015,10,Sant Martí,73,95-99,1,2
+2015,99,No consta,99,95-99,0,0
+2015,1,Ciutat Vella,1,>=100,1,1
+2015,1,Ciutat Vella,2,>=100,0,0
+2015,1,Ciutat Vella,3,>=100,0,0
+2015,1,Ciutat Vella,4,>=100,0,0
+2015,2,Eixample,5,>=100,0,2
+2015,2,Eixample,6,>=100,1,1
+2015,2,Eixample,7,>=100,0,1
+2015,2,Eixample,8,>=100,0,1
+2015,2,Eixample,9,>=100,0,0
+2015,2,Eixample,10,>=100,0,0
+2015,3,Sants-Montjuïc,11,>=100,0,0
+2015,3,Sants-Montjuïc,12,>=100,0,0
+2015,3,Sants-Montjuïc,13,>=100,0,0
+2015,3,Sants-Montjuïc,14,>=100,1,0
+2015,3,Sants-Montjuïc,15,>=100,0,0
+2015,3,Sants-Montjuïc,16,>=100,0,0
+2015,3,Sants-Montjuïc,17,>=100,2,0
+2015,3,Sants-Montjuïc,18,>=100,1,0
+2015,4,Les Corts,19,>=100,0,0
+2015,4,Les Corts,20,>=100,1,1
+2015,4,Les Corts,21,>=100,0,0
+2015,5,Sarrià-Sant Gervasi,22,>=100,0,0
+2015,5,Sarrià-Sant Gervasi,23,>=100,0,0
+2015,5,Sarrià-Sant Gervasi,24,>=100,0,0
+2015,5,Sarrià-Sant Gervasi,25,>=100,0,0
+2015,5,Sarrià-Sant Gervasi,26,>=100,0,1
+2015,5,Sarrià-Sant Gervasi,27,>=100,0,0
+2015,6,Gràcia,28,>=100,0,0
+2015,6,Gràcia,29,>=100,0,0
+2015,6,Gràcia,30,>=100,1,0
+2015,6,Gràcia,31,>=100,1,1
+2015,6,Gràcia,32,>=100,0,0
+2015,7,Horta-Guinardó,33,>=100,0,0
+2015,7,Horta-Guinardó,34,>=100,0,0
+2015,7,Horta-Guinardó,35,>=100,0,1
+2015,7,Horta-Guinardó,36,>=100,0,0
+2015,7,Horta-Guinardó,37,>=100,0,0
+2015,7,Horta-Guinardó,38,>=100,0,0
+2015,7,Horta-Guinardó,39,>=100,0,1
+2015,7,Horta-Guinardó,40,>=100,0,0
+2015,7,Horta-Guinardó,41,>=100,0,0
+2015,7,Horta-Guinardó,42,>=100,0,0
+2015,7,Horta-Guinardó,43,>=100,0,0
+2015,8,Nou Barris,44,>=100,0,0
+2015,8,Nou Barris,45,>=100,0,0
+2015,8,Nou Barris,46,>=100,0,0
+2015,8,Nou Barris,47,>=100,0,0
+2015,8,Nou Barris,48,>=100,0,0
+2015,8,Nou Barris,49,>=100,0,0
+2015,8,Nou Barris,50,>=100,0,0
+2015,8,Nou Barris,51,>=100,0,0
+2015,8,Nou Barris,52,>=100,0,1
+2015,8,Nou Barris,53,>=100,0,0
+2015,8,Nou Barris,54,>=100,0,0
+2015,8,Nou Barris,55,>=100,0,0
+2015,8,Nou Barris,56,>=100,0,0
+2015,9,Sant Andreu,57,>=100,0,0
+2015,9,Sant Andreu,58,>=100,0,0
+2015,9,Sant Andreu,59,>=100,0,0
+2015,9,Sant Andreu,60,>=100,0,0
+2015,9,Sant Andreu,61,>=100,0,1
+2015,9,Sant Andreu,62,>=100,1,1
+2015,9,Sant Andreu,63,>=100,0,0
+2015,10,Sant Martí,64,>=100,0,1
+2015,10,Sant Martí,65,>=100,0,0
+2015,10,Sant Martí,66,>=100,0,1
+2015,10,Sant Martí,67,>=100,0,0
+2015,10,Sant Martí,68,>=100,0,0
+2015,10,Sant Martí,69,>=100,0,0
+2015,10,Sant Martí,70,>=100,0,1
+2015,10,Sant Martí,71,>=100,0,0
+2015,10,Sant Martí,72,>=100,0,0
+2015,10,Sant Martí,73,>=100,0,0
+2015,99,No consta,99,>=100,0,0
